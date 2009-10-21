@@ -1,0 +1,18 @@
+{
+	"class" : {
+		"immutable:" : "TestRunner 10/21/2009 11:19",
+		"mutatingSelectors" : "TestRunner 10/21/2009 11:12",
+		"on:" : "TestRunner 10/21/2009 11:15" },
+	"instance" : {
+		"appendTo:" : "TestRunner 10/21/2009 11:40",
+		"at:" : "TestRunner 10/21/2009 11:37",
+		"at:put:" : "TestRunner 10/21/2009 11:37",
+		"checkSelector:" : "TestRunner 10/21/2009 11:40",
+		"doesNotUnderstand:" : "TestRunner 10/21/2009 11:37",
+		"forbiddenSelectors" : "TestRunner 10/21/2009 11:10",
+		"forbiddenSelectors:" : "TestRunner 10/21/2009 11:10",
+		"immutable" : "TestRunner 10/21/2009 11:08",
+		"initialize" : "TestRunner 10/21/2009 11:05",
+		"mutable" : "TestRunner 10/21/2009 11:08",
+		"object" : "TestRunner 10/21/2009 11:05",
+		"object:" : "TestRunner 10/21/2009 11:05" } }

@@ -1,0 +1,15 @@
+{
+	"category" : "CamisAddons",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"object",
+		"forbiddenSelectors" ],
+	"name" : "SelectorFilter",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

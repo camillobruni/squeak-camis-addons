@@ -1,0 +1,3 @@
+accessing
+mutatingSelectors
+	^ #(#object: #forbiddenSelectors:)

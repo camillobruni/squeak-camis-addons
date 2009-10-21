@@ -1,0 +1,8 @@
+{
+	"class" : {
+		"mutatingSelectors" : "TestRunner 10/21/2009 11:39" },
+	"instance" : {
+		"allMethods" : "TestRunner 10/21/2009 10:37",
+		"immutable" : "TestRunner 10/21/2009 11:15",
+		"methods" : "TestRunner 10/21/2009 10:29",
+		"superclass" : "TestRunner 10/21/2009 10:34" } }
