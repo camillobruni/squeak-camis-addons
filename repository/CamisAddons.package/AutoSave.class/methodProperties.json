@@ -1,0 +1,11 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"initialize" : "TestRunner 10/22/2009 16:59",
+		"path" : "TestRunner 10/22/2009 16:42",
+		"path:" : "TestRunner 10/22/2009 16:42",
+		"save" : "TestRunner 10/22/2009 16:46",
+		"saveIntervalMinutes" : "TestRunner 10/22/2009 16:43",
+		"saveIntervalMinutes:" : "TestRunner 10/22/2009 16:43",
+		"saveIntervalled" : "TestRunner 10/22/2009 16:59" } }

@@ -1,0 +1,15 @@
+{
+	"category" : "CamisAddons",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"saveIntervalMinutes",
+		"path" ],
+	"name" : "AutoSave",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

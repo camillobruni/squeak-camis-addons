@@ -1,0 +1,12 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"and:ifFalse:" : "TestRunner 10/22/2009 17:52",
+		"and:ifFalse:ifTrue:" : "TestRunner 10/22/2009 17:53",
+		"and:ifTrue:" : "TestRunner 10/22/2009 17:52",
+		"and:ifTrue:ifFalse:" : "TestRunner 10/22/2009 17:53",
+		"or:ifFalse:" : "TestRunner 10/22/2009 17:54",
+		"or:ifFalse:ifTrue:" : "TestRunner 10/22/2009 17:54",
+		"or:ifTrue:" : "TestRunner 10/22/2009 17:54",
+		"or:ifTrue:ifFalse:" : "TestRunner 10/22/2009 17:54" } }

@@ -1,1 +1,1 @@
-(name 'CamisAddons-TestRunner.1' message 'initial commit' id '896ab4f2-e196-4676-8bd4-133b1cc241d2' date '21 October 2009' time '1:41:22 pm' author 'TestRunner' ancestors () stepChildren ())
+(name 'CamisAddons-TestRunner.2' message 'more binary selectors' id 'e3177b8a-2021-4a01-b0e6-219190655a6b' date '22 October 2009' time '5:56:12 pm' author 'TestRunner' ancestors ((name 'CamisAddons-TestRunner.1' message 'initial commit' id '896ab4f2-e196-4676-8bd4-133b1cc241d2' date '21 October 2009' time '1:41:22 pm' author 'TestRunner' ancestors () stepChildren ())) stepChildren ())
