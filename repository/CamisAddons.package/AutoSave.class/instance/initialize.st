@@ -1,4 +1,4 @@
 initialization
 initialize
-	saveIntervalMinutes := 5.
+	saveIntervalMinutes := 15.
 	path := './save_backup/'
