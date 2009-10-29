@@ -1,0 +1,24 @@
+{
+	"class" : {
+		"default" : "lr 3/28/2009 16:15",
+		"iconHeight" : "dr 9/4/2008 16:16",
+		"iconNamed:" : "dr 9/4/2008 16:35",
+		"iconWidth" : "dr 9/4/2008 16:16",
+		"initialize" : "lr 3/21/2009 19:49" },
+	"instance" : {
+		"announcement" : "lr 7/10/2009 11:17",
+		"arrowDown" : "lr 8/2/2007 10:27",
+		"arrowUp" : "lr 8/2/2007 10:24",
+		"arrowUpAndDown" : "lr 8/2/2007 10:34",
+		"blank" : "lr 3/28/2009 16:04",
+		"breakpoint" : "lr 8/2/2007 19:32",
+		"collection" : "lr 3/29/2009 14:02",
+		"exception" : "lr 3/29/2009 14:10",
+		"flag" : "lr 8/2/2007 19:32",
+		"magnitude" : "lr 3/29/2009 14:19",
+		"morph" : "lr 3/29/2009 14:13",
+		"string" : "lr 3/29/2009 14:19",
+		"testGray" : "lr 3/28/2009 19:01",
+		"testGreen" : "lr 3/28/2009 19:00",
+		"testOrange" : "lr 3/28/2009 18:59",
+		"testRed" : "lr 3/28/2009 18:59" } }

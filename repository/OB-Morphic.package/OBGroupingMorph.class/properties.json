@@ -1,0 +1,14 @@
+{
+	"category" : "OB-Morphic-Morphs",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "OBGroupingMorph",
+	"pools" : [
+		 ],
+	"super" : "RectangleMorph",
+	"type" : "normal" }

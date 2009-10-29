@@ -1,0 +1,18 @@
+{
+	"class" : {
+		"offColor" : "cwp 8/29/2004 13:31",
+		"onColor" : "cwp 8/29/2004 13:30",
+		"withLabel:inBar:" : "cwp 2/24/2004 18:35",
+		"withLabel:inBar:longDescription:" : "dr 3/23/2009 15:29" },
+	"instance" : {
+		"bar:" : "cwp 2/24/2004 18:29",
+		"buildOn:" : "cwp 7/25/2007 23:55",
+		"isEnabled" : "cwp 11/27/2004 19:09",
+		"isSelected" : "cwp 2/24/2004 18:42",
+		"label" : "cwp 3/2/2004 21:46",
+		"label:" : "cwp 2/24/2004 18:29",
+		"labelMorph" : "dr 2/17/2009 15:51",
+		"longDescription" : "dr 3/23/2009 16:02",
+		"longDescription:" : "dr 3/23/2009 15:27",
+		"push" : "cwp 2/24/2004 19:30",
+		"selectionChanged" : "cwp 11/27/2004 00:50" } }

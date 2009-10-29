@@ -1,0 +1,20 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"addButton:" : "cwp 11/2/2004 00:53",
+		"addList:" : "cwp 3/14/2007 23:33",
+		"adjustButton" : "lr 2/12/2009 10:36",
+		"adjustList" : "cwp 3/14/2007 23:26",
+		"bounds:" : "cwp 2/12/2004 18:32",
+		"button" : "cwp 3/14/2007 23:28",
+		"buttonFor:" : "cwp 8/26/2009 23:21",
+		"buttonHeight" : "cwp 11/2/2004 00:57",
+		"defaultButtonHeight" : "lr 7/10/2009 11:05",
+		"hasButton" : "cwp 2/12/2004 18:35",
+		"initGeometry" : "cwp 3/14/2007 23:42",
+		"list" : "cwp 3/14/2007 23:42",
+		"model:" : "lr 3/4/2009 08:17",
+		"noteNewOwner:" : "lr 3/4/2009 09:37",
+		"removeButton" : "lr 2/12/2009 10:36",
+		"update:" : "cwp 5/18/2007 23:09" } }

@@ -1,0 +1,1 @@
+I am an adapted version of LazyListMorph. I can display icons and colors for my elements.

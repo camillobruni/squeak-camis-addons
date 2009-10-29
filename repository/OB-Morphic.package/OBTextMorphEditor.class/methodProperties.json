@@ -1,0 +1,10 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"browseIt" : "alain.plantec 6/18/2008 09:10",
+		"hierarchyOfIt" : "TestRunner 10/29/2009 23:51",
+		"implementorsOfIt" : "lr 2/12/2009 10:35",
+		"referencesToIt" : "lr 2/12/2009 10:35",
+		"send:toModelWith:orDo:" : "alain.plantec 6/18/2008 09:10",
+		"sendersOfIt" : "lr 2/12/2009 10:35" } }

@@ -1,0 +1,16 @@
+{
+	"category" : "OB-Morphic-Morphs",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "cwp 1/7/2005 23:24",
+	"instvars" : [
+		"model",
+		"list",
+		"button" ],
+	"name" : "OBPane",
+	"pools" : [
+		 ],
+	"super" : "RectangleMorph",
+	"type" : "normal" }

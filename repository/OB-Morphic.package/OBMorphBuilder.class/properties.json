@@ -1,0 +1,14 @@
+{
+	"category" : "OB-Morphic-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "OBMorphBuilder",
+	"pools" : [
+		 ],
+	"super" : "OBBuilder",
+	"type" : "normal" }

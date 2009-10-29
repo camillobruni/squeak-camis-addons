@@ -1,0 +1,14 @@
+{
+	"category" : "OB-Morphic-Morphs",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "dr 7/18/2007 14:28",
+	"instvars" : [
+		 ],
+	"name" : "OBLazyListMorph",
+	"pools" : [
+		 ],
+	"super" : "LazyListMorph",
+	"type" : "normal" }

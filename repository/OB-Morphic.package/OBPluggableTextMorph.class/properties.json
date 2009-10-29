@@ -1,0 +1,14 @@
+{
+	"category" : "OB-Morphic-Morphs",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "cwp 12/7/2004 00:04",
+	"instvars" : [
+		 ],
+	"name" : "OBPluggableTextMorph",
+	"pools" : [
+		 ],
+	"super" : "PluggableTextMorph",
+	"type" : "normal" }

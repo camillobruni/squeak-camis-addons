@@ -1,0 +1,3 @@
+testing
+hasButton
+	^ button notNil

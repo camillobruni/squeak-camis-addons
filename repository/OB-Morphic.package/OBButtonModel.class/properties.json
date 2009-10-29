@@ -1,0 +1,16 @@
+{
+	"category" : "OB-Morphic-Morphs",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "cwp 3/5/2004 12:15",
+	"instvars" : [
+		"bar",
+		"label",
+		"longDescription" ],
+	"name" : "OBButtonModel",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

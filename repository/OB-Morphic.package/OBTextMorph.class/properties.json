@@ -1,0 +1,14 @@
+{
+	"category" : "OB-Morphic-Morphs",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "cwp 12/7/2004 00:07",
+	"instvars" : [
+		 ],
+	"name" : "OBTextMorph",
+	"pools" : [
+		 ],
+	"super" : "TextMorphForEditView",
+	"type" : "normal" }

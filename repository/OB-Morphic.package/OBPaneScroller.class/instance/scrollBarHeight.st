@@ -1,0 +1,3 @@
+layout
+scrollBarHeight
+	^ 12

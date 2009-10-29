@@ -1,0 +1,12 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"acceptDroppingMorph:event:inMorph:" : "cwp 7/13/2007 20:59",
+		"dragEnabled" : "avi 2/20/2004 13:45",
+		"dragPassengerFor:inMorph:" : "cwp 7/13/2007 22:39",
+		"dragTransferType" : "avi 2/20/2004 14:37",
+		"dragTransferTypeForMorph:" : "avi 2/20/2004 14:36",
+		"dropEnabled" : "avi 2/20/2004 14:30",
+		"nodeForDropEvent:inMorph:" : "dr 3/3/2008 16:32",
+		"wantsDroppedMorph:event:inMorph:" : "dr 11/18/2008 20:20" } }

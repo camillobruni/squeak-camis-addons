@@ -1,0 +1,15 @@
+{
+	"category" : "OB-Morphic-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"Icons",
+		"Instance" ],
+	"commentStamp" : "lr 7/10/2009 11:12",
+	"instvars" : [
+		 ],
+	"name" : "OBMorphicIcons",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

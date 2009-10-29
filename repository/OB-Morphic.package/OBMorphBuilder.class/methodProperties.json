@@ -1,0 +1,24 @@
+{
+	"class" : {
+		"open:" : "lr 6/20/2007 09:36" },
+	"instance" : {
+		"button:with:" : "cwp 8/26/2009 23:21",
+		"fixedButtonBar:with:" : "lr 7/10/2009 11:05",
+		"horizontalGroupWith:" : "cwp 12/9/2007 11:58",
+		"layoutPanels" : "lr 2/12/2009 10:36",
+		"listMorphForColumn:" : "lr 7/4/2009 16:53",
+		"mercuryMorphFor:" : "dr 10/30/2008 16:22",
+		"pane:with:" : "lr 3/4/2009 08:17",
+		"radioButtonBar:with:" : "lr 3/4/2009 08:17",
+		"scroller:with:" : "lr 3/4/2009 08:17",
+		"shouldUseSpecialLayoutFor:" : "lr 2/12/2009 10:35",
+		"style39" : "cwp 7/23/2007 02:04",
+		"styleButton:" : "cwp 7/21/2007 22:26",
+		"styleButtonBar:" : "cwp 7/21/2007 22:26",
+		"styleHorizontalDivider:" : "cwp 7/23/2007 02:08",
+		"styleVerticalDivider:" : "cwp 7/23/2007 02:08",
+		"textMorphClass" : "cwp 8/26/2009 22:03",
+		"textarea:with:" : "cwp 8/26/2009 14:45",
+		"textfield:with:" : "cwp 8/26/2009 23:21",
+		"verticalGroupWith:" : "cwp 12/9/2007 10:57",
+		"window:with:" : "lr 2/17/2009 17:30" } }

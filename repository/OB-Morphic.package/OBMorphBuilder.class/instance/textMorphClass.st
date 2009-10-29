@@ -1,0 +1,3 @@
+private
+textMorphClass
+	^ OBPluggableTextMorph

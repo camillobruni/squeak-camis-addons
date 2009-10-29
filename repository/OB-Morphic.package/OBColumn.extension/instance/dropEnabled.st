@@ -1,0 +1,3 @@
+*ob-morphic
+dropEnabled
+	^ true

@@ -1,0 +1,14 @@
+{
+	"category" : "OB-Morphic-Morphs",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"model" ],
+	"name" : "OBButtonBar",
+	"pools" : [
+		 ],
+	"super" : "RectangleMorph",
+	"type" : "normal" }

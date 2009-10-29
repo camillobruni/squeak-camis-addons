@@ -1,0 +1,18 @@
+{
+	"category" : "OB-Morphic-Morphs",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "cwp 3/5/2004 12:13",
+	"instvars" : [
+		"model",
+		"sizing",
+		"panes",
+		"transform",
+		"scrollBar" ],
+	"name" : "OBPaneScroller",
+	"pools" : [
+		 ],
+	"super" : "RectangleMorph",
+	"type" : "normal" }

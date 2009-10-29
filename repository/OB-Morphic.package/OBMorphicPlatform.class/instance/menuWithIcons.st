@@ -1,0 +1,3 @@
+preferences
+menuWithIcons
+	^ Preferences menuWithIcons

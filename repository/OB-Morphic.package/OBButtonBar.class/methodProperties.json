@@ -1,0 +1,14 @@
+{
+	"class" : {
+		"on:" : "cwp 3/11/2007 16:39" },
+	"instance" : {
+		"addButtonFor:" : "dc 9/8/2007 15:02",
+		"adoptPaneColor:" : "cwp 3/11/2007 20:55",
+		"buttonFor:" : "cwp 8/26/2009 23:21",
+		"initGeometry" : "cwp 8/26/2009 23:21",
+		"model" : "cwp 3/11/2007 15:56",
+		"model:" : "lr 3/4/2009 08:17",
+		"noteNewOwner:" : "lr 3/4/2009 08:17",
+		"styleWith:" : "cwp 7/21/2007 21:35",
+		"update:" : "cwp 3/11/2007 15:58",
+		"updateCommands" : "cwp 3/11/2007 19:27" } }
