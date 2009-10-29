@@ -1,0 +1,15 @@
+{
+	"category" : "O2-Standard-Filters",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"theClass",
+		"limitClass" ],
+	"name" : "O2LimitProtocolFilter",
+	"pools" : [
+		 ],
+	"super" : "O2Filter",
+	"type" : "normal" }

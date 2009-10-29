@@ -1,0 +1,11 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"execute" : "dr 9/5/2008 11:23",
+		"group" : "cwp 10/9/2006 17:56",
+		"isActive" : "cwp 10/9/2006 15:44",
+		"keystroke" : "cwp 10/9/2006 15:18",
+		"label" : "dr 6/5/2009 16:09",
+		"longDescription" : "dc 8/26/2008 17:40",
+		"wantsButton" : "dr 2/13/2009 17:06" } }

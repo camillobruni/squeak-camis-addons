@@ -1,0 +1,16 @@
+{
+	"class" : {
+		"environment:template:" : "" },
+	"instance" : {
+		"accept:notifying:" : "",
+		"confirmDefinition:" : "",
+		"confirmRedefinition:" : "scg 8/24/2009 10:45",
+		"defineClass:notifying:" : "",
+		"definedClassExists:" : "",
+		"evaluatorForDefinition:" : "",
+		"isRedefinition:" : "",
+		"nameOfClassDefinedBy:" : "",
+		"selectedClass" : "cwp 10/18/2004 00:13",
+		"setEnvironment:template:" : "",
+		"signalSelectionOf:" : "scg 8/24/2009 11:29",
+		"text" : "" } }

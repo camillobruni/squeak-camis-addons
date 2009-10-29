@@ -1,0 +1,23 @@
+{
+	"class" : {
+		"fromSources:andPointer:" : "",
+		"scan:from:" : "PDC 6/29/2007 06:55",
+		"versionsOfMethod:" : "" },
+	"instance" : {
+		"=" : "cwp 10/17/2004 23:45",
+		"category" : "",
+		"classSymbol" : "",
+		"fileIn" : "",
+		"hash" : "cwp 10/17/2004 23:45",
+		"latest" : "cwp 10/17/2004 23:51",
+		"parseChunk:" : "scg 8/24/2009 10:45",
+		"parseSource" : "PDC 6/25/2007 21:58",
+		"pointer" : "cwp 10/17/2004 23:42",
+		"previous" : "dr 12/13/2008 17:37",
+		"selector" : "",
+		"setSelector" : "",
+		"setSources:pointer:" : "",
+		"source" : "",
+		"stamp" : "",
+		"theClass" : "",
+		"theClassName" : "" } }

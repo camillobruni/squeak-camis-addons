@@ -1,0 +1,14 @@
+{
+	"category" : "O2-Standard-Nodes",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "cwp 1/8/2005 12:31",
+	"instvars" : [
+		 ],
+	"name" : "O2AllMethodCategoryNode",
+	"pools" : [
+		 ],
+	"super" : "O2MethodCategoryNode",
+	"type" : "normal" }

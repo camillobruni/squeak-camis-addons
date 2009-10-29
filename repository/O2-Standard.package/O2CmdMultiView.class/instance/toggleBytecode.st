@@ -1,0 +1,3 @@
+utils
+toggleBytecode
+	self setTextInDefinitionPanel: self compiledMethod symbolic

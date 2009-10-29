@@ -1,0 +1,14 @@
+{
+	"category" : "O2-Standard-Commands",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "O2CmdReorgProtocols",
+	"pools" : [
+		 ],
+	"super" : "O2CategoryCommand",
+	"type" : "normal" }

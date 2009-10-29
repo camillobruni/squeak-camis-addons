@@ -1,0 +1,15 @@
+{
+	"category" : "O2-Standard-Utilities",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "cwp 1/8/2005 13:35",
+	"instvars" : [
+		"class",
+		"selector" ],
+	"name" : "O2SystemBrowserAdaptor",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

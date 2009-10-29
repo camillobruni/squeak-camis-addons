@@ -1,0 +1,3 @@
+commands
+cmdRemoveEmptyCats
+	^ O2CmdRemoveEmptyProtocols

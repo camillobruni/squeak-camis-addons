@@ -1,0 +1,21 @@
+{
+	"category" : "O2-Standard-Definitions",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "cwp 1/8/2005 13:20",
+	"instvars" : [
+		"theClass",
+		"category",
+		"source",
+		"selection",
+		"callback",
+		"compileClass",
+		"compileCategory",
+		"compileText" ],
+	"name" : "O2MethodDefinition",
+	"pools" : [
+		 ],
+	"super" : "O2Definition",
+	"type" : "normal" }

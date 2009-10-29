@@ -1,0 +1,16 @@
+{
+	"class" : {
+		"on:" : "cwp 10/31/2004 01:11" },
+	"instance" : {
+		"hasSelector" : "cwp 10/11/2006 20:56",
+		"implementors" : "scg 8/24/2009 10:45",
+		"isAncestorOf:" : "DM 5/23/2007 18:20",
+		"methods" : "scg 8/24/2009 10:45",
+		"name" : "cwp 10/31/2004 01:12",
+		"reference" : "dr 7/18/2007 13:57",
+		"selector" : "cwp 10/31/2004 01:11",
+		"selector:" : "cwp 10/31/2004 01:10",
+		"selectorAndMessages" : "cwp 10/31/2004 01:12",
+		"senders" : "scg 8/24/2009 10:45",
+		"sendersOfMessage" : "scg 8/24/2009 10:45",
+		"unifySelectors" : "cwp 6/2/2009 02:07" } }

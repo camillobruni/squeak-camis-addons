@@ -1,0 +1,22 @@
+{
+	"class" : {
+		"defaultMetaNode" : "scg 8/24/2009 10:45",
+		"defaultRootNode" : "scg 8/24/2009 10:45",
+		"initialize" : "",
+		"onClass:" : "scg 8/24/2009 11:29",
+		"onClass:category:" : "scg 8/24/2009 10:45",
+		"onClass:selector:" : "scg 8/24/2009 10:45",
+		"onEnvironment:category:" : "scg 8/24/2009 10:45",
+		"openOnClass:" : "cwp 12/5/2004 18:32",
+		"openOnClass:category:" : "cwp 12/15/2004 21:47",
+		"openOnClass:selector:" : "dr 9/24/2008 11:57",
+		"openOnEnvironment:category:" : "cwp 12/15/2004 21:54",
+		"registerInOpenMenu" : "",
+		"title" : "dc 4/11/2008 09:21",
+		"unload" : "dr 10/18/2008 10:36" },
+	"instance" : {
+		"defaultBackgroundColor" : "dr 2/14/2009 19:45",
+		"isClassBrowser" : "cwp 4/18/2007 23:49",
+		"showImplementors:" : "cwp 8/26/2007 01:38",
+		"showSenders:" : "cwp 8/23/2007 23:35",
+		"subscribe" : "scg 8/24/2009 10:45" } }

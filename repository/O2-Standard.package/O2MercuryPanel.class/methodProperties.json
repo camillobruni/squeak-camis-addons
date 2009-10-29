@@ -1,0 +1,14 @@
+{
+	"class" : {
+		"initialize" : "dc 5/8/2007 19:49" },
+	"instance" : {
+		"accept:notifying:" : "scg 8/24/2009 10:45",
+		"addTextCommandsToMenu:selection:" : "cwp 4/19/2007 22:30",
+		"buildOn:" : "cwp 8/16/2007 11:40",
+		"environment" : "cwp 7/20/2007 00:33",
+		"helperText" : "dr 2/18/2009 11:24",
+		"notifyMouseEnter" : "dr 2/18/2009 11:23",
+		"selection" : "cwp 2/25/2007 19:44",
+		"string:" : "cwp 3/3/2007 00:28",
+		"text" : "dr 2/18/2009 11:22",
+		"vResizing" : "cwp 3/18/2007 20:54" } }

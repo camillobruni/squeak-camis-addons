@@ -1,0 +1,3 @@
+execution
+execute
+	O2CodeBrowser defaultHierarchyBrowserClass openOnClass: target theClass

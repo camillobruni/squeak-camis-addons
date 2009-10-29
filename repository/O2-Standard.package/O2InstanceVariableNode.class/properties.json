@@ -1,0 +1,14 @@
+{
+	"category" : "O2-Standard-Nodes",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "cwp 1/8/2005 12:50",
+	"instvars" : [
+		 ],
+	"name" : "O2InstanceVariableNode",
+	"pools" : [
+		 ],
+	"super" : "O2VariableNode",
+	"type" : "normal" }

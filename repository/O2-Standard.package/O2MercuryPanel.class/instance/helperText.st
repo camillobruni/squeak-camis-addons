@@ -1,0 +1,3 @@
+configuration
+helperText
+	^'Search...'

@@ -1,0 +1,15 @@
+{
+	"category" : "O2-Standard-Utilities",
+	"classinstvars" : [
+		"soleInstance" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "dc 7/16/2007 15:09",
+	"instvars" : [
+		"classes",
+		"maximumSize" ],
+	"name" : "O2RecentClasses",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "O2-Standard-Browsers",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "O2ReferencesBrowser",
+	"pools" : [
+		 ],
+	"super" : "O2ListBrowser",
+	"type" : "normal" }

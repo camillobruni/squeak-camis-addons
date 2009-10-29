@@ -1,0 +1,3 @@
+updating
+clearChanges
+	changeEvent := nil

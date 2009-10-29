@@ -1,0 +1,3 @@
+accessing
+categoryOrProtocol
+	^ self subclassResponsibility

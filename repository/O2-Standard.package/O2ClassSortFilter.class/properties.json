@@ -1,0 +1,15 @@
+{
+	"category" : "O2-Standard-Filters",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"indents",
+		"order" ],
+	"name" : "O2ClassSortFilter",
+	"pools" : [
+		 ],
+	"super" : "O2Filter",
+	"type" : "normal" }

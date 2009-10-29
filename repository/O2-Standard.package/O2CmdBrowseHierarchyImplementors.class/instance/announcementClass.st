@@ -1,0 +1,3 @@
+configuration
+announcementClass
+	^ O2ShowHierarchyImplementors

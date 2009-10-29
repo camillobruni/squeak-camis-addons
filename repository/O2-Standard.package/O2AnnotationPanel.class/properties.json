@@ -1,0 +1,14 @@
+{
+	"category" : "O2-Standard-Panels",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"text" ],
+	"name" : "O2AnnotationPanel",
+	"pools" : [
+		 ],
+	"super" : "O2TextPanel",
+	"type" : "normal" }

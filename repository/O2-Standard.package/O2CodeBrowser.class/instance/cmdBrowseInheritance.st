@@ -1,0 +1,3 @@
+commands
+cmdBrowseInheritance
+	^ O2CmdBrowseInheritance

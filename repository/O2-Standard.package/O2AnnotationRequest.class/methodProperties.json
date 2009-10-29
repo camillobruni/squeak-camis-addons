@@ -1,0 +1,20 @@
+{
+	"class" : {
+		"onClass:selector:" : "PDC 6/25/2007 22:01" },
+	"instance" : {
+		"allChangeSets" : "lr 11/13/2008 13:44",
+		"annotationRequests" : "dr 9/25/2008 16:39",
+		"documentation" : "dc 5/2/2007 18:57",
+		"firstComment" : "dc 5/2/2007 18:20",
+		"getAnnotations" : "lr 11/13/2008 13:44",
+		"implementorsCount" : "dr 7/4/2009 16:08",
+		"masterComment" : "dc 5/2/2007 18:57",
+		"messageCategory" : "dc 5/2/2007 18:53",
+		"method" : "dc 6/18/2007 18:55",
+		"onClass:selector:" : "MAD 1/14/2009 11:44",
+		"priorTimeStamp" : "dc 5/2/2007 19:00",
+		"priorVersionsCount" : "dc 5/2/2007 18:34",
+		"recentChangeSet" : "dc 5/2/2007 18:37",
+		"sendersCount" : "dc 5/2/2007 18:31",
+		"separator:" : "dc 5/2/2007 18:14",
+		"timeStamp" : "dc 5/2/2007 18:29" } }

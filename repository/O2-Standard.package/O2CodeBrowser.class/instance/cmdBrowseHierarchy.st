@@ -1,0 +1,3 @@
+commands
+cmdBrowseHierarchy
+	^ O2CmdBrowseHierarchy

@@ -1,0 +1,3 @@
+execution
+execute
+	O2ReferencesBrowser browseRoot: target theNonMetaClass asO2Node

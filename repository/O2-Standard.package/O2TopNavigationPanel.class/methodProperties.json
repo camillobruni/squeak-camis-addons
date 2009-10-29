@@ -1,0 +1,11 @@
+{
+	"class" : {
+		"withPanels:" : "dr 2/12/2009 17:05" },
+	"instance" : {
+		"browser:" : "dr 2/17/2009 22:14",
+		"buildOn:" : "cwp 6/2/2009 01:04",
+		"isFixedButton" : "dr 2/17/2009 22:12",
+		"panels" : "dr 2/12/2009 17:14",
+		"setPanels:" : "dr 2/12/2009 17:05",
+		"subscribe" : "dr 2/17/2009 22:13",
+		"vResizing" : "dr 2/12/2009 17:26" } }

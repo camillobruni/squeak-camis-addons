@@ -1,0 +1,17 @@
+{
+	"category" : "O2-Standard-Announcements",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"bid",
+		"action",
+		"fan",
+		"label" ],
+	"name" : "O2Navigate",
+	"pools" : [
+		 ],
+	"super" : "O2Announcement",
+	"type" : "normal" }

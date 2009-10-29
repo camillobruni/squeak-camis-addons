@@ -1,0 +1,3 @@
+commands
+cmdSelectMethodCategory
+	^ O2CmdSelectMethodCategory

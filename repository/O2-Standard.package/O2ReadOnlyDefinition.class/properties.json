@@ -1,0 +1,14 @@
+{
+	"category" : "O2-Standard-Definitions",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"text" ],
+	"name" : "O2ReadOnlyDefinition",
+	"pools" : [
+		 ],
+	"super" : "O2Definition",
+	"type" : "normal" }

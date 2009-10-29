@@ -1,0 +1,14 @@
+{
+	"category" : "O2-Standard-Panels",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"panels" ],
+	"name" : "O2TopNavigationPanel",
+	"pools" : [
+		 ],
+	"super" : "O2Panel",
+	"type" : "normal" }

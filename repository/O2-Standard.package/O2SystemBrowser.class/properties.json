@@ -1,0 +1,14 @@
+{
+	"category" : "O2-Standard-Browsers",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "cwp 1/7/2005 23:56",
+	"instvars" : [
+		 ],
+	"name" : "O2SystemBrowser",
+	"pools" : [
+		 ],
+	"super" : "O2CodeBrowser",
+	"type" : "normal" }

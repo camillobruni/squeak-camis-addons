@@ -1,0 +1,16 @@
+{
+	"category" : "O2-Standard-Browsers",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"theClass",
+		"limitClass",
+		"filter" ],
+	"name" : "O2ProtocolBrowser",
+	"pools" : [
+		 ],
+	"super" : "O2CodeBrowser",
+	"type" : "normal" }

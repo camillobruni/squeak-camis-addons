@@ -1,0 +1,14 @@
+{
+	"category" : "O2-Standard-Nodes",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "O2ClassRefSearchNode",
+	"pools" : [
+		 ],
+	"super" : "O2SearchNode",
+	"type" : "normal" }

@@ -1,0 +1,3 @@
+commands
+cmdBrowseHierarchySenders
+	^ O2CmdBrowseHierarchySenders

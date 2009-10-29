@@ -1,0 +1,14 @@
+{
+	"category" : "O2-Standard-Nodes",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "cwp 1/8/2005 11:23",
+	"instvars" : [
+		"theClass" ],
+	"name" : "O2ClassAwareNode",
+	"pools" : [
+		 ],
+	"super" : "O2CodeNode",
+	"type" : "normal" }

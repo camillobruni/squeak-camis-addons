@@ -1,0 +1,14 @@
+{
+	"category" : "O2-Standard-Definitions",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "cwp 1/8/2005 13:31",
+	"instvars" : [
+		"organizer" ],
+	"name" : "O2OrganizationDefinition",
+	"pools" : [
+		 ],
+	"super" : "O2Definition",
+	"type" : "normal" }

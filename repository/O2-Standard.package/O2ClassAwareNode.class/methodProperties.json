@@ -1,0 +1,16 @@
+{
+	"class" : {
+		"on:" : "PDC 6/26/2007 21:41",
+		"sortHierarchicallyOptimized:" : "dr 10/24/2008 18:55" },
+	"instance" : {
+		"allCategories" : "scg 8/24/2009 10:45",
+		"browse" : "scg 8/24/2009 10:45",
+		"classNode" : "scg 8/24/2009 11:29",
+		"isDescendantOfClass:" : "",
+		"isDescendantOfClassCat:" : "dr 9/18/2008 10:17",
+		"theClass" : "",
+		"theClass:" : "",
+		"theClassName" : "",
+		"theMetaClass" : "",
+		"theNonMetaClass" : "",
+		"theNonMetaClassName" : "" } }

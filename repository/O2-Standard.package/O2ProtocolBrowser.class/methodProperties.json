@@ -1,0 +1,16 @@
+{
+	"class" : {
+		"defaultMetaNode" : "scg 8/24/2009 10:45",
+		"on:" : "DM 5/20/2007 15:31",
+		"paneCount" : "DM 5/20/2007 02:32" },
+	"instance" : {
+		"cmdFilterProtocol" : "scg 8/24/2009 10:45",
+		"defaultBackgroundColor" : "dr 2/14/2009 19:45",
+		"defaultLabel" : "DM 5/20/2007 15:33",
+		"defaultLimitClass" : "DM 5/22/2007 18:41",
+		"limitClass" : "DM 5/22/2007 18:42",
+		"limitClass:" : "DM 5/31/2007 14:55",
+		"refresh:" : "DM 5/31/2007 14:54",
+		"setMetaNode:node:" : "scg 8/24/2009 10:45",
+		"subscribe" : "scg 8/24/2009 10:45",
+		"theClass" : "DM 5/23/2007 15:25" } }

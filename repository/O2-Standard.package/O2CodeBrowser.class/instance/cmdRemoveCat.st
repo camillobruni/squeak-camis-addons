@@ -1,0 +1,3 @@
+commands
+cmdRemoveCat
+	^ O2CmdRemoveCategoryOrProtocol subclasses

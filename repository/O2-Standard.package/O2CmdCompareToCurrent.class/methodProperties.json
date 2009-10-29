@@ -1,0 +1,11 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"buttonLabel" : "dr 12/16/2008 10:28",
+		"execute" : "scg 8/24/2009 10:45",
+		"isActive" : "scg 8/24/2009 10:45",
+		"keystroke" : "dr 12/16/2008 10:28",
+		"label" : "dr 12/16/2008 10:29",
+		"longDescription" : "dr 12/16/2008 10:29",
+		"wantsButton" : "scg 8/24/2009 10:45" } }

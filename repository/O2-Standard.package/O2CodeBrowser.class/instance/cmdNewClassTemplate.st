@@ -1,0 +1,3 @@
+commands
+cmdNewClassTemplate
+	^ O2CmdNewClassTemplate

@@ -1,0 +1,14 @@
+{
+	"category" : "O2-Standard-Utilities",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "PDC 6/29/2007 07:13",
+	"instvars" : [
+		 ],
+	"name" : "O2MClassRefsQuery",
+	"pools" : [
+		 ],
+	"super" : "O2MercuryQuery",
+	"type" : "normal" }

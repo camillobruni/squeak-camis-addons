@@ -1,0 +1,16 @@
+{
+	"category" : "O2-Standard-Utilities",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"metaNodes",
+		"selectors",
+		"root" ],
+	"name" : "O2MetagraphBuilder",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

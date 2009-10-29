@@ -1,0 +1,3 @@
+commands
+cmdAutoCategorizeCat
+	^ O2CmdAutoCategorize

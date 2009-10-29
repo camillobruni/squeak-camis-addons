@@ -1,0 +1,16 @@
+{
+	"category" : "O2-Standard-Nodes",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "cwp 1/8/2005 12:40",
+	"instvars" : [
+		"message",
+		"longList",
+		"isLongList" ],
+	"name" : "O2MessageNode",
+	"pools" : [
+		 ],
+	"super" : "O2MethodNode",
+	"type" : "normal" }

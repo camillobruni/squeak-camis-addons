@@ -1,0 +1,3 @@
+commands
+cmdRenameCat
+	^ O2CmdRenameCategoryOrProtocol allSubclasses

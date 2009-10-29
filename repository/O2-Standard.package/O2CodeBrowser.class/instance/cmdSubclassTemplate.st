@@ -1,0 +1,3 @@
+commands
+cmdSubclassTemplate
+	^ O2CmdSubclassTemplate

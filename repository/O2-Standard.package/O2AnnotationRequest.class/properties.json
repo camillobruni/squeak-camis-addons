@@ -1,0 +1,16 @@
+{
+	"category" : "O2-Standard-Utilities",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"selector",
+		"class",
+		"separator" ],
+	"name" : "O2AnnotationRequest",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
