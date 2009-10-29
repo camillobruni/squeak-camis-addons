@@ -1,0 +1,16 @@
+{
+	"class" : {
+		"inColumn:" : "cwp 5/17/2007 23:47" },
+	"instance" : {
+		"buildOn:" : "dr 10/21/2008 13:34",
+		"currentNode:" : "cwp 7/14/2007 10:18",
+		"filter" : "cwp 5/18/2007 00:06",
+		"filter:" : "lr 3/21/2009 20:02",
+		"isActive" : "cwp 5/17/2007 21:41",
+		"isEnabled:" : "dr 7/19/2007 15:17",
+		"list" : "lr 3/4/2009 08:31",
+		"longDescriptions" : "dkh 3/21/2009 13:49",
+		"refresh" : "cwp 5/18/2007 21:45",
+		"selection" : "lr 3/4/2009 08:31",
+		"selection:" : "lr 3/21/2009 20:02",
+		"setColumn:filter:" : "lr 7/3/2009 22:27" } }

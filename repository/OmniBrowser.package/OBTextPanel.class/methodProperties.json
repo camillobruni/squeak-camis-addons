@@ -1,0 +1,13 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"addEditingItemsToMenu:shifted:" : "lr 7/3/2009 22:27",
+		"addMoreToMenu:" : "cwp 4/19/2007 21:35",
+		"addTextCommandsToMenu:selection:" : "lr 7/3/2009 22:27",
+		"allowsEditing" : "cwp 12/26/2007 09:30",
+		"isEditable" : "cwp 12/26/2007 13:35",
+		"menu:shifted:selection:" : "dr 10/20/2008 16:44",
+		"perform:orSendTo:" : "lr 7/3/2009 22:27",
+		"shiftedYellowButtonMenu" : "cwp 7/1/2007 16:56",
+		"yellowButtonMenu" : "TestRunner 10/29/2009 23:57" } }

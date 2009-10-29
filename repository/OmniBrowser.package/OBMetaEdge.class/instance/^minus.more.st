@@ -1,0 +1,3 @@
+accessing
+-> aNode 
+	metaNode := aNode

@@ -1,0 +1,3 @@
+callbacks
+labelString
+	^ self defaultLabel

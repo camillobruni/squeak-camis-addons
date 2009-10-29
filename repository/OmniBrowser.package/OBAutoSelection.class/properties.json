@@ -1,0 +1,15 @@
+{
+	"category" : "OmniBrowser-Kernel",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "dr 1/28/2009 14:52",
+	"instvars" : [
+		"fan",
+		"metaNode" ],
+	"name" : "OBAutoSelection",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
