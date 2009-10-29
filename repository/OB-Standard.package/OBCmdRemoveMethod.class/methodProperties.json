@@ -1,0 +1,12 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"browseSenders" : "cwp 12/9/2006 20:37",
+		"doRemove" : "cwp 6/11/2009 15:27",
+		"execute" : "lr 3/4/2009 08:17",
+		"icon" : "lr 6/9/2007 09:59",
+		"isActive" : "dr 9/30/2008 11:27",
+		"keystroke" : "cwp 12/8/2006 23:18",
+		"label" : "dr 7/3/2008 17:13",
+		"removeAndBrowse" : "cwp 12/9/2006 20:37" } }

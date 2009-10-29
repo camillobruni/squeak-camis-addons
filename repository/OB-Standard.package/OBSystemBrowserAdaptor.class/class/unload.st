@@ -1,0 +1,3 @@
+initializing
+unload
+    	self unregister

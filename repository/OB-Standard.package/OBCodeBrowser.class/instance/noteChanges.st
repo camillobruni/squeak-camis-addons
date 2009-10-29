@@ -1,0 +1,3 @@
+updating
+noteChanges
+	hasChanges := true

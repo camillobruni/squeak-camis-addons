@@ -1,0 +1,28 @@
+{
+	"class" : {
+		"actionsForParent:" : "cwp 9/18/2004 22:58",
+		"on:" : "PDC 6/26/2007 21:47",
+		"on:inClass:" : "" },
+	"instance" : {
+		"=" : "PDC 6/25/2007 22:42",
+		"allMethods" : "lr 2/17/2009 20:49",
+		"ancestrySelector" : "",
+		"browse" : "dr 2/15/2008 15:37",
+		"category" : "",
+		"container" : "",
+		"definition" : "",
+		"dropOnClass:" : "lr 4/6/2006 11:46",
+		"dropSelector" : "",
+		"fileOut" : "",
+		"hash" : "cwp 7/6/2007 00:02",
+		"isCategoryNode" : "dr 10/30/2008 10:23",
+		"isDescendantOfMethodCat:" : "",
+		"isMethodCategoryNode" : "dr 10/30/2008 09:49",
+		"methodReferences" : "cwp 9/14/2005 09:06",
+		"methods" : "dvf 8/19/2005 17:16",
+		"name" : "dr 7/18/2007 11:51",
+		"printOn:" : "dvf 8/16/2005 17:47",
+		"remove" : "cwp 9/19/2004 00:11",
+		"renameTo:" : "cwp 6/11/2009 16:59",
+		"setName:" : "dr 2/4/2009 20:55",
+		"setName:class:" : "" } }

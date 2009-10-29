@@ -1,0 +1,3 @@
+actions
+browseHierarchy
+	OBHierarchyBrowser openOnClass: self theClass

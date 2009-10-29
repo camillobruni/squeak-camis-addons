@@ -1,0 +1,15 @@
+{
+	"class" : {
+		"on:" : "PDC 6/26/2007 21:40" },
+	"instance" : {
+		"annotationString" : "lr 5/2/2007 17:30",
+		"hasOrganization" : "cwp 6/30/2006 00:37",
+		"hasSelector" : "cwp 10/11/2006 20:47",
+		"hasVersions" : "cwp 10/9/2006 18:12",
+		"isCategoryNode" : "cwp 8/20/2009 22:39",
+		"isClassCategoryNode" : "cwp 8/22/2009 11:17",
+		"isClassCommentNode" : "cwp 8/22/2009 11:17",
+		"isClassNode" : "cwp 8/21/2009 11:23",
+		"isEnvironmentNode" : "cwp 8/21/2009 11:23",
+		"isMethodCategoryNode" : "cwp 8/22/2009 11:17",
+		"isMethodNode" : "cwp 8/22/2009 11:18" } }

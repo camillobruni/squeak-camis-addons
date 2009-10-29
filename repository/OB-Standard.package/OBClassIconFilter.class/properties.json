@@ -1,0 +1,14 @@
+{
+	"category" : "OB-Standard-Filters",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "OBClassIconFilter",
+	"pools" : [
+		 ],
+	"super" : "OBFilter",
+	"type" : "normal" }

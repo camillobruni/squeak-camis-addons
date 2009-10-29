@@ -1,0 +1,3 @@
+configuration
+chasingBrowsers
+	^ Preferences chasingBrowsers

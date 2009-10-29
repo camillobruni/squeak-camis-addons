@@ -1,0 +1,13 @@
+{
+	"class" : {
+		"defaultMetaNode" : "cwp 5/19/2007 23:33",
+		"defaultRootNode" : "cwp 4/1/2007 22:56",
+		"initialize" : "cwp 4/16/2007 00:17",
+		"mercuryPanel" : "lr 2/17/2009 20:55",
+		"registerInOpenMenu" : "cwp 4/16/2007 00:16",
+		"title" : "cwp 4/16/2007 00:18",
+		"unload" : "dr 10/18/2008 10:36",
+		"with:" : "cwp 4/15/2007 23:20" },
+	"instance" : {
+		"defaultBackgroundColor" : "cwp 4/1/2007 23:01",
+		"isSearchBrowser" : "cwp 4/15/2007 22:28" } }

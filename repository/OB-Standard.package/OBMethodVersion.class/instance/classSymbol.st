@@ -1,0 +1,3 @@
+accessing
+classSymbol
+	^ classRef name

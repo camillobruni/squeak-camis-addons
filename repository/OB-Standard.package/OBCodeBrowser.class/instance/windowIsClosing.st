@@ -1,0 +1,3 @@
+morphic
+windowIsClosing
+	self unregister

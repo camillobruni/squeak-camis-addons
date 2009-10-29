@@ -1,0 +1,14 @@
+{
+	"class" : {
+		"fromMethodNode:" : "",
+		"on:inMethod:inClass:" : "",
+		"on:inMethodNode:" : "",
+		"on:inMethodReference:" : "lr 2/12/2009 10:39" },
+	"instance" : {
+		"asMethodNode" : "cwp 8/22/2007 23:56",
+		"implementors" : "",
+		"name" : "cwp 12/8/2004 21:26",
+		"selection" : "cwp 7/18/2007 19:31",
+		"sendersOfMessage" : "",
+		"setMessage:selector:class:" : "",
+		"unifySelectors" : "alog 2/25/2008 03:49" } }

@@ -1,0 +1,19 @@
+{
+	"class" : {
+		"browserClass" : "dr 7/19/2007 16:34",
+		"fullOnClass:selector:" : "dr 7/19/2007 16:34",
+		"initialize" : "cwp 12/5/2004 22:01",
+		"nameForViewer" : "cwp 9/28/2009 09:21",
+		"open" : "dr 7/19/2007 16:35",
+		"openBrowser" : "dr 7/19/2007 16:35",
+		"openBrowserView:label:" : "dr 7/19/2007 16:35",
+		"register" : "cwp 1/8/2005 21:52",
+		"unload" : "cwp 9/28/2009 01:25",
+		"unregister" : "cwp 1/8/2005 21:53" },
+	"instance" : {
+		"labelString" : "cwp 12/5/2004 21:50",
+		"openEditString:" : "cwp 12/5/2004 21:49",
+		"selector" : "cwp 12/5/2004 21:55",
+		"setClass:selector:" : "cwp 12/5/2004 21:49",
+		"spawnHierarchy" : "dc 4/24/2007 15:09",
+		"targetClass" : "dr 4/24/2007 18:05" } }
