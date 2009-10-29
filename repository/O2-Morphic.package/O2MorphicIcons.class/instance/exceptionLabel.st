@@ -1,0 +1,3 @@
+icons
+exceptionLabel
+	^'Exception class'

@@ -1,0 +1,16 @@
+{
+	"category" : "O2-Morphic-Morphs",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "cwp 3/5/2004 12:15",
+	"instvars" : [
+		"bar",
+		"label",
+		"longDescription" ],
+	"name" : "O2ButtonModel",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

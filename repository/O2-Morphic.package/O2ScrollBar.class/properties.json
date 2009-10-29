@@ -1,0 +1,26 @@
+{
+	"category" : "O2-Morphic-Morphs",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"CachedImages",
+		"UpArrow",
+		"UpArrow8Bit" ],
+	"commentStamp" : "cwp 3/5/2004 12:01",
+	"instvars" : [
+		"upButton",
+		"downButton",
+		"pagingArea",
+		"scrollDelta",
+		"pageDelta",
+		"interval",
+		"menuSelector",
+		"timeOfMouseDown",
+		"timeOfLastScroll",
+		"nextPageDirection",
+		"currentScrollDelay" ],
+	"name" : "O2ScrollBar",
+	"pools" : [
+		 ],
+	"super" : "Slider",
+	"type" : "normal" }

@@ -1,0 +1,18 @@
+{
+	"category" : "O2-Morphic-Morphs",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "cwp 3/5/2004 12:13",
+	"instvars" : [
+		"model",
+		"sizing",
+		"panes",
+		"transform",
+		"scrollBar" ],
+	"name" : "O2PaneScroller",
+	"pools" : [
+		 ],
+	"super" : "RectangleMorph",
+	"type" : "normal" }

@@ -1,0 +1,15 @@
+{
+	"category" : "O2-Morphic-Morphs",
+	"classinstvars" : [
+		"handPoint" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "dr 7/18/2007 14:28",
+	"instvars" : [
+		"handPoint",
+		"balloonShown" ],
+	"name" : "O2LazyListMorph",
+	"pools" : [
+		 ],
+	"super" : "LazyListMorph",
+	"type" : "normal" }

@@ -1,0 +1,20 @@
+{
+	"class" : {
+		"on:text:accept:readSelection:menu:" : "tween 4/24/2007 16:28" },
+	"instance" : {
+		"acceptTextInModel" : "tween 3/15/2007 14:00",
+		"classOrMetaClass:" : "tween 3/15/2007 14:00",
+		"correctFrom:to:with:" : "tween 3/15/2007 14:00",
+		"environment:" : "tween 3/15/2007 14:00",
+		"font:" : "tween 3/15/2007 14:00",
+		"hasUnacceptedEdits:" : "tween 3/15/2007 14:01",
+		"okToStyle" : "tween 3/15/2007 14:01",
+		"privateSetText:" : "tween 3/15/2007 14:14",
+		"setText:" : "tween 3/15/2007 14:14",
+		"sourceMap:" : "tween 3/15/2007 14:01",
+		"styler" : "tween 3/15/2007 14:01",
+		"styler:" : "tween 3/15/2007 14:02",
+		"stylerStyled:" : "tween 11/16/2007 07:17",
+		"stylerStyledInBackground:" : "tween 3/15/2007 14:02",
+		"textMorphClass" : "scg 8/24/2009 10:45",
+		"workspace:" : "tween 3/15/2007 14:02" } }

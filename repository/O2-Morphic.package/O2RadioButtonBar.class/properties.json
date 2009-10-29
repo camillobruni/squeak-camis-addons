@@ -1,0 +1,19 @@
+{
+	"category" : "O2-Morphic-Morphs",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "cwp 1/7/2005 23:27",
+	"instvars" : [
+		"model",
+		"buttons",
+		"getListSelector",
+		"selection",
+		"getSelectionSelector",
+		"setSelectionSelector" ],
+	"name" : "O2RadioButtonBar",
+	"pools" : [
+		 ],
+	"super" : "RectangleMorph",
+	"type" : "normal" }

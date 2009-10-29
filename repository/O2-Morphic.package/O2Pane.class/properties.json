@@ -1,0 +1,16 @@
+{
+	"category" : "O2-Morphic-Morphs",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "cwp 1/7/2005 23:24",
+	"instvars" : [
+		"model",
+		"list",
+		"button" ],
+	"name" : "O2Pane",
+	"pools" : [
+		 ],
+	"super" : "RectangleMorph",
+	"type" : "normal" }

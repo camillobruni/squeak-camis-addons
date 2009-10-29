@@ -1,0 +1,18 @@
+{
+	"class" : {
+		"default" : "cwp 6/1/2007 16:10" },
+	"instance" : {
+		"enableGently:" : "cwp 7/1/2007 17:07",
+		"handleBrowseRequest:" : "scg 8/24/2009 10:45",
+		"handleChoiceRequest:" : "dc 9/18/2007 10:48",
+		"handleCloseRequest:" : "avi 12/5/2007 13:20",
+		"handleConfirmationRequest:" : "dc 9/18/2007 15:57",
+		"handleDirectoryRequest:" : "dkh 1/14/2008 12:20",
+		"handleInformRequest:" : "dc 7/22/2007 20:32",
+		"handleMultiLineTextRequest:" : "dkh 12/22/2008 12:25",
+		"handleMultipleChoiceRequest:" : "lr 4/5/2008 13:02",
+		"handleTextRequest:" : "DamienCassou 9/29/2009 13:03",
+		"handleWaitRequest:" : "lr 5/14/2008 15:42",
+		"menuWithIcons" : "cwp 7/1/2007 16:46",
+		"optionalButtons" : "cwp 7/1/2007 16:41",
+		"setPreference:toValue:" : "cwp 7/1/2007 17:09" } }

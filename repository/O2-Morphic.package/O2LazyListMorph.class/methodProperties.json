@@ -1,0 +1,18 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"adjustHeight" : "dr 2/2/2009 15:05",
+		"balloonText" : "dr 9/1/2008 17:16",
+		"boundsForBalloon" : "dr 9/2/2008 11:00",
+		"colorForRow:" : "dr 12/9/2008 20:22",
+		"display:atRow:on:" : "scg 8/24/2009 10:45",
+		"drawBoundsForRow:" : "alain.plantec 1/29/2009 21:31",
+		"handleMouseDown:" : "scg 8/24/2009 10:45",
+		"handleMouseMove:" : "dr 9/2/2008 14:44",
+		"handlesMouseDown:" : "dr 9/4/2008 16:10",
+		"handlesMouseOver:" : "dr 9/1/2008 11:59",
+		"listItemHeight" : "dr 2/2/2009 15:05",
+		"rectForRow:" : "alain.plantec 1/29/2009 21:31",
+		"rowAtLocation:" : "alain.plantec 1/29/2009 21:31",
+		"showBalloon:hand:" : "scg 8/24/2009 10:45" } }

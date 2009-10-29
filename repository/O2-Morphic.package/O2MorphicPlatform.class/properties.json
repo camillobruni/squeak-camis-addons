@@ -1,0 +1,14 @@
+{
+	"category" : "O2-Morphic-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "O2MorphicPlatform",
+	"pools" : [
+		 ],
+	"super" : "O2Platform",
+	"type" : "normal" }

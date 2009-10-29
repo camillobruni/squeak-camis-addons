@@ -1,0 +1,14 @@
+{
+	"category" : "O2-Morphic-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"color" ],
+	"name" : "O2MorphBuilder",
+	"pools" : [
+		 ],
+	"super" : "O2Builder",
+	"type" : "normal" }

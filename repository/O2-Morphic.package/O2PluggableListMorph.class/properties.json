@@ -1,0 +1,14 @@
+{
+	"category" : "O2-Morphic-Morphs",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "dr 7/18/2007 14:27",
+	"instvars" : [
+		 ],
+	"name" : "O2PluggableListMorph",
+	"pools" : [
+		 ],
+	"super" : "PluggableListMorph",
+	"type" : "normal" }

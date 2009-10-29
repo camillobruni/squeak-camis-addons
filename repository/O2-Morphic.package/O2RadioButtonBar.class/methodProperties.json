@@ -1,0 +1,27 @@
+{
+	"class" : {
+		"on:list:selected:changeSelected:" : "cwp 2/22/2004 16:44" },
+	"instance" : {
+		"adoptPaneColor:" : "dr 2/12/2009 11:04",
+		"browser" : "dr 7/11/2009 23:21",
+		"getLabels" : "dr 10/21/2008 13:19",
+		"getLongDescriptions" : "dr 3/23/2009 15:30",
+		"getSelectionIndex" : "cwp 2/24/2004 18:53",
+		"initGeometry" : "scg 8/24/2009 10:45",
+		"isDropEdge:" : "dr 7/7/2009 14:29",
+		"isEnabled:" : "dr 7/19/2007 15:17",
+		"isSelected:" : "cwp 2/24/2004 18:54",
+		"list" : "scg 8/24/2009 10:45",
+		"model:" : "cwp 3/11/2007 15:33",
+		"noteNewOwner:" : "dr 2/20/2009 15:44",
+		"on:list:selected:changeSelected:" : "cwp 2/25/2004 00:36",
+		"push:" : "cwp 2/24/2004 18:47",
+		"styleWith:" : "cwp 7/21/2007 21:54",
+		"update:" : "cwp 2/25/2004 00:35",
+		"updateButtons" : "scg 8/24/2009 10:45",
+		"updateList" : "cwp 11/27/2004 17:58",
+		"updateMorphs" : "scg 8/24/2009 10:45",
+		"updateSelection" : "cwp 2/24/2004 19:39",
+		"updateSubmorphColor" : "dr 2/20/2009 16:13",
+		"withButtonAt:do:" : "cwp 7/9/2007 23:39",
+		"withSelectedButtonDo:" : "cwp 2/24/2004 19:38" } }

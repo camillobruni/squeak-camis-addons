@@ -1,0 +1,25 @@
+{
+	"class" : {
+		"open:" : "lr 6/20/2007 09:36" },
+	"instance" : {
+		"annotationField:with:" : "scg 8/24/2009 10:45",
+		"button:with:" : "scg 8/24/2009 10:45",
+		"fixedButtonBar:with:" : "scg 8/24/2009 10:45",
+		"horizontalGroupWith:" : "scg 8/24/2009 10:45",
+		"layoutPanels" : "scg 8/24/2009 10:45",
+		"listMorphForColumn:" : "scg 8/24/2009 10:45",
+		"mercuryMorphFor:" : "scg 8/24/2009 10:45",
+		"pane:with:" : "scg 8/24/2009 10:45",
+		"radioButtonBar:with:" : "dr 7/7/2009 13:44",
+		"scroller:with:" : "scg 8/24/2009 10:45",
+		"shouldUseSpecialLayoutFor:" : "scg 8/24/2009 10:45",
+		"style39" : "cwp 7/23/2007 02:04",
+		"styleButton:" : "cwp 7/21/2007 22:26",
+		"styleButtonBar:" : "cwp 7/21/2007 22:26",
+		"styleHorizontalDivider:" : "cwp 7/23/2007 02:08",
+		"styleVerticalDivider:" : "cwp 7/23/2007 02:08",
+		"textarea:with:" : "scg 8/24/2009 10:45",
+		"textfield:with:" : "dr 2/16/2009 15:00",
+		"topNavigationPanel:with:" : "scg 8/24/2009 10:45",
+		"verticalGroupWith:" : "scg 8/24/2009 10:45",
+		"window:with:" : "dr 4/11/2008 11:47" } }

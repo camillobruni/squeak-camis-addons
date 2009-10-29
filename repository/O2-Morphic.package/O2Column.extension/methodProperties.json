@@ -1,0 +1,12 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"acceptDroppingMorph:event:inMorph:" : "scg 8/24/2009 10:28",
+		"dragEnabled" : "scg 8/24/2009 10:28",
+		"dragPassengerFor:inMorph:" : "scg 8/24/2009 10:28",
+		"dragTransferType" : "scg 8/24/2009 10:28",
+		"dragTransferTypeForMorph:" : "scg 8/24/2009 10:28",
+		"dropEnabled" : "scg 8/24/2009 10:28",
+		"nodeForDropEvent:inMorph:" : "scg 8/24/2009 10:28",
+		"wantsDroppedMorph:event:inMorph:" : "scg 8/24/2009 10:28" } }

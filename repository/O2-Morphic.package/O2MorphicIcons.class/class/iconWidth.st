@@ -1,0 +1,3 @@
+configuration
+iconWidth
+    ^12

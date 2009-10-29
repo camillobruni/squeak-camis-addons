@@ -1,0 +1,1 @@
+I am a special kind of PluggableListMorph and provides methods to access icons for list elements. I use OBLazyListMorph as listMorphClass

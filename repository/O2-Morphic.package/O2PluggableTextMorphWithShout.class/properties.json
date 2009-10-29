@@ -1,0 +1,15 @@
+{
+	"category" : "O2-Morphic-Morphs",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"styler",
+		"unstyledAcceptText" ],
+	"name" : "O2PluggableTextMorphWithShout",
+	"pools" : [
+		 ],
+	"super" : "O2PluggableTextMorph",
+	"type" : "normal" }

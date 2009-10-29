@@ -1,0 +1,14 @@
+{
+	"category" : "O2-Morphic-Morphs",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"inBackTo" ],
+	"name" : "O2TextMorphEditorWithShout",
+	"pools" : [
+		 ],
+	"super" : "O2TextMorphEditor",
+	"type" : "normal" }

@@ -1,0 +1,3 @@
+testing
+isDropEdge: aString
+	^false

@@ -1,0 +1,3 @@
+drawing
+handlesMouseOver: anEvent
+	^true

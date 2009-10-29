@@ -1,0 +1,16 @@
+{
+	"category" : "O2-Morphic-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"IconLabels",
+		"Icons",
+		"Instance" ],
+	"commentStamp" : "lr 7/10/2009 11:12",
+	"instvars" : [
+		 ],
+	"name" : "O2MorphicIcons",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
