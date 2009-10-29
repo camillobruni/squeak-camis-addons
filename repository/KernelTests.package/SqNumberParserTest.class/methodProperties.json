@@ -1,0 +1,14 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testFloatFromStreamAsNumber" : "nice 5/7/2006 17:46",
+		"testFloatFromStreamWithExponent" : "nice 5/7/2006 17:46",
+		"testFloatGradualUnderflow" : "nice 8/31/2008 03:32",
+		"testFloatPrintString" : "nice 5/1/2006 00:40",
+		"testFloatReadError" : "nice 5/1/2006 00:40",
+		"testFloatReadWithRadix" : "damiencassou 5/30/2008 11:09",
+		"testIntegerReadFrom" : "damiencassou 5/30/2008 11:09",
+		"testIntegerReadWithRadix" : "nice 5/7/2006 17:46",
+		"testScaledDecimalWithTrailingZeroes" : "nice 8/29/2008 22:03",
+		"testcheckForCoverage" : "NikoSchwarz 10/17/2009 10:41" } }

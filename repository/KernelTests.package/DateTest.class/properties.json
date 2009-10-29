@@ -1,0 +1,16 @@
+{
+	"category" : "KernelTests-Chronology",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "brp 7/26/2003 16:58",
+	"instvars" : [
+		"date",
+		"aDate",
+		"aTime" ],
+	"name" : "DateTest",
+	"pools" : [
+		 ],
+	"super" : "ClassTestCase",
+	"type" : "normal" }

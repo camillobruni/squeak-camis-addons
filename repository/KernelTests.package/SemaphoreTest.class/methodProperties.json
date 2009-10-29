@@ -1,0 +1,12 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"criticalError" : "tlk 5/5/2006 13:26",
+		"testCritical" : "tlk 5/5/2006 13:27",
+		"testCriticalIfError" : "tlk 5/5/2006 13:28",
+		"testSemaAfterCriticalWait" : "ar 10/5/2007 18:09",
+		"testSemaInCriticalWait" : "ar 10/5/2007 18:06",
+		"testWaitAndWaitTimeoutTogether" : "jf 12/2/2003 19:31",
+		"testWaitTimeoutMSecs" : "ar 3/23/2009 17:01",
+		"waitAndWaitTimeoutTogether" : "stephane.ducasse 5/25/2008 17:59" } }

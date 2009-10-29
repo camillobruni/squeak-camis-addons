@@ -1,0 +1,11 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testBasicNew" : "sd 6/5/2005 08:59",
+		"testDivide" : "sd 6/5/2005 08:59",
+		"testMaxVal" : "sd 6/5/2005 08:59",
+		"testMinVal" : "sd 6/5/2005 08:59",
+		"testNew" : "sd 6/5/2005 08:59",
+		"testPrintPaddedWith" : "fbs 12/8/2005 12:58",
+		"testPrintString" : "al 7/21/2008 21:48" } }

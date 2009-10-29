@@ -1,0 +1,10 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testAND" : "sd 6/5/2005 09:06",
+		"testInMemory" : "sd 6/5/2005 09:06",
+		"testNew" : "sd 6/5/2005 09:06",
+		"testNot" : "sd 6/5/2005 09:06",
+		"testPrintOn" : "sd 6/5/2005 09:06",
+		"testXor" : "NikoSchwarz 10/17/2009 18:21" } }

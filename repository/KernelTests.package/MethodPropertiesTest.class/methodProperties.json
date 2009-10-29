@@ -1,0 +1,18 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"expectedFailures" : "MikeRoberts 9/26/2009 16:56",
+		"propertyDictionaryFor:" : "lr 2/6/2006 20:43",
+		"setUp" : "lr 1/20/2006 19:16",
+		"tearDown" : "lr 1/20/2006 19:20",
+		"testAllMethodsHaveMethodClass" : "kwl 7/26/2006 11:41",
+		"testAllMethodsHaveNewPropertyFormat" : "kwl 7/26/2006 11:40",
+		"testAnalogousCodeTo" : "StephaneDucasse 8/30/2009 16:50",
+		"testAt" : "lr 2/6/2006 22:21",
+		"testAtIfAbsent" : "lr 2/6/2006 22:18",
+		"testAtIfAbsentPut" : "lr 2/6/2006 22:18",
+		"testAtPut" : "lr 2/6/2006 22:18",
+		"testIncludesKey" : "lr 2/6/2006 22:19",
+		"testRemoveKey" : "lr 2/6/2006 22:18",
+		"testRemoveKeyifAbsent" : "lr 2/6/2006 22:18" } }

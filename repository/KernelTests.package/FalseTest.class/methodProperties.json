@@ -1,0 +1,16 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testAND" : "sd 6/5/2005 09:02",
+		"testAnd" : "sd 6/5/2005 09:02",
+		"testIfFalse" : "sd 6/5/2005 09:03",
+		"testIfFalseIfTrue" : "sd 6/5/2005 09:03",
+		"testIfTrue" : "sd 6/5/2005 09:03",
+		"testIfTrueIfFalse" : "sd 6/5/2005 09:03",
+		"testNew" : "sd 6/5/2005 09:03",
+		"testNot" : "sd 6/5/2005 09:03",
+		"testOR" : "sd 6/5/2005 09:04",
+		"testOr" : "sd 6/5/2005 09:04",
+		"testPrintOn" : "sd 6/5/2005 09:04",
+		"testXor" : "NikoSchwarz 10/17/2009 18:20" } }

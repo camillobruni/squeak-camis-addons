@@ -1,0 +1,22 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"readX" : "sd 4/6/2009 21:27",
+		"readXandY" : "sd 4/6/2009 21:23",
+		"returnPlusOne:" : "md 2/18/2006 20:09",
+		"returnTrue" : "md 2/18/2006 20:09",
+		"testDecompile" : "md 2/16/2006 20:29",
+		"testHasInstVarRef" : "sd 4/6/2009 21:30",
+		"testHasNewPropertyFormat" : "md 2/19/2006 11:28",
+		"testIsInstalled" : "md 2/18/2006 20:10",
+		"testIsQuick" : "md 4/16/2003 15:32",
+		"testMethodClass" : "md 2/18/2006 20:10",
+		"testReadsField" : "sd 4/6/2009 21:46",
+		"testSearchForClass" : "md 2/15/2006 20:54",
+		"testSearchForSelector" : "md 2/15/2006 20:55",
+		"testSelector" : "md 2/16/2006 20:28",
+		"testValueWithReceiverArguments" : "md 4/16/2003 15:30",
+		"testWritesField" : "sd 4/6/2009 21:48",
+		"writeX" : "sd 4/6/2009 21:23",
+		"writeXandY" : "sd 4/6/2009 21:23" } }

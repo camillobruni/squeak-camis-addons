@@ -1,0 +1,9 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"tearDown" : "GiovanniCorriga 8/30/2009 15:53",
+		"testEnvironmentAt" : "GiovanniCorriga 8/30/2009 15:58",
+		"testEnvironmentAtPut" : "GiovanniCorriga 8/30/2009 15:53",
+		"testEnvironmentRemoveKey" : "GiovanniCorriga 8/30/2009 16:03",
+		"testIsSelfEvaluating" : "NouryBouraqadi 10/1/2009 07:45" } }

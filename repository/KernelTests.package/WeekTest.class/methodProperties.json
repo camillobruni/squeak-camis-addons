@@ -1,0 +1,11 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"classToBeTested" : "brp 7/27/2003 12:42",
+		"selectorsToBeIgnored" : "brp 1/30/2005 09:21",
+		"setUp" : "brp 9/26/2004 18:52",
+		"tearDown" : "brp 9/26/2004 18:53",
+		"testEnumerating" : "brp 1/30/2005 09:32",
+		"testInquiries" : "brp 1/30/2005 09:30",
+		"testPreviousNext" : "nk 7/30/2004 17:52" } }

@@ -1,0 +1,24 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testAsNumber" : "dtl 9/18/2004 12:22",
+		"testAsNumberNegatedWithoutDecimalPoint" : "dtl 9/18/2004 15:51",
+		"testAsNumberNegatedWithoutDecimalPoint2" : "dtl 9/18/2004 15:51",
+		"testAsNumberWithExtendedScale" : "dtl 9/18/2004 12:21",
+		"testAsNumberWithRadix" : "dtl 9/18/2004 12:28",
+		"testAsNumberWithSuperfluousDecimalPoint" : "nice 6/11/2009 03:54",
+		"testAsNumberWithoutDecimalPoint" : "dtl 9/18/2004 15:49",
+		"testAsNumberWithoutDecimalPoint2" : "dtl 9/18/2004 15:51",
+		"testCoercion" : "nice 5/16/2009 23:48",
+		"testConvertFromFloat" : "nice 5/16/2009 22:33",
+		"testConvertFromFraction" : "dtl 9/18/2004 12:24",
+		"testIsLiteral" : "nice 12/3/2007 20:35",
+		"testLiteral" : "dtl 9/18/2004 13:38",
+		"testOneRaisedToInteger" : "nice 5/17/2009 00:38",
+		"testPrintString" : "nice 5/16/2009 22:28",
+		"testRaisedToInteger" : "nice 5/17/2009 00:35",
+		"testReadFrom" : "nice 11/22/2007 22:42",
+		"testScaleExtension" : "nice 5/17/2009 00:31",
+		"testStoreOn" : "nice 5/12/2007 00:34",
+		"testZeroRaisedToInteger" : "nice 5/17/2009 00:40" } }

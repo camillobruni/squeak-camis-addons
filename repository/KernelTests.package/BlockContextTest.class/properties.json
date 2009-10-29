@@ -1,0 +1,15 @@
+{
+	"category" : "KernelTests-Methods",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "jrp 10/17/2004 12:22",
+	"instvars" : [
+		"aBlockContext",
+		"contextOfaBlockContext" ],
+	"name" : "BlockContextTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

@@ -1,0 +1,20 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"baseClassName" : "ar 1/4/2004 20:15",
+		"cleanup" : "ar 1/4/2004 20:15",
+		"makeByteVariableSubclassOf:" : "ar 1/4/2004 20:15",
+		"makeIVarsSubclassOf:" : "ar 1/4/2004 20:15",
+		"makeNormalSubclassOf:" : "ar 1/4/2004 20:15",
+		"makeVariableSubclassOf:" : "ar 1/4/2004 20:15",
+		"makeWeakSubclassOf:" : "ar 1/4/2004 20:16",
+		"makeWordVariableSubclassOf:" : "ar 1/4/2004 20:16",
+		"subClassName" : "ar 1/4/2004 20:16",
+		"testByteVariableSubclass" : "ar 1/4/2004 20:21",
+		"testChangeToVariableSubclass" : "ar 7/13/2009 21:18",
+		"testSubclass" : "ar 1/4/2004 20:20",
+		"testSubclassWithInstanceVariables" : "ar 1/4/2004 20:21",
+		"testVariableSubclass" : "ar 1/4/2004 20:20",
+		"testWeakSubclass" : "ar 1/4/2004 20:20",
+		"testWordVariableSubclass" : "ar 1/4/2004 20:20" } }
