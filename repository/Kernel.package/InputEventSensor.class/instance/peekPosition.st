@@ -1,0 +1,3 @@
+cursor
+peekPosition
+	^self cursorPoint

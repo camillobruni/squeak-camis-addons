@@ -1,0 +1,4 @@
+testing
+propertiesIsNil
+
+	^ properties isNil

@@ -1,0 +1,19 @@
+{
+	"category" : "Kernel-Methods",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"fixed",
+		"fields",
+		"never",
+		"accessed",
+		"from",
+		"smalltalk" ],
+	"name" : "PseudoContext",
+	"pools" : [
+		 ],
+	"super" : "nil",
+	"type" : "variable" }

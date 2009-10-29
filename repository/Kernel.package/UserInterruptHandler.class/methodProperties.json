@@ -1,0 +1,7 @@
+{
+	"class" : {
+		"new" : "mir 11/19/2008 14:41" },
+	"instance" : {
+		"handleEvent:" : "mir 11/20/2008 11:56",
+		"handleUserInterrupt" : "mir 11/20/2008 11:50",
+		"setInterruptKeyValue:" : "mir 11/19/2008 14:41" } }

@@ -1,0 +1,5 @@
+ansi protocol
+asDuration
+ 
+ 	^ self
+ 

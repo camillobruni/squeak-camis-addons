@@ -1,0 +1,14 @@
+{
+	"class" : {
+		"initializedInstance" : "sw 5/8/2000 12:05" },
+	"instance" : {
+		"abs" : "",
+		"bitAt:" : "nice 3/21/2008 01:02",
+		"highBit" : "sr 6/8/2000 02:10",
+		"negated" : "",
+		"negative" : "di 4/23/1998 11:18",
+		"normalize" : "ar 5/17/2000 16:10",
+		"positive" : "di 4/23/1998 11:00",
+		"printOn:base:" : "nice 2/15/2008 21:47",
+		"sign" : "jm 3/27/98 06:19",
+		"strictlyPositive" : "di 4/23/1998 11:03" } }

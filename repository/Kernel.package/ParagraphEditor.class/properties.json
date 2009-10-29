@@ -1,0 +1,31 @@
+{
+	"category" : "Kernel-ST80 Remnants",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"ChangeText",
+		"CmdActions",
+		"FindText",
+		"ShiftCmdActions",
+		"UndoInterval",
+		"UndoMessage",
+		"UndoParagraph",
+		"UndoSelection",
+		"Undone" ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"model",
+		"paragraph",
+		"startBlock",
+		"stopBlock",
+		"beginTypeInBlock",
+		"emphasisHere",
+		"initialText",
+		"selectionShowing",
+		"otherInterval",
+		"lastParentLocation" ],
+	"name" : "ParagraphEditor",
+	"pools" : [
+		"TextConstants" ],
+	"super" : "Object",
+	"type" : "normal" }

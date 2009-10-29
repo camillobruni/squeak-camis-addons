@@ -1,0 +1,14 @@
+{
+	"category" : "Kernel-Methods",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "MethodDictionary",
+	"pools" : [
+		 ],
+	"super" : "Dictionary",
+	"type" : "variable" }

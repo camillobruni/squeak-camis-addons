@@ -1,0 +1,3 @@
+explorer
+hasContentsInExplorer
+	^true

@@ -1,0 +1,10 @@
+error handling
+notifyWithLabel: aString 
+	"Create and schedule a Notifier with aString as the window label as well as the contents of the window, in  order to request confirmation before a process can proceed."
+
+	ToolSet
+		debugContext: thisContext
+		label: aString
+		contents: aString
+
+	"nil notifyWithLabel: 'let us see if this works'"

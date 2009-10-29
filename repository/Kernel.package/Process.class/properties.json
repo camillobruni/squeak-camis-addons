@@ -1,0 +1,19 @@
+{
+	"category" : "Kernel-Processes",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"suspendedContext",
+		"priority",
+		"myList",
+		"errorHandler",
+		"name",
+		"env" ],
+	"name" : "Process",
+	"pools" : [
+		 ],
+	"super" : "Link",
+	"type" : "normal" }

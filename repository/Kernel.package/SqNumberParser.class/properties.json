@@ -1,0 +1,24 @@
+{
+	"category" : "Kernel-Numbers",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"BelllerophonBase10" ],
+	"commentStamp" : "nice 4/27/2006 22:38",
+	"instvars" : [
+		"sourceStream",
+		"base",
+		"neg",
+		"integerPart",
+		"fractionPart",
+		"exponent",
+		"scale",
+		"nDigits",
+		"lastNonZero",
+		"requestor",
+		"failBlock" ],
+	"name" : "SqNumberParser",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

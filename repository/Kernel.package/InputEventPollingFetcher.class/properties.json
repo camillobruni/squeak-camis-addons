@@ -1,0 +1,14 @@
+{
+	"category" : "Kernel-Processes",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"EventPollDelay" ],
+	"commentStamp" : "michael.rueger 4/22/2009 11:55",
+	"instvars" : [
+		 ],
+	"name" : "InputEventPollingFetcher",
+	"pools" : [
+		 ],
+	"super" : "InputEventFetcher",
+	"type" : "normal" }

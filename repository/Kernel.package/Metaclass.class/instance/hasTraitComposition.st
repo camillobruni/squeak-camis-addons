@@ -1,0 +1,3 @@
+accessing
+hasTraitComposition
+	^traitComposition notNil

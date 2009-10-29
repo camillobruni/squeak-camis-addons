@@ -1,0 +1,4 @@
+accessing
+customizeExplorerContents
+
+	^ false.

@@ -1,0 +1,26 @@
+{
+	"category" : "Kernel-Processes",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"AccessProtect",
+		"ActiveDelay",
+		"ActiveDelayStartTime",
+		"DelaySuspended",
+		"FinishedDelay",
+		"RunTimerEventLoop",
+		"ScheduledDelay",
+		"SuspendedDelays",
+		"TimerEventLoop",
+		"TimingSemaphore" ],
+	"commentStamp" : "stephaneducasse 10/1/2005 21:07",
+	"instvars" : [
+		"delayDuration",
+		"resumptionTime",
+		"delaySemaphore",
+		"beingWaitedOn" ],
+	"name" : "Delay",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

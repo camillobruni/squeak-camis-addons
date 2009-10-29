@@ -1,0 +1,18 @@
+{
+	"category" : "Kernel-Processes",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"ButtonDecodeTable",
+		"KeyDecodeTable" ],
+	"commentStamp" : "michael.rueger 4/22/2009 11:59",
+	"instvars" : [
+		"eventQueue",
+		"modifiers",
+		"mouseButtons",
+		"mousePosition" ],
+	"name" : "InputEventSensor",
+	"pools" : [
+		"EventSensorConstants" ],
+	"super" : "InputEventHandler",
+	"type" : "normal" }

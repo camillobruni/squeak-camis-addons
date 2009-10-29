@@ -1,0 +1,19 @@
+{
+	"class" : {
+		"forMutualExclusion" : "",
+		"new" : "" },
+	"instance" : {
+		"=" : "sma 4/22/2000 18:48",
+		"critical:" : "ar 10/5/2007 17:59",
+		"critical:ifCurtailed:" : "ar 10/5/2007 18:33",
+		"critical:ifError:" : "ar 10/5/2007 17:59",
+		"critical:ifLocked:" : "ar 10/5/2007 18:34",
+		"hash" : "sma 4/22/2000 18:48",
+		"initSignals" : "",
+		"isSignaled" : "ar 3/2/2001 16:51",
+		"resumeProcess:" : "jf 12/2/2003 18:53",
+		"signal" : "",
+		"terminateProcess" : "",
+		"wait" : "",
+		"waitTimeoutMSecs:" : "ar 3/27/2009 22:38",
+		"waitTimeoutSeconds:" : "ar 3/27/2009 22:37" } }

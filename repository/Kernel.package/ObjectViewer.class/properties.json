@@ -1,0 +1,16 @@
+{
+	"category" : "Kernel-Objects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"valueBlock",
+		"lastValue",
+		"changeBlock" ],
+	"name" : "ObjectViewer",
+	"pools" : [
+		 ],
+	"super" : "ObjectTracer",
+	"type" : "normal" }

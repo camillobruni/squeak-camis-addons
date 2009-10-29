@@ -1,0 +1,8 @@
+{
+	"class" : {
+		"eventPollDelay" : "IgorStasenko 11/22/2008 20:25",
+		"eventPollPeriod:" : "IgorStasenko 11/22/2008 20:25",
+		"resetEventPollDelay" : "michael.rueger 4/20/2009 14:11" },
+	"instance" : {
+		"terminateEventLoop" : "michael.rueger 4/22/2009 11:33",
+		"waitForInput" : "IgorStasenko 11/22/2008 20:26" } }

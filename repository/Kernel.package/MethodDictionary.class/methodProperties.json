@@ -1,0 +1,28 @@
+{
+	"class" : {
+		"new" : "RAA 5/29/2001 09:53",
+		"new:" : "nice 4/4/2006 22:09" },
+	"instance" : {
+		"add:" : "",
+		"associationsDo:" : "",
+		"at:ifAbsent:" : "",
+		"at:put:" : "ar 10/12/2000 17:25",
+		"copy" : "tk 8/21/97 16:26",
+		"do:" : "adrian-lienhard 6/4/2009 21:27",
+		"grow" : "di 11/4/97 20:11",
+		"includesKey:" : "tk 6/30/2000 00:14",
+		"keyAt:" : "",
+		"keyAtIdentityValue:ifAbsent:" : "ar 2/13/1999 21:17",
+		"keyAtValue:ifAbsent:" : "ar 2/13/1999 21:00",
+		"keys" : "NS 3/30/2004 13:42",
+		"keysAndValuesDo:" : "ar 7/11/1999 08:05",
+		"keysDo:" : "",
+		"methodArray" : "",
+		"rehash" : "",
+		"rehashWithoutBecome" : "RAA 12/17/2000 11:11",
+		"removeDangerouslyKey:ifAbsent:" : "",
+		"removeKey:ifAbsent:" : "",
+		"removeKeyNoBecome:" : "raa 5/30/2001 15:19",
+		"scanFor:" : "md 10/5/2005 15:43",
+		"swap:with:" : "",
+		"valuesDo:" : "ar 7/11/1999 07:29" } }

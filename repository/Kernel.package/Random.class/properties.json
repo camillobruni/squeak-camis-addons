@@ -1,0 +1,18 @@
+{
+	"category" : "Kernel-Numbers",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "md 4/26/2003 16:32",
+	"instvars" : [
+		"seed",
+		"a",
+		"m",
+		"q",
+		"r" ],
+	"name" : "Random",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,6 @@
+{
+	"class" : {
+		"on:evaluate:wheneverChangeIn:" : "" },
+	"instance" : {
+		"doesNotUnderstand:" : "",
+		"xxxViewedObject:evaluate:wheneverChangeIn:" : "" } }

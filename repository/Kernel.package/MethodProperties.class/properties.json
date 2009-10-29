@@ -1,0 +1,16 @@
+{
+	"category" : "Kernel-Methods",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "lr 2/6/2006 19:31",
+	"instvars" : [
+		"properties",
+		"pragmas",
+		"selector" ],
+	"name" : "MethodProperties",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,4 @@
+watchIt
+watchIt
+
+	self inspectIt

@@ -1,0 +1,17 @@
+{
+	"class" : {
+		"buildWith:" : "ar 2/11/2005 16:26" },
+	"instance" : {
+		"arrowKey:from:" : "nk 6/29/2004 14:46",
+		"canDiscardEdits" : "sma 2/29/2000 19:26",
+		"containingWindow" : "alain.plantec 6/10/2008 20:22",
+		"hasUnacceptedEdits" : "jm 3/24/98 15:12",
+		"myDependents" : "sma 2/29/2000 19:54",
+		"myDependents:" : "sma 2/29/2000 19:54",
+		"perform:orSendTo:" : "di 4/11/98 11:34",
+		"selectedClass" : "tk 4/17/1998 17:28",
+		"step" : "zz 3/2/2004 23:49",
+		"topView" : "alain.plantec 5/30/2008 13:47",
+		"trash" : "sw 12/15/2000 13:21",
+		"trash:" : "sw 12/15/2000 13:21",
+		"veryDeepFixupWith:" : "tk 10/21/2002 12:59" } }

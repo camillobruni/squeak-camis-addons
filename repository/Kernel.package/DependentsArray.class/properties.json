@@ -1,0 +1,14 @@
+{
+	"category" : "Kernel-Objects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "DependentsArray",
+	"pools" : [
+		 ],
+	"super" : "Array",
+	"type" : "weak" }
