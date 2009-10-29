@@ -1,0 +1,14 @@
+{
+	"category" : "OB-Web-Notifications",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "OBCloseWindowRequest",
+	"pools" : [
+		 ],
+	"super" : "OBWindowRequest",
+	"type" : "normal" }

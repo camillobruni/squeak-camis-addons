@@ -1,0 +1,17 @@
+{
+	"category" : "OB-Web-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"receiver",
+		"selector",
+		"arguments",
+		"priority" ],
+	"name" : "OBAjaxMessage",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

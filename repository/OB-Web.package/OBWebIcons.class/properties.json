@@ -1,0 +1,14 @@
+{
+	"category" : "OB-Web-Files",
+	"classinstvars" : [
+		"icons" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "OBWebIcons",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

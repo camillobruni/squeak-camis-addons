@@ -1,0 +1,14 @@
+{
+	"category" : "OB-Web-Widgets",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "OBWebButtonBar",
+	"pools" : [
+		 ],
+	"super" : "OBWebChoiceWidget",
+	"type" : "normal" }

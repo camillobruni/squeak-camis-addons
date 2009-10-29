@@ -1,0 +1,14 @@
+{
+	"category" : "OB-Web-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"context" ],
+	"name" : "OBSubcomputation",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

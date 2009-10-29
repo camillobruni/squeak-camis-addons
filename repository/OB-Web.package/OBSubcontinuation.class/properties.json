@@ -1,0 +1,15 @@
+{
+	"category" : "OB-Web-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"joinPoint",
+		"values" ],
+	"name" : "OBSubcontinuation",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

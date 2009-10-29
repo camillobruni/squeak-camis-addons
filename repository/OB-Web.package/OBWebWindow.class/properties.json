@@ -1,0 +1,16 @@
+{
+	"category" : "OB-Web-Widgets",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"queue",
+		"continuation",
+		"link" ],
+	"name" : "OBWebWindow",
+	"pools" : [
+		 ],
+	"super" : "OBWebWidget",
+	"type" : "normal" }

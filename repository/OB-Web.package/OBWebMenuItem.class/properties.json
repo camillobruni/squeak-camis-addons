@@ -1,0 +1,18 @@
+{
+	"category" : "OB-Web-Widgets",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"label",
+		"target",
+		"selector",
+		"arguments",
+		"isEnabled" ],
+	"name" : "OBWebMenuItem",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

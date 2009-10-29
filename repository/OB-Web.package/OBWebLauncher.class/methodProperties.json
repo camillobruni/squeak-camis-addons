@@ -1,0 +1,16 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"allowedSelectors" : "cwp 5/31/2007 01:12",
+		"close" : "cwp 5/31/2007 01:12",
+		"contentType" : "cwp 10/10/2007 00:25",
+		"contents" : "cwp 10/10/2007 00:25",
+		"flushQueue" : "cwp 10/20/2006 23:27",
+		"id" : "cwp 10/18/2006 18:19",
+		"identifier" : "cwp 10/18/2006 18:19",
+		"initialize" : "cwp 10/20/2006 22:16",
+		"openBrowser" : "cwp 2/16/2008 00:55",
+		"path" : "cwp 10/10/2007 00:18",
+		"processMessage:" : "cwp 10/20/2006 23:29",
+		"queueMessage:" : "cwp 10/20/2006 22:17" } }

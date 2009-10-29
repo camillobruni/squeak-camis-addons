@@ -1,0 +1,16 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"addChild:" : "cwp 10/31/2007 01:41",
+		"allowedSelectors" : "cwp 10/28/2007 21:19",
+		"close" : "cwp 5/31/2007 00:08",
+		"htmlClass" : "cwp 10/27/2006 01:00",
+		"htmlOn:" : "cwp 8/2/2007 01:34",
+		"initializeQueue" : "cwp 5/27/2007 22:49",
+		"initializeWithId:" : "cwp 10/31/2007 01:38",
+		"jsInitializeSelfOn:" : "cwp 6/18/2007 18:53",
+		"path" : "cwp 10/10/2007 00:35",
+		"ping" : "cwp 10/29/2007 00:55",
+		"processMessage:" : "cwp 10/31/2007 01:55",
+		"update:" : "cwp 10/27/2006 01:01" } }

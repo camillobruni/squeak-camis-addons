@@ -1,0 +1,16 @@
+{
+	"class" : {
+		"basicNew:" : "avi 12/5/2007 12:07",
+		"defaultSize" : "cwp 10/24/2006 11:23",
+		"new" : "cwp 10/24/2006 11:22",
+		"new:" : "avi 12/5/2007 12:07",
+		"random:" : "avi 12/5/2007 12:07",
+		"seed:" : "cwp 10/25/2006 13:51" },
+	"instance" : {
+		"=" : "avi 12/5/2007 12:09",
+		"asNumber" : "cwp 1/27/2008 01:37",
+		"hash" : "avi 12/5/2007 12:09",
+		"initializeWithSize:" : "avi 12/5/2007 12:05",
+		"printOn:" : "avi 12/5/2007 12:08",
+		"printString" : "avi 12/5/2007 12:08",
+		"randomizeWith:" : "avi 12/5/2007 12:05" } }

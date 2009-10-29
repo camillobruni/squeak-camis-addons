@@ -1,0 +1,3 @@
+accessing
+allowedSelectors
+	^ #(close ping)

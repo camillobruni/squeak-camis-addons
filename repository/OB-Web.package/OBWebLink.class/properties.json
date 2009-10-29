@@ -1,0 +1,19 @@
+{
+	"category" : "OB-Web-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"root",
+		"objects",
+		"queue",
+		"mutex",
+		"computation",
+		"continuation" ],
+	"name" : "OBWebLink",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,11 @@
+{
+	"class" : {
+		"do:" : "cwp 8/14/2007 23:37",
+		"resume:" : "cwp 8/14/2007 23:45",
+		"withContext:" : "cwp 2/11/2007 11:17" },
+	"instance" : {
+		"callWithCurrentSubcontinuation:" : "cwp 6/18/2007 23:39",
+		"callcs:" : "cwp 6/18/2007 23:39",
+		"escape:" : "cwp 6/18/2007 23:40",
+		"initializeWithContext:" : "cwp 6/18/2007 23:40",
+		"terminate:" : "cwp 6/18/2007 23:40" } }

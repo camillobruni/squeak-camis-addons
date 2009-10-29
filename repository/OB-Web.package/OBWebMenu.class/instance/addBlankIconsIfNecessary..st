@@ -1,0 +1,2 @@
+compatibility
+addBlankIconsIfNecessary: anObject

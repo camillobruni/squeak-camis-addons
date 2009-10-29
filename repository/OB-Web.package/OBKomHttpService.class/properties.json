@@ -1,0 +1,15 @@
+{
+	"category" : "OB-Web-Core",
+	"classinstvars" : [
+		"port",
+		"service" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "OBKomHttpService",
+	"pools" : [
+		 ],
+	"super" : "OBHttpService",
+	"type" : "normal" }

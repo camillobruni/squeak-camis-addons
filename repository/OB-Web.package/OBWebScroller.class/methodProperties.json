@@ -1,0 +1,17 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"basicUpdateSizing" : "cwp 5/28/2007 02:00",
+		"htmlClass" : "cwp 10/25/2006 11:44",
+		"htmlStyle" : "cwp 9/11/2007 23:59",
+		"jsInitializeSelfOn:" : "cwp 5/28/2007 01:55",
+		"pop:" : "cwp 5/28/2007 00:42",
+		"push:" : "cwp 5/28/2007 01:08",
+		"sendPop:" : "cwp 5/28/2007 00:43",
+		"sendPush:priority:" : "cwp 5/28/2007 00:44",
+		"sizing" : "cwp 5/28/2007 01:59",
+		"state" : "cwp 5/27/2007 20:45",
+		"update:" : "cwp 5/28/2007 01:57",
+		"updatePanes" : "cwp 5/28/2007 01:58",
+		"updateSizing" : "cwp 5/28/2007 02:02" } }

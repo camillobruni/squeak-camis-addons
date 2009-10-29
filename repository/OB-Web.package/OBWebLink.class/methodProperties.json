@@ -1,0 +1,21 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"at:put:" : "cwp 10/31/2007 00:00",
+		"createMessage" : "cwp 10/31/2007 00:01",
+		"deliverMessage:" : "cwp 10/31/2007 22:58",
+		"escape" : "cwp 10/31/2007 01:51",
+		"flushQueue" : "cwp 10/30/2007 23:13",
+		"handleAjaxResponse:" : "cwp 10/30/2007 23:11",
+		"handleBrowseRequest:" : "cwp 10/31/2007 00:15",
+		"handleChoiceRequest:" : "cwp 10/31/2007 00:41",
+		"handleInformRequest:" : "cwp 10/30/2007 23:40",
+		"handleInteractionDuring:" : "cwp 10/30/2007 22:04",
+		"handleMenuRequest:" : "cwp 10/31/2007 00:54",
+		"handleTextRequest:" : "cwp 10/31/2007 01:02",
+		"initialize" : "cwp 10/31/2007 22:29",
+		"initializeQueue" : "cwp 10/30/2007 23:12",
+		"processMessage:" : "cwp 10/31/2007 22:57",
+		"queueMessage:" : "cwp 10/30/2007 23:11",
+		"queueMessage:resuming:" : "cwp 10/31/2007 01:51" } }

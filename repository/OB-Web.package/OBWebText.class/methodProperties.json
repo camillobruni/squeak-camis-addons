@@ -1,0 +1,25 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"accept:" : "cwp 10/16/2007 23:12",
+		"allowedSelectors" : "cwp 6/20/2007 21:41",
+		"browse:" : "cwp 6/17/2007 18:33",
+		"correctFrom:to:with:" : "cwp 10/16/2007 23:12",
+		"deselect" : "cwp 10/16/2007 19:41",
+		"hierarchyOfIt:" : "TestRunner 10/29/2009 23:53",
+		"htmlClass" : "cwp 10/25/2006 11:45",
+		"htmlStyle" : "cwp 9/11/2007 23:59",
+		"implementors:" : "cwp 6/16/2007 23:56",
+		"jsInitializeSelfOn:" : "cwp 6/2/2007 02:02",
+		"menuShifted:selection:" : "cwp 10/8/2007 01:52",
+		"notify:at:in:" : "cwp 10/16/2007 23:11",
+		"references:" : "cwp 6/17/2007 18:32",
+		"select" : "cwp 10/16/2007 19:40",
+		"selectFrom:to:" : "cwp 10/16/2007 19:39",
+		"selectInvisiblyFrom:to:" : "cwp 10/16/2007 19:42",
+		"selectionInterval" : "cwp 10/16/2007 19:39",
+		"senders:" : "cwp 6/17/2007 18:32",
+		"state" : "cwp 6/13/2007 23:23",
+		"text" : "cwp 10/16/2007 23:10",
+		"update:" : "cwp 10/16/2007 23:10" } }

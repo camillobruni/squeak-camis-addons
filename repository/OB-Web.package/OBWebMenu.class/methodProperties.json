@@ -1,0 +1,19 @@
+{
+	"class" : {
+		"seed:" : "cwp 5/25/2007 00:36" },
+	"instance" : {
+		"add:action:" : "cwp 6/24/2007 18:20",
+		"add:target:selector:" : "cwp 5/24/2007 23:53",
+		"add:target:selector:enabled:icon:" : "cwp 6/11/2007 00:46",
+		"addBlankIconsIfNecessary:" : "cwp 5/24/2007 23:58",
+		"addLine" : "cwp 5/24/2007 23:59",
+		"addSubmenu:enabled:" : "cwp 10/8/2007 01:55",
+		"allowedSelectors" : "cwp 5/25/2007 22:59",
+		"htmlTagOn:" : "cwp 5/25/2007 22:06",
+		"initializeWithId:" : "cwp 5/25/2007 22:02",
+		"items" : "cwp 5/24/2007 23:42",
+		"jsonWriteOn:" : "cwp 5/25/2007 00:48",
+		"lastItem" : "cwp 5/24/2007 23:56",
+		"open" : "cwp 10/8/2007 02:04",
+		"select:" : "cwp 5/25/2007 23:03",
+		"simplify" : "cwp 6/7/2009 01:02" } }

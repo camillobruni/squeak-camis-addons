@@ -1,0 +1,14 @@
+{
+	"category" : "OB-Web-Widgets",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"id" ],
+	"name" : "OBWebIdentifier",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

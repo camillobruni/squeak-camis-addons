@@ -1,0 +1,14 @@
+{
+	"category" : "OB-Web-Files",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "OBLinkFile",
+	"pools" : [
+		 ],
+	"super" : "OBInternalFile",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "OB-Web-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"dispatcher" ],
+	"name" : "OBHttpService",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

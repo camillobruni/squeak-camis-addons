@@ -1,0 +1,18 @@
+{
+	"class" : {
+		"new" : "cwp 10/23/2006 14:55" },
+	"instance" : {
+		"addChild:" : "cwp 3/13/2007 22:54",
+		"button:with:" : "cwp 7/25/2007 23:55",
+		"current:do:" : "cwp 10/31/2007 01:42",
+		"fixedButtonBar:with:" : "cwp 7/25/2007 23:52",
+		"initialize" : "cwp 3/16/2007 23:59",
+		"pane:with:" : "cwp 7/25/2007 23:47",
+		"radioButtonBar:with:" : "cwp 7/25/2007 23:53",
+		"scroller:with:" : "cwp 7/25/2007 23:46",
+		"setBalloonText:maxLineLength:" : "cwp 8/11/2007 23:30",
+		"textarea:with:" : "cwp 7/25/2007 23:48",
+		"textfield:with:" : "cwp 7/25/2007 23:57",
+		"topNavigationPanel:with:" : "cwp 6/4/2009 02:00",
+		"verticalGroupWith:" : "lr 1/7/2008 11:28",
+		"window:with:" : "cwp 7/25/2007 20:50" } }

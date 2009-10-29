@@ -1,0 +1,14 @@
+{
+	"category" : "OB-Web-Widgets",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"items" ],
+	"name" : "OBWebMenu",
+	"pools" : [
+		 ],
+	"super" : "OBWebWidget",
+	"type" : "normal" }

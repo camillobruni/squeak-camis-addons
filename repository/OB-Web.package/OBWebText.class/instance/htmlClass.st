@@ -1,0 +1,3 @@
+accessing
+htmlClass
+	^ 'Text vertical'

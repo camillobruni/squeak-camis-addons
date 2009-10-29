@@ -1,0 +1,14 @@
+{
+	"category" : "OB-Web-Widgets",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"sizing" ],
+	"name" : "OBWebScroller",
+	"pools" : [
+		 ],
+	"super" : "OBWebWidget",
+	"type" : "normal" }

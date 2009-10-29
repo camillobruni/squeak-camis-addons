@@ -1,0 +1,8 @@
+{
+	"class" : {
+		"from:to:" : "cwp 2/11/2007 11:21" },
+	"instance" : {
+		"initializeFrom:to:" : "cwp 6/18/2007 23:09",
+		"joinPoint" : "cwp 2/11/2007 11:45",
+		"restoreValues" : "cwp 9/26/2008 13:28",
+		"value:" : "cwp 2/11/2007 13:13" } }

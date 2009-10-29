@@ -1,0 +1,23 @@
+{
+	"class" : {
+		"compileIcon:form:" : "cwp 8/9/2007 00:45",
+		"copyFromMorphic" : "cwp 6/7/2009 01:17",
+		"dispatcher" : "cwp 10/9/2007 23:19",
+		"iconNamed:" : "cwp 8/12/2007 13:27",
+		"initialize" : "cwp 8/9/2007 00:21" },
+	"instance" : {
+		"arrowDown" : "cwp 6/20/2009 00:55",
+		"arrowUp" : "cwp 6/20/2009 00:55",
+		"arrowUpAndDown" : "cwp 6/20/2009 00:55",
+		"blank" : "cwp 6/20/2009 00:55",
+		"breakpoint" : "cwp 6/20/2009 00:55",
+		"collection" : "cwp 6/20/2009 00:55",
+		"exception" : "cwp 6/20/2009 00:55",
+		"flag" : "cwp 6/20/2009 00:55",
+		"magnitude" : "cwp 6/20/2009 00:55",
+		"morph" : "cwp 6/20/2009 00:55",
+		"string" : "cwp 6/20/2009 00:55",
+		"testGray" : "cwp 6/20/2009 00:55",
+		"testGreen" : "cwp 6/20/2009 00:55",
+		"testOrange" : "cwp 6/20/2009 00:55",
+		"testRed" : "cwp 6/20/2009 00:55" } }

@@ -1,0 +1,14 @@
+{
+	"category" : "OB-Web-Notifications",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"model" ],
+	"name" : "OBWindowRequest",
+	"pools" : [
+		 ],
+	"super" : "Notification",
+	"type" : "normal" }

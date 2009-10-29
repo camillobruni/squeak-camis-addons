@@ -1,0 +1,15 @@
+{
+	"category" : "OB-Web-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"id",
+		"queue" ],
+	"name" : "OBWebLauncher",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
