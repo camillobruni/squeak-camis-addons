@@ -1,0 +1,3 @@
+accessing
+lastEntry
+	^ entries last

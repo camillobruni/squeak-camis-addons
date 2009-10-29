@@ -1,0 +1,28 @@
+{
+	"class" : {
+		"allowModel:" : "bar 3/31/2006 09:02",
+		"initialize" : "bar 3/20/2006 15:25",
+		"initializePreferences" : "bar 4/11/2005 10:55",
+		"initializeSmartCharacters" : "lr 7/4/2009 10:42",
+		"initialized" : "bar 3/20/2006 15:27",
+		"isEnabled" : "bar 3/20/2006 15:27",
+		"model:" : "bar 12/13/2004 12:05",
+		"smartCharacters" : "bar 2/25/2006 15:11" },
+	"instance" : {
+		"additionals" : "bar 12/16/2004 11:13",
+		"checkBackspace:" : "bar 3/3/2006 17:38",
+		"checkNeedlesCharacter:" : "lr 7/4/2009 10:42",
+		"closeMenu" : "bar 12/13/2004 15:09",
+		"context" : "bar 12/13/2004 12:08",
+		"editor" : "bar 12/13/2004 17:34",
+		"guessTypeFor:" : "bar 12/17/2004 22:42",
+		"handleKeystrokeAfter:editor:" : "bar 1/6/2005 08:57",
+		"handleKeystrokeBefore:editor:" : "dr 10/30/2008 16:30",
+		"invalidateEditorMorph" : "bar 3/3/2006 17:34",
+		"isMenuOpen" : "RomainRobbes 10/19/2009 16:58",
+		"menuClosed" : "damiencassou 7/29/2009 15:25",
+		"model" : "dr 10/30/2008 17:00",
+		"openMenuFor:" : "bar 3/31/2006 09:41",
+		"setModel:" : "lr 7/4/2009 10:42",
+		"smartCharInput:" : "al 6/29/2006 10:22",
+		"workspace" : "bar 12/15/2004 09:23" } }

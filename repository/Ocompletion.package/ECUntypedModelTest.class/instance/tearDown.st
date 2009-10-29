@@ -1,0 +1,3 @@
+testing
+tearDown
+	ECPreferences setCaseSensitiveness: prefValueCase

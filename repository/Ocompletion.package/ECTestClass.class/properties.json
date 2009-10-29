@@ -1,0 +1,29 @@
+{
+	"category" : "Ocompletion-ECTests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"ClassVar" ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"third",
+		"fourth",
+		"typeSuggestingParameter",
+		"messageSend",
+		"messageSend2",
+		"typeSuggestingParameter2",
+		"complexInit",
+		"complexInit2",
+		"constantInteger",
+		"constantSymbol",
+		"constantArray",
+		"constantBoolean",
+		"constantString",
+		"constantNil",
+		"globalVarKeyword",
+		"globalVarKeyword2" ],
+	"name" : "ECTestClass",
+	"pools" : [
+		 ],
+	"super" : "ECTestSuperClass",
+	"type" : "normal" }

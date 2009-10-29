@@ -1,0 +1,18 @@
+{
+	"category" : "Ocompletion-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"list",
+		"before",
+		"now",
+		"after",
+		"noz" ],
+	"name" : "ODatedEntryTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

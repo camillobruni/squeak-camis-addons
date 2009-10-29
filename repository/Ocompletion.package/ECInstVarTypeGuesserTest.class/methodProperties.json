@@ -1,0 +1,20 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"guessVariable:in:expected:" : "lr 7/4/2009 10:42",
+		"tesConstantFalse" : "bar 12/13/2004 10:41",
+		"testComplexInit" : "bar 3/30/2006 17:06",
+		"testComplexInit2" : "bar 12/13/2004 10:41",
+		"testConstantArray" : "bar 12/13/2004 13:46",
+		"testConstantBoolean" : "bar 12/13/2004 13:46",
+		"testConstantInteger" : "bar 12/13/2004 13:47",
+		"testConstantIntegerNil" : "bar 12/13/2004 13:47",
+		"testConstantString" : "bar 8/6/2005 22:33",
+		"testConstantSymbol" : "bar 8/4/2005 21:30",
+		"testGlobalVarKeyword" : "bar 12/13/2004 16:42",
+		"testGlobalVarKeyword2" : "bar 12/13/2004 17:19",
+		"testMessageSend" : "bar 12/13/2004 13:47",
+		"testMessageSend2" : "bar 2/20/2006 15:12",
+		"testSuperWithAnotherInit" : "bar 12/13/2004 13:48",
+		"testTypeSuggestingParameter" : "bar 12/13/2004 13:48" } }

@@ -1,0 +1,3 @@
+*ocompletion
+isClassVariable
+	^ type = #classVar

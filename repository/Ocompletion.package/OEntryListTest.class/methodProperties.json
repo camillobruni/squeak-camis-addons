@@ -1,0 +1,11 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"setUp" : "rr 2/21/2009 11:39",
+		"tearDown" : "rr 2/21/2009 11:46",
+		"testAdding" : "rr 2/21/2009 11:41",
+		"testAddingOlderandNewerDates" : "rr 4/9/2009 16:09",
+		"testListMatchingCase" : "rr 4/9/2009 19:35",
+		"testMaxSize" : "rr 4/9/2009 16:14",
+		"testNoDuplicates" : "rr 4/9/2009 15:58" } }

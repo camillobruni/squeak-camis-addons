@@ -1,0 +1,13 @@
+{
+	"class" : {
+		"ofSize:" : "rr 2/21/2009 11:44" },
+	"instance" : {
+		"addEntry:" : "rr 4/9/2009 16:06",
+		"addEntry:date:" : "rr 4/9/2009 16:15",
+		"entriesMatching:" : "rr 4/9/2009 19:33",
+		"first" : "rr 4/9/2009 16:14",
+		"firstEntry" : "rr 4/9/2009 16:09",
+		"last" : "rr 4/9/2009 16:14",
+		"lastEntry" : "rr 4/9/2009 16:14",
+		"numEntries" : "rr 2/21/2009 11:46",
+		"setSize:" : "rr 4/9/2009 16:03" } }

@@ -1,0 +1,3 @@
+accessing
+firstEntry
+	^ entries first

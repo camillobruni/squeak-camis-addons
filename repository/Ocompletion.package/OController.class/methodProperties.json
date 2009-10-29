@@ -1,0 +1,15 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"closeMenu" : "rr 6/26/2009 14:06",
+		"contextClass" : "rr 2/13/2009 17:27",
+		"contextClass:" : "rr 5/14/2008 17:32",
+		"expand" : "rr 4/15/2009 11:05",
+		"expanded" : "rr 12/11/2007 09:45",
+		"handleKeystrokeBefore:editor:" : "RomainRobbes 10/28/2009 15:18",
+		"initialize" : "rr 4/15/2009 10:27",
+		"menuMorph" : "rr 4/17/2009 14:35",
+		"openMenuFor:" : "rr 4/15/2009 15:21",
+		"openXMenuFor:" : "rr 4/17/2009 12:08",
+		"retract" : "rr 4/15/2009 11:06" } }

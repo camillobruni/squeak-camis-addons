@@ -1,0 +1,3 @@
+*ocompletion
+isSuper
+	^type = #super

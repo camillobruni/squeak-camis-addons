@@ -1,0 +1,3 @@
+*ocompletion
+isArgument
+	^ type = #methodArg

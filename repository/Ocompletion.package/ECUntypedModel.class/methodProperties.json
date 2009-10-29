@@ -1,0 +1,16 @@
+{
+	"class" : {
+		"class:temporaries:" : "bar 12/20/2004 09:02",
+		"class:temporaries:additionals:variables:selectors:" : "lr 7/4/2009 10:42" },
+	"instance" : {
+		"addAdditionals:" : "bar 8/14/2005 21:50",
+		"addSelectors" : "cmm 1/6/2007 21:43",
+		"addVariables" : "bar 10/5/2005 23:05",
+		"initialize" : "lr 7/4/2009 10:42",
+		"initializeClassVars" : "lr 7/4/2009 10:42",
+		"initializeInstVars" : "lr 7/4/2009 10:42",
+		"initializeSelectors" : "damiencassou 4/17/2009 15:30",
+		"message" : "cmm 1/8/2007 21:01",
+		"narrowString:" : "bar 4/11/2005 11:42",
+		"narrowWith:" : "bar 4/11/2005 11:35",
+		"setClass:temporaries:additionals:variables:selectors:" : "lr 7/4/2009 10:42" } }

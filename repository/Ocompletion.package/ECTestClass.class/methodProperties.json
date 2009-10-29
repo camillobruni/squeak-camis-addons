@@ -1,0 +1,7 @@
+{
+	"class" : {
+		"initialize" : "lr 7/4/2009 10:42" },
+	"instance" : {
+		"initialize:" : "bar 12/13/2004 17:41",
+		"lowPriorityOverrides:" : "bar 12/13/2004 17:29",
+		"testIt:" : "bar 12/9/2004 19:40" } }

@@ -1,0 +1,10 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"addSymbols:" : "bar 10/28/2004 10:14",
+		"completionAdditionals" : "lr 7/4/2009 10:42",
+		"createCompletionController" : "rr 5/11/2009 22:47",
+		"guessTypeForName:" : "lr 7/4/2009 10:42",
+		"hasBindingOf:" : "bar 12/16/2004 11:24",
+		"hasBindingThatBeginsWith:" : "bar 12/16/2004 11:26" } }

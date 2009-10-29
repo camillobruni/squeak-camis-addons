@@ -1,0 +1,8 @@
+{
+	"class" : {
+		"initialize" : "lr 7/4/2009 10:42" },
+	"instance" : {
+		"initialize" : "lr 7/4/2009 10:42",
+		"testIt:" : "bar 12/6/2004 08:44",
+		"toBeOverriden:" : "bar 12/6/2004 08:45",
+		"toBeOverridenWithReturn" : "bar 12/6/2004 16:19" } }

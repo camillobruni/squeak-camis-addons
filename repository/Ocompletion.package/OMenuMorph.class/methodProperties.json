@@ -1,0 +1,15 @@
+{
+	"class" : {
+		"backgroundColor" : "RomainRobbes 10/19/2009 19:24",
+		"itemWidth" : "RomainRobbes 10/19/2009 19:36",
+		"scrollColor" : "rr 4/29/2009 10:26",
+		"selectFontFor:" : "rr 5/28/2009 13:44" },
+	"instance" : {
+		"context" : "rr 4/15/2009 15:23",
+		"context:" : "rr 4/15/2009 15:24",
+		"createTitle" : "rr 12/11/2007 09:41",
+		"drawOn:" : "RomainRobbes 10/19/2009 19:23",
+		"drawTopScrollArrowOn:" : "rr 12/11/2007 09:44",
+		"hasMessage" : "rr 12/11/2007 09:39",
+		"height" : "rr 4/15/2009 10:44",
+		"narrowCompletion" : "rr 6/26/2009 11:09" } }

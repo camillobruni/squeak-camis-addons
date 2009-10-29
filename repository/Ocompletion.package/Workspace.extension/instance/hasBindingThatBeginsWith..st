@@ -1,0 +1,3 @@
+*ocompletion
+hasBindingThatBeginsWith: aString
+	^false

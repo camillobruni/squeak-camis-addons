@@ -1,0 +1,3 @@
+*ocompletion
+isGlobal
+	^type = #globalVar

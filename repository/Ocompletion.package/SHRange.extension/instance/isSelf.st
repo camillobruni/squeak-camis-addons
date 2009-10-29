@@ -1,0 +1,3 @@
+*ocompletion
+isSelf
+	^type = #self

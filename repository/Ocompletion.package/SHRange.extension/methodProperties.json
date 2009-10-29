@@ -1,0 +1,26 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"asType" : "bar 1/9/2005 13:20",
+		"includesPosition:" : "bar 1/6/2005 22:08",
+		"isArgument" : "bar 1/9/2005 13:14",
+		"isAssignment" : "bar 1/9/2005 14:51",
+		"isBinary" : "bar 3/2/2006 21:27",
+		"isBlockEnd" : "bar 1/6/2005 22:22",
+		"isBlockStart" : "bar 1/6/2005 22:21",
+		"isBlockTemporary" : "bar 9/20/2006 08:29",
+		"isClassVariable" : "bar 8/9/2005 23:04",
+		"isComment" : "bar 1/6/2005 13:17",
+		"isConstant" : "bar 1/9/2005 13:20",
+		"isGlobal" : "bar 1/9/2005 13:06",
+		"isInstanceVariable" : "bar 1/9/2005 13:13",
+		"isKeyword" : "bar 3/9/2006 10:10",
+		"isOpening" : "bar 1/6/2005 13:56",
+		"isSelf" : "bar 1/9/2005 13:05",
+		"isSeparator" : "bar 1/9/2005 14:37",
+		"isSuper" : "bar 1/9/2005 13:05",
+		"isTemporaryVariable" : "bar 1/9/2005 13:03",
+		"isUnfinished" : "bar 1/6/2005 13:18",
+		"isVariable" : "bar 1/9/2005 13:13",
+		"isVariablesOnly" : "bar 3/2/2006 21:26" } }

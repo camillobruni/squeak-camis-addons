@@ -1,0 +1,25 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"checkUntypedVariablesOnly:" : "lr 7/4/2009 10:42",
+		"createContextFor:at:" : "bar 12/13/2004 15:46",
+		"testBlockTemporaries" : "lr 7/4/2009 10:42",
+		"testBlockTemporariesBoxed" : "lr 7/4/2009 10:42",
+		"testCompletionToken" : "bar 12/11/2004 23:42",
+		"testCompletionTokenEmpty" : "bar 12/12/2004 10:06",
+		"testCreateModel" : "bar 12/13/2004 10:40",
+		"testEmpty" : "bar 1/6/2005 22:00",
+		"testInTheMiddelOfAWord" : "lr 7/4/2009 10:42",
+		"testReceiverArgument" : "lr 7/4/2009 10:42",
+		"testReceiverCascade" : "bar 12/13/2004 09:45",
+		"testReceiverClassVar" : "lr 7/4/2009 10:42",
+		"testReceiverConstant" : "bar 12/12/2004 23:03",
+		"testReceiverGlobal" : "bar 12/12/2004 22:38",
+		"testReceiverGlobalVarNew" : "bar 12/12/2004 23:05",
+		"testReceiverTempVar" : "lr 7/4/2009 10:42",
+		"testReceiverTempVar2" : "bar 12/13/2004 16:28",
+		"testTemporaries" : "lr 7/4/2009 10:42",
+		"testUnfinishedString" : "lr 7/4/2009 10:42",
+		"testUntypedSelectorsOnly" : "lr 7/4/2009 10:42",
+		"testUntypedVarsOnly" : "bar 3/9/2006 10:10" } }

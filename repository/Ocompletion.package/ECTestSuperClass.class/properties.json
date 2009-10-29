@@ -1,0 +1,14 @@
+{
+	"category" : "Ocompletion-ECTests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"SuperClassVar" ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"superInstVar" ],
+	"name" : "ECTestSuperClass",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

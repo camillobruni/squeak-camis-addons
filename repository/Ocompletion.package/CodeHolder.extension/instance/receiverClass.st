@@ -1,0 +1,3 @@
+*ocompletion
+receiverClass
+	^ self selectedClassOrMetaClass
