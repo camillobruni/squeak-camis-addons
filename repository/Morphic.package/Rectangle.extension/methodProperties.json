@@ -1,0 +1,12 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"ceiling" : "wiz 2/12/2006 15:58",
+		"compressTo:" : "wiz 2/12/2006 01:37",
+		"compressed" : "wiz 2/12/2006 01:37",
+		"expandTo:" : "nice 2/5/2006 16:51",
+		"expanded" : "nice 2/5/2006 16:52",
+		"floor" : "wiz 2/12/2006 15:56",
+		"isIntegerRectangle" : "wiz 1/11/2006 18:39",
+		"roundTo:" : "nice 2/5/2006 16:53" } }

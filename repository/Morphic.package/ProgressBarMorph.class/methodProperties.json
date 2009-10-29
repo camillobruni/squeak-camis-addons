@@ -1,0 +1,14 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"addCustomMenuItems:hand:" : "dgd 8/30/2003 21:43",
+		"changeProgressColor:" : "ar 10/5/2000 18:51",
+		"changeProgressValue:" : "alain.plantec 2/6/2009 15:48",
+		"drawOn:" : "sma 3/3/2000 18:54",
+		"initialize" : "sma 3/3/2000 18:55",
+		"progressColor" : "ar 11/18/1998 22:14",
+		"progressColor:" : "sma 3/3/2000 18:52",
+		"update:" : "sma 3/3/2000 18:51",
+		"value" : "ar 11/18/1998 22:09",
+		"value:" : "sma 3/3/2000 18:53" } }

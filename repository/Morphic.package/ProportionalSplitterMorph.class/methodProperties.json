@@ -1,0 +1,21 @@
+{
+	"class" : {
+		"fastSplitterResize" : "md 2/24/2006 22:47",
+		"showSplitterHandles" : "jrp 7/9/2005 17:43",
+		"splitterWidth" : "jrp 8/6/2005 23:59" },
+	"instance" : {
+		"addLeftOrTop:" : "bvs 3/24/2004 16:57",
+		"addRightOrBottom:" : "bvs 3/24/2004 16:55",
+		"beSplitsTopAndBottom" : "bvs 3/24/2004 16:39",
+		"getOldColor" : "apl 7/8/2005 13:38",
+		"handleRect" : "jrp 7/4/2005 10:50",
+		"handleSize" : "jrp 8/6/2005 23:59",
+		"initialize" : "jrp 7/5/2005 21:46",
+		"isCursorOverHandle" : "jrp 7/9/2005 17:44",
+		"mouseMove:" : "jrp 3/21/2006 23:11",
+		"normalizedX:" : "jrp 3/21/2006 22:45",
+		"normalizedY:" : "jrp 3/21/2006 23:12",
+		"resizeCursor" : "bvs 3/24/2004 16:39",
+		"siblingSplitters" : "jrp 3/21/2006 20:20",
+		"splitsTopAndBottom" : "bvs 3/24/2004 17:25",
+		"wantsEveryMouseMove" : "bvs 3/24/2004 16:39" } }

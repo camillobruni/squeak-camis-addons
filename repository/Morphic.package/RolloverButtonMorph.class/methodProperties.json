@@ -1,0 +1,10 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"handlesMouseOver:" : "wiz 5/18/2006 20:52",
+		"handlesMouseOverDragging:" : "wiz 5/18/2006 20:52",
+		"mouseEnter:" : "wiz 5/18/2006 20:53",
+		"mouseLeave:" : "wiz 5/18/2006 20:54",
+		"mouseLeaveDragging:" : "wiz 5/18/2006 20:53",
+		"mouseUp:" : "wiz 5/18/2006 22:29" } }

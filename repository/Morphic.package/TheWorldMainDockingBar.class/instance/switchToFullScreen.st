@@ -1,0 +1,3 @@
+menu actions
+switchToFullScreen
+	self toggleFullScreen

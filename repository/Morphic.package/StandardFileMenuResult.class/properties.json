@@ -1,0 +1,15 @@
+{
+	"category" : "Morphic-FileList",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"directory",
+		"name" ],
+	"name" : "StandardFileMenuResult",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

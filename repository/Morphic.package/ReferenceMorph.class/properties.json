@@ -1,0 +1,15 @@
+{
+	"category" : "Morphic-Worlds",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"referent",
+		"isHighlighted" ],
+	"name" : "ReferenceMorph",
+	"pools" : [
+		 ],
+	"super" : "BorderedMorph",
+	"type" : "normal" }

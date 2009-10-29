@@ -1,0 +1,17 @@
+{
+	"class" : {
+		"applyNewEToyLook" : "nk 9/1/2004 10:53",
+		"removePlayersIn:" : "mir 11/26/2004 16:14",
+		"removeUnreferencedPlayers" : "mir 11/25/2004 19:01",
+		"unload" : "asm 4/12/2003 14:38" },
+	"instance" : {
+		"deletePrivateGraphics" : "ar 3/3/2001 19:45",
+		"deletePrivateGraphics:afterStoringToFileNamed:" : "di 2/3/2001 20:10",
+		"formAtKey:" : "sw 2/24/2003 16:28",
+		"formAtKey:extent:depth:" : "ar 3/3/2001 19:46",
+		"formDictionary" : "ar 3/3/2001 19:49",
+		"helpStringOrNilFor:" : "dgd 9/1/2003 14:25",
+		"privateGraphics" : "ar 3/3/2001 19:44",
+		"saveForm:atKey:" : "sw 10/6/1999 20:57",
+		"squeakyMouseForm" : "sw 10/24/1998 14:12",
+		"stripGraphicsForExternalRelease" : "sw 11/26/1999 15:44" } }

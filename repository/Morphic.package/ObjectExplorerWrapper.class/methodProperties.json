@@ -1,0 +1,17 @@
+{
+	"class" : {
+		"with:name:model:" : "RAA 6/21/1999 10:50",
+		"with:name:model:parent:" : "nk 7/24/2003 09:16" },
+	"instance" : {
+		"asString" : "sge 4/12/2001 08:24",
+		"canBeDragged" : "RAA 6/21/1999 15:48",
+		"contents" : "yo 8/27/2008 23:39",
+		"hasContents" : "RAA 6/21/1999 11:27",
+		"icon" : "dgd 9/26/2004 18:34",
+		"itemName" : "nk 7/24/2003 10:16",
+		"parent" : "nk 7/24/2003 09:14",
+		"parent:" : "nk 7/24/2003 09:14",
+		"refresh" : "nk 7/12/2003 18:28",
+		"selector" : "nk 7/24/2003 09:49",
+		"setItem:name:model:" : "RAA 6/21/1999 10:49",
+		"setItem:name:model:parent:" : "nk 7/24/2003 09:14" } }

@@ -1,0 +1,22 @@
+{
+	"category" : "Morphic-Widgets",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"target",
+		"innerTarget",
+		"positionOffset",
+		"angleOffset",
+		"growingOrRotating",
+		"directionArrowAnchor",
+		"haloBox",
+		"simpleMode",
+		"originalExtent" ],
+	"name" : "HaloMorph",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

@@ -1,0 +1,19 @@
+{
+	"category" : "Morphic-Widgets",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "efc 3/7/2003 17:46",
+	"instvars" : [
+		"target",
+		"actionSelector",
+		"arguments",
+		"actWhen",
+		"oldColor",
+		"mouseDownTime" ],
+	"name" : "SimpleButtonMorph",
+	"pools" : [
+		 ],
+	"super" : "RectangleMorph",
+	"type" : "normal" }

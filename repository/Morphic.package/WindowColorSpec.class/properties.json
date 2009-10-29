@@ -1,0 +1,18 @@
+{
+	"category" : "Morphic-Windows",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"classSymbol",
+		"wording",
+		"brightColor",
+		"pastelColor",
+		"helpMessage" ],
+	"name" : "WindowColorSpec",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

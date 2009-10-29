@@ -1,0 +1,13 @@
+{
+	"class" : {
+		"includeInNewMorphMenu" : "sw 11/4/1998 09:20" },
+	"instance" : {
+		"adjustBookControls" : "sw 9/29/1999 07:37",
+		"createMethod" : "nk 2/12/2003 23:00",
+		"debug" : "sw 10/15/1998 13:00",
+		"extent:" : "sw 11/4/1998 09:50",
+		"initialize" : "aoy 2/15/2003 21:39",
+		"proceed" : "sw 10/15/1998 13:00",
+		"setBalloonTextForCloseBox" : "yo 3/15/2005 13:07",
+		"setLabelWidgetAllowance" : "alain.plantec 5/30/2008 14:17",
+		"storeLog" : "mir 11/10/2003 15:15" } }

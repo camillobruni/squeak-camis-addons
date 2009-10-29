@@ -1,0 +1,16 @@
+{
+	"category" : "Morphic-Text Support",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "alain.plantec 6/8/2009 23:47",
+	"instvars" : [
+		"morph",
+		"oldInterval",
+		"pivotBlock" ],
+	"name" : "TextMorphEditor",
+	"pools" : [
+		 ],
+	"super" : "ParagraphEditor",
+	"type" : "normal" }

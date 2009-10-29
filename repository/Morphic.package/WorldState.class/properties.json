@@ -1,0 +1,28 @@
+{
+	"category" : "Morphic-Worlds",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"CanSurrenderToOS",
+		"DeferredUIMessages",
+		"DisableDeferredUpdates",
+		"LastCycleTime",
+		"MinCycleLapse" ],
+	"commentStamp" : "ls 7/10/2003 19:30",
+	"instvars" : [
+		"hands",
+		"viewBox",
+		"canvas",
+		"damageRecorder",
+		"stepList",
+		"lastStepTime",
+		"lastStepMessage",
+		"lastCycleTime",
+		"commandHistory",
+		"alarms",
+		"lastAlarmTime" ],
+	"name" : "WorldState",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

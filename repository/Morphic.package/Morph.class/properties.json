@@ -1,0 +1,19 @@
+{
+	"category" : "Morphic-Kernel",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"EmptyArray" ],
+	"commentStamp" : "efc 2/26/2003 20:01",
+	"instvars" : [
+		"bounds",
+		"owner",
+		"submorphs",
+		"fullBounds",
+		"color",
+		"extension" ],
+	"name" : "Morph",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,3 @@
+menu actions
+showWorldMainDockingBarString
+	^ self world showWorldMainDockingBarString

@@ -1,0 +1,21 @@
+{
+	"category" : "Morphic-Pluggable Widgets",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"textMorph",
+		"getTextSelector",
+		"setTextSelector",
+		"getSelectionSelector",
+		"hasUnacceptedEdits",
+		"askBeforeDiscardingEdits",
+		"selectionInterval",
+		"hasEditingConflicts" ],
+	"name" : "PluggableTextMorph",
+	"pools" : [
+		 ],
+	"super" : "ScrollPane",
+	"type" : "normal" }

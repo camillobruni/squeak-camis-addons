@@ -1,0 +1,3 @@
+menu actions
+saveAsNewVersion
+	SmalltalkImage current saveAsNewVersion

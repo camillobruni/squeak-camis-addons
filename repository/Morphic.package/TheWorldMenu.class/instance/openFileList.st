@@ -1,0 +1,3 @@
+commands
+openFileList
+	FileList prototypicalToolWindow openInWorld: myWorld

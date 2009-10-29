@@ -1,0 +1,27 @@
+{
+	"category" : "Morphic-Text Support",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"text",
+		"textStyle",
+		"firstCharacterIndex",
+		"container",
+		"lines",
+		"positionWhenComposed",
+		"offsetToEnd",
+		"maxRightX",
+		"selectionStart",
+		"selectionStop",
+		"wantsColumnBreaks",
+		"focused",
+		"caretRect",
+		"showCaret" ],
+	"name" : "NewParagraph",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,11 @@
+{
+	"class" : {
+		"on:list:primarySelection:changePrimarySelection:listSelection:changeListSelection:menu:" : "tpr 10/4/2001 21:54",
+		"on:list:primarySelection:changePrimarySelection:listSelection:changeListSelection:menu:keystroke:" : "tpr 10/4/2001 21:52" },
+	"instance" : {
+		"itemSelectedAmongMultiple:" : "hpt 4/5/2004 11:00",
+		"listSelectionAt:" : "tpr 10/4/2001 21:26",
+		"listSelectionAt:put:" : "tpr 10/4/2001 21:27",
+		"mouseMove:" : "nk 10/14/2003 22:19",
+		"on:list:primarySelection:changePrimarySelection:listSelection:changeListSelection:menu:keystroke:" : "tpr 10/4/2001 21:24",
+		"update:" : "di 11/10/1998 14:44" } }

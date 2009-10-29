@@ -1,0 +1,19 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"clipBy:during:" : "ar 6/22/1999 16:34",
+		"doStop" : "ar 6/22/1999 16:15",
+		"doStop:" : "ar 6/22/1999 16:15",
+		"foundMorph" : "ar 6/22/1999 16:15",
+		"foundMorph:" : "ar 6/22/1999 16:38",
+		"fullDrawMorph:" : "ar 6/22/1999 16:14",
+		"preserveStateDuring:" : "ar 6/22/1999 16:42",
+		"reset" : "ar 6/22/1999 16:18",
+		"setForm:" : "ar 6/22/1999 16:18",
+		"stopMorph" : "ar 6/22/1999 16:14",
+		"stopMorph:" : "ar 6/22/1999 16:14",
+		"transformBy:clippingTo:during:smoothing:" : "ar 2/17/2000 00:15",
+		"translateBy:clippingTo:during:" : "ar 6/22/1999 16:39",
+		"translateBy:during:" : "ar 6/22/1999 16:39",
+		"translateTo:clippingTo:during:" : "ar 6/22/1999 16:40" } }

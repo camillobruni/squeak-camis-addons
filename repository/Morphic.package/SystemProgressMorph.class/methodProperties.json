@@ -1,0 +1,17 @@
+{
+	"class" : {
+		"close:" : "laza 4/9/2004 10:51",
+		"example" : "laza 4/9/2004 10:49",
+		"initialize" : "laza 4/10/2004 20:29",
+		"label:min:max:" : "laza 4/18/2004 21:16",
+		"new" : "laza 4/6/2004 21:17",
+		"reset" : "laza 4/9/2004 10:35" },
+	"instance" : {
+		"close:" : "laza 7/29/2004 10:26",
+		"dismissViaHalo" : "laza 4/20/2004 12:01",
+		"freeSlot:" : "laza 5/28/2004 06:03",
+		"initialize" : "alain.plantec 5/28/2009 11:08",
+		"label:min:max:" : "nice 4/16/2009 18:59",
+		"morphicLayerNumber" : "laza 4/18/2004 21:31",
+		"slideToTrash:" : "laza 4/20/2004 11:38",
+		"updateColor:color:intensity:" : "jrp 7/6/2005 21:45" } }

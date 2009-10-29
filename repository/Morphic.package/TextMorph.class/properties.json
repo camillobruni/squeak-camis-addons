@@ -1,0 +1,24 @@
+{
+	"category" : "Morphic-Basic",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"CaretForm" ],
+	"commentStamp" : "sd 2/20/2004 23:25",
+	"instvars" : [
+		"textStyle",
+		"text",
+		"wrapFlag",
+		"paragraph",
+		"editor",
+		"container",
+		"predecessor",
+		"successor",
+		"backgroundColor",
+		"margins",
+		"editHistory" ],
+	"name" : "TextMorph",
+	"pools" : [
+		 ],
+	"super" : "RectangleMorph",
+	"type" : "normal" }

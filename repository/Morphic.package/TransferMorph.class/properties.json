@@ -1,0 +1,22 @@
+{
+	"category" : "Morphic-Support",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"CopyPlusIcon" ],
+	"commentStamp" : "nk 6/16/2003 16:52",
+	"instvars" : [
+		"transferType",
+		"passenger",
+		"draggedMorph",
+		"source",
+		"dropNotifyRecipient",
+		"accepted",
+		"resultRecipient",
+		"copy",
+		"dragHand" ],
+	"name" : "TransferMorph",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

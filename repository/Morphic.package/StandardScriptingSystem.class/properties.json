@@ -1,0 +1,17 @@
+{
+	"category" : "Morphic-Refactoring Candidates",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"ClassVarNamesInUse",
+		"FormDictionary",
+		"HelpStrings",
+		"StandardPartsBin" ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "StandardScriptingSystem",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

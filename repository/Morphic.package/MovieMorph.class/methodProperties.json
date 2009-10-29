@@ -1,0 +1,27 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"addCustomMenuItems:hand:" : "wiz 12/4/2006 00:25",
+		"advanceFrame" : "",
+		"containsPoint:" : "dgd 2/22/2003 18:48",
+		"currentFrame" : "",
+		"defaultColor" : "dgd 2/14/2003 22:28",
+		"drawOn:" : "dgd 2/22/2003 18:47",
+		"editDrawing" : "dgd 2/22/2003 18:47",
+		"extractFrame:" : "",
+		"form" : "",
+		"initialize" : "alain.plantec 5/28/2009 10:11",
+		"insertFrames:" : "",
+		"insertIntoMovie:" : "wiz 12/4/2006 00:25",
+		"nextFrame" : "",
+		"playLoop" : "",
+		"playOnce" : "",
+		"previousFrame" : "",
+		"rotationDegrees" : "",
+		"scalePoint" : "jm 7/24/97 15:05",
+		"scalePoint:" : "jm 7/24/97 15:05",
+		"setFrame:" : "ar 9/23/2000 12:44",
+		"step" : "",
+		"stepTime" : "",
+		"stopPlaying" : "" } }

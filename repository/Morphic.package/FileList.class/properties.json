@@ -1,0 +1,30 @@
+{
+	"category" : "Morphic-FileList",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"FileReaderRegistry",
+		"RecentDirs" ],
+	"commentStamp" : "BJP 11/19/2003 21:13",
+	"instvars" : [
+		"fileName",
+		"directory",
+		"volList",
+		"volListIndex",
+		"list",
+		"listIndex",
+		"pattern",
+		"sortMode",
+		"brevityState",
+		"currentDirectorySelected",
+		"fileSelectionBlock",
+		"dirSelectionBlock",
+		"optionalButtonSpecs",
+		"modalView",
+		"directoryChangeBlock",
+		"ok" ],
+	"name" : "FileList",
+	"pools" : [
+		 ],
+	"super" : "StringHolder",
+	"type" : "normal" }

@@ -1,0 +1,22 @@
+{
+	"category" : "Morphic-Undo",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"phase",
+		"cmdWording",
+		"undoTarget",
+		"undoSelector",
+		"undoArguments",
+		"redoTarget",
+		"redoSelector",
+		"redoArguments",
+		"parameters" ],
+	"name" : "Command",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

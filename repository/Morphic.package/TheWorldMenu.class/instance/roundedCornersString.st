@@ -1,0 +1,4 @@
+action
+roundedCornersString
+
+	^ Preferences roundedCornersString

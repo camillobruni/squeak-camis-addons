@@ -1,0 +1,14 @@
+{
+	"category" : "Morphic-Windows",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"mySystemWindow" ],
+	"name" : "LabelStringMorph",
+	"pools" : [
+		 ],
+	"super" : "StringMorph",
+	"type" : "normal" }

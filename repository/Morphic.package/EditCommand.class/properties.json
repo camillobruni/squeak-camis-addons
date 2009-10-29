@@ -1,0 +1,19 @@
+{
+	"category" : "Morphic-Text Support",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"textMorph",
+		"phase",
+		"replacedText",
+		"replacedTextInterval",
+		"newText",
+		"newTextInterval" ],
+	"name" : "EditCommand",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

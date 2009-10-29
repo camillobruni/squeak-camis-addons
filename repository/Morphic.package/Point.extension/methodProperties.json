@@ -1,0 +1,11 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"ceiling" : "nice 2/5/2006 16:43",
+		"floor" : "nice 2/5/2006 16:43",
+		"guarded" : "wiz 8/9/2005 02:44",
+		"isIntegerPoint" : "wiz 1/11/2006 18:32",
+		"roundDownTo:" : "nice 2/5/2006 16:42",
+		"roundUpTo:" : "nice 2/5/2006 16:41",
+		"scaleTo:" : "wiz 9/14/2005 22:41" } }

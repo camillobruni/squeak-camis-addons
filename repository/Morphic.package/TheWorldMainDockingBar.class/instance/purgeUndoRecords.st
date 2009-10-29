@@ -1,0 +1,3 @@
+menu actions
+purgeUndoRecords
+	 CommandHistory resetAllHistory

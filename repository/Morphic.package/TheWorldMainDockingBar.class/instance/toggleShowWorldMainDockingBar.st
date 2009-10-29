@@ -1,0 +1,3 @@
+menu actions
+toggleShowWorldMainDockingBar
+	self world toggleShowWorldMainDockingBar

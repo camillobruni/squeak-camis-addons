@@ -1,0 +1,3 @@
+access
+caretWidth
+	^ 0

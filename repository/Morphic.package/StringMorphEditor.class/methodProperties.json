@@ -1,0 +1,8 @@
+{
+	"class" : {
+		"includeInNewMorphMenu" : "kfr 5/1/2000 13:41" },
+	"instance" : {
+		"drawOn:" : "sw 9/7/1999 16:22",
+		"initialize" : "alain.plantec 5/28/2009 11:08",
+		"keyStroke:" : "nk 6/12/2004 22:07",
+		"keyboardFocusChange:" : "nk 1/23/2004 13:18" } }

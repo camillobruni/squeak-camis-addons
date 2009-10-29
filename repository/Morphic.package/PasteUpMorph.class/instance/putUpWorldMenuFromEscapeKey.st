@@ -1,0 +1,3 @@
+world menu
+putUpWorldMenuFromEscapeKey
+	self putUpWorldMenu: ActiveEvent

@@ -1,0 +1,28 @@
+{
+	"category" : "Morphic-Windows",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"ArrowImagesCache",
+		"BoxesImagesCache",
+		"UpArrow",
+		"UpArrow8Bit" ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"menuButton",
+		"upButton",
+		"downButton",
+		"pagingArea",
+		"scrollDelta",
+		"pageDelta",
+		"interval",
+		"menuSelector",
+		"timeOfMouseDown",
+		"timeOfLastScroll",
+		"nextPageDirection",
+		"currentScrollDelay" ],
+	"name" : "ScrollBar",
+	"pools" : [
+		 ],
+	"super" : "Slider",
+	"type" : "normal" }

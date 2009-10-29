@@ -1,0 +1,35 @@
+{
+	"category" : "Morphic-Extras",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"AllOffImage",
+		"AllOnImage",
+		"AllPressedImage",
+		"ColorChart",
+		"OriginalBounds",
+		"Prototype",
+		"RecentColors" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"action",
+		"tool",
+		"currentCursor",
+		"thumbnail",
+		"currentColor",
+		"currentBrush",
+		"colorMemory",
+		"colorPatch",
+		"stampHolder",
+		"rotationTabForm",
+		"scaleTabForm",
+		"colorMemoryThin",
+		"brushes",
+		"focusMorph",
+		"weakDependents",
+		"recentColors" ],
+	"name" : "PaintBoxMorph",
+	"pools" : [
+		 ],
+	"super" : "ImageMorph",
+	"type" : "normal" }

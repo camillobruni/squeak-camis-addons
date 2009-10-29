@@ -1,0 +1,26 @@
+{
+	"class" : {
+		"includeInNewMorphMenu" : "kfr 5/1/2000 13:41" },
+	"instance" : {
+		"acceptContents" : "di 4/22/1998 10:57",
+		"acceptOnCR" : "sw 8/12/2002 00:02",
+		"acceptOnCR:" : "di 9/11/1998 15:42",
+		"autoScrollView:" : "ar 11/8/2000 15:50",
+		"cancelEdits" : "di 4/22/1998 11:03",
+		"drawNullTextOn:" : "di 6/22/1998 10:44",
+		"editView" : "di 6/22/1998 01:31",
+		"flash" : "di 11/10/1998 10:13",
+		"handleInteraction:" : "michael.rueger 2/23/2009 17:37",
+		"hasUnacceptedEdits:" : "di 4/21/1998 13:23",
+		"initialize" : "alain.plantec 5/28/2009 11:12",
+		"keyStroke:" : "michael.rueger 3/23/2009 17:03",
+		"keyboardFocusChange:" : "tbn 8/5/2009 09:48",
+		"mouseDown:" : "di 6/30/1998 08:50",
+		"mouseMove:" : "ar 9/26/2001 22:28",
+		"mouseUp:" : "sumim 1/16/2007 19:43",
+		"preferredKeyboardPosition" : "fbs 1/7/2005 15:43",
+		"selectAll" : "sw 7/27/2001 13:35",
+		"setEditView:" : "di 4/21/1998 13:09",
+		"tempCommand" : "sw 11/2/1998 15:51",
+		"updateFromParagraph" : "dew 2/21/1999 03:09",
+		"wouldAcceptKeyboardFocusUponTab" : "sw 8/29/2000 15:06" } }

@@ -1,0 +1,27 @@
+{
+	"class" : {
+		"example1" : "stephane.ducasse 12/23/2008 22:37",
+		"initialize" : "sw 12/30/2004 00:47",
+		"recursionReset" : "sw 5/3/1998 19:12" },
+	"instance" : {
+		"actualViewee" : "stephane.ducasse 10/28/2008 18:29",
+		"defaultBorderWidth" : "dgd 3/7/2003 14:57",
+		"defaultColor" : "dgd 3/7/2003 14:56",
+		"drawForForm:on:" : "wiz 8/6/2005 22:01",
+		"drawMeOn:" : "wiz 8/6/2005 22:11",
+		"drawOn:" : "ar 10/26/2000 23:45",
+		"formOrMorphToView" : "stephane.ducasse 10/28/2008 18:29",
+		"getSelector" : "sw 1/6/2005 01:46",
+		"getSelector:" : "sw 1/6/2005 17:03",
+		"initialize" : "dgd 3/7/2003 14:57",
+		"morphToView" : "stephane.ducasse 10/28/2008 18:28",
+		"objectToView:" : "sw 6/9/2000 18:35",
+		"objectToView:viewSelector:" : "sw 6/9/2000 18:35",
+		"putSelector" : "sw 1/6/2005 17:06",
+		"releaseCachedState" : "ar 3/3/2001 19:37",
+		"scaleFor:in:" : "wiz 8/6/2005 21:58",
+		"step" : "nk 6/14/2004 16:47",
+		"stepTime" : "marcus.denker 2/23/2009 11:20",
+		"target" : "sw 1/6/2005 01:39",
+		"veryDeepFixupWith:" : "tk 1/7/1999 14:57",
+		"veryDeepInner:" : "ar 10/26/2000 23:55" } }

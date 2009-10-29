@@ -1,0 +1,15 @@
+{
+	"category" : "Morphic-DockingBar",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"Instance",
+		"TS" ],
+	"commentStamp" : "stephane.ducasse 3/22/2009 11:50",
+	"instvars" : [
+		 ],
+	"name" : "TheWorldMainDockingBar",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

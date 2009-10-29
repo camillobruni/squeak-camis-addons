@@ -1,0 +1,20 @@
+{
+	"category" : "Morphic-DockingBar",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"originalColor",
+		"gradientRamp",
+		"fillsOwner",
+		"avoidVisibleBordersAtEdge",
+		"autoGradient",
+		"selectedItem",
+		"activeSubMenu" ],
+	"name" : "DockingBarMorph",
+	"pools" : [
+		 ],
+	"super" : "AlignmentMorph",
+	"type" : "normal" }

@@ -1,0 +1,11 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"display:atRow:on:" : "nk 1/10/2004 16:19",
+		"drawOn:" : "ls 5/17/2001 21:58",
+		"getListItem:" : "ls 5/17/2001 21:23",
+		"hUnadjustedScrollRange" : "sps 4/2/2004 12:16",
+		"listChanged" : "ls 5/18/2001 16:43",
+		"setColumnWidthsFor:" : "sps 3/23/2004 15:51",
+		"widthToDisplayItem:" : "ls 4/17/2004 12:21" } }

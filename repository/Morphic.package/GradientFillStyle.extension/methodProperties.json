@@ -1,0 +1,13 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"addFillStyleMenuItems:hand:from:" : "dgd 10/17/2003 22:37",
+		"addNewColorIn:event:" : "ar 6/18/1999 09:49",
+		"beLinearGradientIn:" : "ar 6/18/1999 07:25",
+		"beRadialGradientIn:" : "ar 6/18/1999 07:25",
+		"changeColorSelector:hand:morph:originalColor:" : "sw 9/8/2000 18:13",
+		"changeFirstColorIn:event:" : "di 9/3/1999 11:34",
+		"changeSecondColorIn:event:" : "di 9/3/1999 11:34",
+		"firstColor:forMorph:hand:" : "nk 7/18/2003 16:35",
+		"lastColor:forMorph:hand:" : "nk 7/18/2003 16:35" } }
