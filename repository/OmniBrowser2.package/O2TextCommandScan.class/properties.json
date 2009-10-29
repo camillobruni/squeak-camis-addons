@@ -1,0 +1,14 @@
+{
+	"category" : "OmniBrowser2-Announcements",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "O2TextCommandScan",
+	"pools" : [
+		 ],
+	"super" : "O2CommandScan",
+	"type" : "normal" }

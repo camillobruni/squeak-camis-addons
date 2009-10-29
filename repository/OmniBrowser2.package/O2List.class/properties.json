@@ -1,0 +1,16 @@
+{
+	"category" : "OmniBrowser2-Kernel",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"column",
+		"position",
+		"fan" ],
+	"name" : "O2List",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

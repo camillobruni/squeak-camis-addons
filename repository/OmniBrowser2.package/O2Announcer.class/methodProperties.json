@@ -1,0 +1,10 @@
+{
+	"class" : {
+		"current" : "scg 8/24/2009 10:45",
+		"new" : "cwp 4/17/2006 11:50" },
+	"instance" : {
+		"announce:" : "scg 8/24/2009 11:11",
+		"initialize" : "cwp 4/17/2006 11:51",
+		"observe:do:" : "cwp 6/3/2006 21:21",
+		"observe:send:to:" : "cwp 6/3/2006 23:31",
+		"unsubscribe:" : "cwp 6/10/2006 00:40" } }

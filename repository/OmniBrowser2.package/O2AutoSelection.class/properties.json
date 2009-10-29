@@ -1,0 +1,15 @@
+{
+	"category" : "OmniBrowser2-Kernel",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "dr 1/28/2009 14:52",
+	"instvars" : [
+		"fan",
+		"metaNode" ],
+	"name" : "O2AutoSelection",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

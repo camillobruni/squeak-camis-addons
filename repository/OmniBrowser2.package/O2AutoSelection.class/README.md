@@ -1,0 +1,1 @@
+A auto selection holds a strategy that returns the node to auto select in columns. An auto selection strategy is stored in the metanode representing the respective column. 

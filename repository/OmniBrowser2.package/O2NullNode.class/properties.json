@@ -1,0 +1,14 @@
+{
+	"category" : "OmniBrowser2-Nodes",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "O2NullNode",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

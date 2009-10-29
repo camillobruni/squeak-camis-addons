@@ -1,0 +1,4 @@
+smalltalk
+smalltalkEnvironment
+
+	^self subclassResponsibility

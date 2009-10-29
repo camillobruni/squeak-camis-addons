@@ -1,0 +1,18 @@
+{
+	"class" : {
+		"inColumn:" : "cwp 5/17/2007 23:47" },
+	"instance" : {
+		"browser" : "dr 2/20/2009 16:10",
+		"buildOn:" : "dr 10/21/2008 13:34",
+		"currentNode:" : "cwp 7/14/2007 10:18",
+		"filter" : "cwp 5/18/2007 00:06",
+		"filter:" : "cwp 5/17/2007 22:59",
+		"isActive" : "cwp 5/17/2007 21:41",
+		"isDropEdge:" : "dr 7/7/2009 14:10",
+		"isEnabled:" : "dr 7/19/2007 15:17",
+		"list" : "cwp 7/14/2007 10:08",
+		"longDescriptions" : "dkh 3/21/2009 13:49",
+		"refresh" : "cwp 5/18/2007 21:45",
+		"selection" : "cwp 5/17/2007 22:12",
+		"selection:" : "dr 10/24/2008 18:53",
+		"setColumn:filter:" : "cwp 5/17/2007 23:44" } }

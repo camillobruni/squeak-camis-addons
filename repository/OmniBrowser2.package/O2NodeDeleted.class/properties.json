@@ -1,0 +1,15 @@
+{
+	"category" : "OmniBrowser2-Announcements",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"node",
+		"column" ],
+	"name" : "O2NodeDeleted",
+	"pools" : [
+		 ],
+	"super" : "O2Announcement",
+	"type" : "normal" }

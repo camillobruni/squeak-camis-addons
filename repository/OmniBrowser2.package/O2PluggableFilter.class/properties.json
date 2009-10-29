@@ -1,0 +1,19 @@
+{
+	"category" : "OmniBrowser2-Filters",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"edges",
+		"nodeDisplay",
+		"nodes",
+		"parentDisplay",
+		"note",
+		"icon" ],
+	"name" : "O2PluggableFilter",
+	"pools" : [
+		 ],
+	"super" : "O2Filter",
+	"type" : "normal" }

@@ -1,0 +1,15 @@
+{
+	"category" : "OmniBrowser2-Nodes",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "cwp 1/7/2005 23:31",
+	"instvars" : [
+		"name",
+		"collection" ],
+	"name" : "O2CollectionNode",
+	"pools" : [
+		 ],
+	"super" : "O2Node",
+	"type" : "normal" }

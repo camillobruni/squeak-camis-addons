@@ -1,0 +1,14 @@
+{
+	"category" : "OmniBrowser2-Filters",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "cwp 3/4/2004 21:53",
+	"instvars" : [
+		"metaNode" ],
+	"name" : "O2Filter",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

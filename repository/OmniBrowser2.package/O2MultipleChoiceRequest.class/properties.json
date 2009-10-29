@@ -1,0 +1,14 @@
+{
+	"category" : "OmniBrowser2-Notifications",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"selection" ],
+	"name" : "O2MultipleChoiceRequest",
+	"pools" : [
+		 ],
+	"super" : "O2ChoiceRequest",
+	"type" : "normal" }

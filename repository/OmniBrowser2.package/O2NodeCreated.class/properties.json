@@ -1,0 +1,14 @@
+{
+	"category" : "OmniBrowser2-Announcements",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"node" ],
+	"name" : "O2NodeCreated",
+	"pools" : [
+		 ],
+	"super" : "O2Announcement",
+	"type" : "normal" }

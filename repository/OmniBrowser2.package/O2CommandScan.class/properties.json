@@ -1,0 +1,14 @@
+{
+	"category" : "OmniBrowser2-Announcements",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"factories" ],
+	"name" : "O2CommandScan",
+	"pools" : [
+		 ],
+	"super" : "O2Announcement",
+	"type" : "normal" }

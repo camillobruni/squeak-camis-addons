@@ -1,0 +1,14 @@
+{
+	"category" : "OmniBrowser2-Filters",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "cwp 1/7/2005 23:39",
+	"instvars" : [
+		"selection" ],
+	"name" : "O2ModalFilter",
+	"pools" : [
+		 ],
+	"super" : "O2Filter",
+	"type" : "normal" }

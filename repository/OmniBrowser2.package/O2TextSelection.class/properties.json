@@ -1,0 +1,15 @@
+{
+	"category" : "OmniBrowser2-Utilities",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"selection",
+		"text" ],
+	"name" : "O2TextSelection",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "OmniBrowser2-Announcements",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"event" ],
+	"name" : "O2RefreshRequired",
+	"pools" : [
+		 ],
+	"super" : "O2Announcement",
+	"type" : "normal" }

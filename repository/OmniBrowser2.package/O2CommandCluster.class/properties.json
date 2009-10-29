@@ -1,0 +1,15 @@
+{
+	"category" : "OmniBrowser2-Commands",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"commands",
+		"label" ],
+	"name" : "O2CommandCluster",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

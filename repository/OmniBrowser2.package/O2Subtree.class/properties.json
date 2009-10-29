@@ -1,0 +1,14 @@
+{
+	"category" : "OmniBrowser2-Kernel",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"state" ],
+	"name" : "O2Subtree",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

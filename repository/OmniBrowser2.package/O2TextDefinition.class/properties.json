@@ -1,0 +1,14 @@
+{
+	"category" : "OmniBrowser2-Utilities",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"text" ],
+	"name" : "O2TextDefinition",
+	"pools" : [
+		 ],
+	"super" : "O2Definition",
+	"type" : "normal" }

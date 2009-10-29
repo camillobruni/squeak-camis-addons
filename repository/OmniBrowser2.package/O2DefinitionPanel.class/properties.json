@@ -1,0 +1,15 @@
+{
+	"category" : "OmniBrowser2-Panels",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "cwp 1/7/2005 23:35",
+	"instvars" : [
+		"definition",
+		"selection" ],
+	"name" : "O2DefinitionPanel",
+	"pools" : [
+		 ],
+	"super" : "O2TextPanel",
+	"type" : "normal" }

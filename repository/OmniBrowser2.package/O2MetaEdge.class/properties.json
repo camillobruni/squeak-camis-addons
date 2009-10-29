@@ -1,0 +1,18 @@
+{
+	"category" : "OmniBrowser2-Kernel",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "cwp 1/7/2005 23:20",
+	"instvars" : [
+		"label",
+		"selector",
+		"metaNode",
+		"navigation",
+		"isDropEdge" ],
+	"name" : "O2MetaEdge",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "OmniBrowser2-Announcements",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"veto" ],
+	"name" : "O2AboutToChangeSilently",
+	"pools" : [
+		 ],
+	"super" : "O2Announcement",
+	"type" : "normal" }

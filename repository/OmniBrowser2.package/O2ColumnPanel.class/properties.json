@@ -1,0 +1,18 @@
+{
+	"category" : "OmniBrowser2-Panels",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "cwp 12/6/2004 23:50",
+	"instvars" : [
+		"root",
+		"current",
+		"columns",
+		"minPanes",
+		"maxPanes" ],
+	"name" : "O2ColumnPanel",
+	"pools" : [
+		 ],
+	"super" : "O2Panel",
+	"type" : "normal" }

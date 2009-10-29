@@ -1,0 +1,15 @@
+{
+	"category" : "OmniBrowser2-Commands",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"target",
+		"requestor" ],
+	"name" : "O2Command",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

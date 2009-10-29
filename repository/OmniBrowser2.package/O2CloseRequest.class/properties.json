@@ -1,0 +1,14 @@
+{
+	"category" : "OmniBrowser2-Notifications",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"browser" ],
+	"name" : "O2CloseRequest",
+	"pools" : [
+		 ],
+	"super" : "O2InteractionRequest",
+	"type" : "normal" }

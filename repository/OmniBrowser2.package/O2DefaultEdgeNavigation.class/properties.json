@@ -1,0 +1,14 @@
+{
+	"category" : "OmniBrowser2-Kernel",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "O2DefaultEdgeNavigation",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

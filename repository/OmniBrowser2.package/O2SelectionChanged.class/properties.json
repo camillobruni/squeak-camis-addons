@@ -1,0 +1,18 @@
+{
+	"category" : "OmniBrowser2-Announcements",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"node",
+		"column",
+		"deselectedNode",
+		"browser",
+		"browserID" ],
+	"name" : "O2SelectionChanged",
+	"pools" : [
+		 ],
+	"super" : "O2Announcement",
+	"type" : "normal" }

@@ -1,0 +1,15 @@
+{
+	"category" : "OmniBrowser2-Filters",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"cache",
+		"rescued" ],
+	"name" : "O2RescueFilter",
+	"pools" : [
+		 ],
+	"super" : "O2Filter",
+	"type" : "normal" }

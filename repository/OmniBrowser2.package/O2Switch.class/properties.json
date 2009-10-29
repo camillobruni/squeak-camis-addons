@@ -1,0 +1,15 @@
+{
+	"category" : "OmniBrowser2-Utilities",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"column",
+		"filter" ],
+	"name" : "O2Switch",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

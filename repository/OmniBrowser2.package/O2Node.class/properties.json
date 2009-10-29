@@ -1,0 +1,15 @@
+{
+	"category" : "OmniBrowser2-Kernel",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "cwp 3/4/2004 22:20",
+	"instvars" : [
+		"metaNode",
+		"navigation" ],
+	"name" : "O2Node",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
