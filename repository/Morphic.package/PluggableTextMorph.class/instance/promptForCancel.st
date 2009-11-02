@@ -1,7 +1,12 @@
 unaccepted edits
 promptForCancel
-	"Ask if it is OK to cancel changes to text"
-	(self confirm:
-'Changes have not been saved.
-Is it OK to cancel those changes?' translated)
-		ifTrue: [model clearUserEditFlag].
+	| ans  |
+	model canDiscardEdits ifTrue: [^ true].
+	ans := O2ChoiceRequest 
+		prompt: 'Code has been modified. Do you want to accept or discard the changes?'
+		labels: { 'Accept'. 'Discard'. 'Cancel'  }
+		values: (Array 
+				with: [ self accept ]
+				with: [ model changed: #clearUserEdits ]
+				with: [ self cancel ]).
+	ans value. 
