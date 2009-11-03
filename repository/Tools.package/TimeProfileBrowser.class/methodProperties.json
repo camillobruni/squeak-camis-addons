@@ -1,0 +1,20 @@
+{
+	"class" : {
+		"onBlock:" : "sd 11/20/2005 21:28",
+		"spyOn:" : "nk 3/8/2004 12:46",
+		"spyOnProcess:forMilliseconds:" : "sd 11/20/2005 21:28" },
+	"instance" : {
+		"initializeMessageList:" : "sd 11/20/2005 21:27",
+		"messageListKey:from:" : "nk 3/8/2004 13:22",
+		"messageListMenu:shifted:" : "stp 05/08/1999 15:27",
+		"runBlock:" : "nk 3/8/2004 12:51",
+		"runBlock:pollingEvery:" : "jmv 9/24/2009 16:12",
+		"runProcess:forMilliseconds:pollingEvery:" : "jmv 9/24/2009 16:13",
+		"selectedClass" : "stp 05/08/1999 11:37",
+		"selectedClass:" : "stp 05/08/1999 11:37",
+		"selectedMessage" : "alain.plantec 5/18/2009 16:01",
+		"selectedSelector" : "stp 05/08/1999 11:37",
+		"selectedSelector:" : "stp 05/08/1999 11:37",
+		"setClassAndSelectorIn:" : "damiencassou 5/30/2008 16:29",
+		"tally" : "stp 05/08/1999 11:37",
+		"tally:" : "stp 05/08/1999 11:37" } }

@@ -1,0 +1,3 @@
+*Tools
+browseRecentLog
+	ChangeList browseRecentLog

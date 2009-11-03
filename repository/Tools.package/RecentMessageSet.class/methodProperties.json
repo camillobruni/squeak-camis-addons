@@ -1,0 +1,13 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"addExtraShiftedItemsTo:" : "sw 7/28/2002 23:20",
+		"contents:notifying:" : "sd 11/20/2005 21:27",
+		"growable" : "sw 1/28/2001 20:59",
+		"maybeSetSelection" : "",
+		"messageListMenu:shifted:" : "md 4/30/2008 15:39",
+		"reformulateList" : "sd 11/20/2005 21:27",
+		"removeFromRecentSubmissions" : "sd 11/20/2005 21:27",
+		"setRecentHistorySize" : "rbb 3/1/2005 11:11",
+		"updateListsAndCodeIn:" : "sd 11/20/2005 21:27" } }

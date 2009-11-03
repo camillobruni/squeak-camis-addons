@@ -1,0 +1,15 @@
+{
+	"category" : "Tools-Base",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"currentCompiledMethod",
+		"contentsSymbol" ],
+	"name" : "CodeHolder",
+	"pools" : [
+		 ],
+	"super" : "StringHolder",
+	"type" : "normal" }

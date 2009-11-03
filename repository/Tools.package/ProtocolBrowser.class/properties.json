@@ -1,0 +1,15 @@
+{
+	"category" : "Tools-Browser",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"TextMenu" ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"selectedClass",
+		"selectedSelector" ],
+	"name" : "ProtocolBrowser",
+	"pools" : [
+		 ],
+	"super" : "MessageSet",
+	"type" : "normal" }

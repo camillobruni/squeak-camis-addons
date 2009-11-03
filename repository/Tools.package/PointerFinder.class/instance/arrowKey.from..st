@@ -1,0 +1,4 @@
+morphic ui
+arrowKey: key from: aController
+	key = $i ifTrue: [^ self inspectObject].
+	^ super arrowKey: key from: aController

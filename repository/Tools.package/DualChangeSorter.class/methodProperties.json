@@ -1,0 +1,15 @@
+{
+	"class" : {
+		"open" : "sw 3/24/1999 17:50",
+		"prototypicalToolWindow" : "sw 6/11/2001 17:38",
+		"windowColorSpecification" : "sw 2/26/2002 14:12" },
+	"instance" : {
+		"buildWith:" : "sd 11/20/2005 21:27",
+		"isLeftSide:" : "",
+		"labelString" : "sd 11/20/2005 21:27",
+		"morphicWindow" : "sd 11/20/2005 21:27",
+		"okToChange" : "di 5/20/1998 21:44",
+		"open" : "alain.plantec 5/30/2008 13:00",
+		"openAsMorph" : "sw 3/6/1999 09:34",
+		"other:" : "",
+		"release" : "" } }

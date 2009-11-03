@@ -1,0 +1,14 @@
+{
+	"category" : "Tools-Changes",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"parameters" ],
+	"name" : "ChangeSetCategoryWithParameters",
+	"pools" : [
+		 ],
+	"super" : "ChangeSetCategory",
+	"type" : "normal" }

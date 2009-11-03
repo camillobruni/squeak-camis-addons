@@ -1,0 +1,27 @@
+{
+	"class" : {
+		"browseVersionsForClass:selector:" : "sd 3/30/2005 21:53",
+		"browseVersionsOf:class:meta:category:selector:" : "di 1/11/2000 12:45",
+		"browseVersionsOf:class:meta:category:selector:lostMethodPointer:" : "sd 11/20/2005 21:28",
+		"timeStampFor:class:reverseOrdinal:" : "sd 11/20/2005 21:28",
+		"versionCountForSelector:class:" : "sd 11/20/2005 21:28",
+		"windowColorSpecification" : "sw 2/26/2002 14:48" },
+	"instance" : {
+		"addedChangeRecord" : "nk 1/7/2004 10:10",
+		"addedChangeRecord:" : "sd 11/20/2005 21:27",
+		"changeListButtonSpecs" : "sw 5/6/2000 01:16",
+		"changeListKey:from:" : "sw 2/27/2001 08:46",
+		"fileInSelections" : "sw 10/12/1999 17:51",
+		"findOriginalChangeSet" : "sd 11/20/2005 21:27",
+		"offerVersionsHelp" : "sw 10/12/1999 22:49",
+		"reformulateList" : "sd 11/20/2005 21:27",
+		"removeMethodFromChanges" : "AlainPlantec 10/27/2009 03:10",
+		"scanVersionsOf:class:meta:category:selector:" : "marcus.denker 11/10/2008 10:04",
+		"selectedClass" : "sw 1/25/2001 07:03",
+		"selectedClassOrMetaClass" : "sw 1/25/2001 06:26",
+		"selectedMessageName" : "sw 1/25/2001 06:10",
+		"showsVersions" : "sw 10/19/1999 15:04",
+		"updateListsAndCodeIn:" : "sd 11/20/2005 21:27",
+		"versionFrom:" : "sd 11/20/2005 21:27",
+		"versionsHelpString" : "AlainPlantec 10/27/2009 03:00",
+		"versionsMenu:" : "alain.plantec 6/1/2008 23:22" } }

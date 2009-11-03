@@ -1,0 +1,18 @@
+{
+	"class" : {
+		"buildMorphicViewOn:" : "sd 11/20/2005 21:28",
+		"errorInClass:withCode:doitFlag:" : "di 9/14/2001 07:46",
+		"open:" : "alain.plantec 6/1/2008 20:39" },
+	"instance" : {
+		"category:" : "sd 11/20/2005 21:27",
+		"contents:notifying:" : "mtf 7/21/2008 20:44",
+		"debug" : "alain.plantec 6/1/2008 20:38",
+		"list" : "stephane.ducasse 3/31/2009 20:53",
+		"listIndex" : "jm 5/3/1998 13:48",
+		"listMenu:" : "jm 5/3/1998 14:22",
+		"notify:at:in:" : "sd 11/20/2005 21:27",
+		"proceed" : "di 5/5/1998 00:06",
+		"selectedClass" : "jm 5/3/1998 14:15",
+		"selectedClassOrMetaClass" : "jm 5/3/1998 14:33",
+		"selectedMessageName" : "jm 5/3/1998 14:17",
+		"setClass:code:debugger:doitFlag:" : "sd 11/20/2005 21:30" } }

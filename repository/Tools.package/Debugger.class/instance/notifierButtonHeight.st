@@ -1,0 +1,4 @@
+initialize
+notifierButtonHeight
+
+	^ 18

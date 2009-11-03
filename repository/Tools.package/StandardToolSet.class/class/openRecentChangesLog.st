@@ -1,0 +1,3 @@
+menu
+openRecentChangesLog
+	ChangeList browseRecentLog

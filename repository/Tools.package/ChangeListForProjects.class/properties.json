@@ -1,0 +1,14 @@
+{
+	"category" : "Tools-Changes",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "ChangeListForProjects",
+	"pools" : [
+		 ],
+	"super" : "ChangeList",
+	"type" : "normal" }

@@ -1,0 +1,13 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"acceptsManualAdditions" : "sw 4/11/2001 16:11",
+		"changeSetList" : "sd 11/20/2005 21:26",
+		"defaultChangeSetToShow" : "sd 5/23/2003 14:25",
+		"fileOutAllChangeSets" : "sd 11/20/2005 21:26",
+		"fillAggregateChangeSet" : "alain.plantec 5/30/2008 10:48",
+		"hasChangeForClassName:selector:otherThanIn:" : "sw 4/5/2001 17:26",
+		"includesChangeSet:" : "sw 3/30/2001 14:04",
+		"membershipSelector:" : "sd 11/20/2005 21:26",
+		"reconstituteList" : "sd 11/20/2005 21:26" } }

@@ -1,0 +1,16 @@
+{
+	"category" : "Tools-Inspector",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"fieldList",
+		"msgList",
+		"msgListIndex" ],
+	"name" : "InspectorBrowser",
+	"pools" : [
+		 ],
+	"super" : "Inspector",
+	"type" : "normal" }

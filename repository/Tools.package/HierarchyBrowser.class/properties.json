@@ -1,0 +1,15 @@
+{
+	"category" : "Tools-Browser",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"classList",
+		"centralClass" ],
+	"name" : "HierarchyBrowser",
+	"pools" : [
+		 ],
+	"super" : "Browser",
+	"type" : "normal" }

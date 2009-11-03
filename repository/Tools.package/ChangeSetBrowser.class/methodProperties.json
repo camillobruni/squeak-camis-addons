@@ -1,0 +1,9 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"addModelItemsToWindowMenu:" : "alain.plantec 5/30/2008 10:45",
+		"offerUnshiftedChangeSetMenu" : "sw 3/12/2001 14:07",
+		"openAsMorphIn:rect:" : "sd 11/20/2005 21:26",
+		"shiftedChangeSetMenu:" : "MiguelCoba 7/25/2009 02:06",
+		"wantsOptionalButtons" : "sw 3/9/2001 15:02" } }

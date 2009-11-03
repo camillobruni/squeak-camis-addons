@@ -1,0 +1,19 @@
+{
+	"category" : "Tools-Debugger",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"MapCache",
+		"MapCacheEntries" ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"timestamp",
+		"methodReference",
+		"methodNode",
+		"abstractSourceRanges",
+		"sortedSourceMap" ],
+	"name" : "DebuggerMethodMap",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

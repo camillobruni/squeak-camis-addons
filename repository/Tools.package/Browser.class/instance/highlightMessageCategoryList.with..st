@@ -1,0 +1,2 @@
+initialization
+highlightMessageCategoryList: list with: morphList

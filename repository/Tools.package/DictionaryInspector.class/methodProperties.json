@@ -1,0 +1,20 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"addEntry" : "rbb 3/1/2005 10:51",
+		"addEntry:" : "sd 11/20/2005 21:27",
+		"calculateKeyArray" : "sd 11/20/2005 21:27",
+		"contentsIsString" : "di 9/22/1998 21:25",
+		"copyName" : "apb 8/20/2004 21:19",
+		"fieldList" : "apb 8/20/2004 23:06",
+		"fieldListMenu:" : "ar 10/31/2004 17:25",
+		"initialize" : "PHK 7/21/2004 18:00",
+		"numberOfFixedFields" : "apb 8/20/2004 21:15",
+		"refreshView" : "sd 11/20/2005 21:27",
+		"removeSelection" : "sd 11/20/2005 21:27",
+		"renameEntry" : "rbb 3/1/2005 10:51",
+		"replaceSelectionValue:" : "apb 8/20/2004 22:37",
+		"selection" : "apb 8/20/2004 21:55",
+		"selectionReferences" : "ar 10/31/2004 17:26",
+		"sendersOfSelectedKey" : "ar 4/10/2005 22:17" } }

@@ -1,0 +1,15 @@
+{
+	"class" : {
+		"openAsMorphOn:" : "alain.plantec 6/19/2008 09:39" },
+	"instance" : {
+		"fieldList" : "sd 11/20/2005 21:27",
+		"initialize" : "sd 11/20/2005 21:27",
+		"inspect:" : "sd 11/20/2005 21:27",
+		"msgAccept:from:" : "sd 11/20/2005 21:27",
+		"msgList" : "sd 11/20/2005 21:27",
+		"msgListIndex" : "di 4/16/1998 14:18",
+		"msgListIndex:" : "sd 11/20/2005 21:27",
+		"msgListMenu:" : "apb 7/14/2004 13:57",
+		"msgPaneMenu:shifted:" : "di 4/20/1998 07:44",
+		"msgText" : "di 4/16/1998 14:38",
+		"step" : "sd 11/20/2005 21:27" } }

@@ -1,0 +1,19 @@
+{
+	"class" : {
+		"cacheDebugMap:forMethod:" : "eem 6/26/2008 22:59",
+		"forMethod:" : "eem 6/5/2008 09:19",
+		"forMethod:methodNode:" : "eem 7/29/2008 16:54",
+		"initialize" : "eem 6/5/2008 09:14",
+		"voidMapCache" : "eem 6/5/2008 09:14" },
+	"instance" : {
+		"abstractSourceMap" : "eem 7/29/2008 17:12",
+		"forMethod:methodNode:" : "eem 6/5/2008 09:21",
+		"markRecentlyUsed" : "eem 6/3/2008 12:21",
+		"method" : "eem 6/5/2008 09:21",
+		"namedTempAt:in:" : "eem 6/10/2008 09:44",
+		"namedTempAt:put:in:" : "eem 6/10/2008 09:44",
+		"rangeForPC:contextIsActiveContext:" : "eem 6/5/2008 16:43",
+		"sourceText" : "eem 7/6/2009 10:13",
+		"tempNamesForContext:" : "eem 6/10/2008 09:45",
+		"tempsAndValuesForContext:" : "PeterHugossonMiller 9/3/2009 01:12",
+		"timestamp" : "eem 6/2/2008 18:32" } }

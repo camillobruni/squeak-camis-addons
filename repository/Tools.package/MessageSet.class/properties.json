@@ -1,0 +1,16 @@
+{
+	"category" : "Tools-Browser",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"messageList",
+		"autoSelectString",
+		"growable" ],
+	"name" : "MessageSet",
+	"pools" : [
+		 ],
+	"super" : "Browser",
+	"type" : "normal" }

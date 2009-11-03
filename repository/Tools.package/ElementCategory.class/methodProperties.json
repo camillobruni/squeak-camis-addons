@@ -1,0 +1,23 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"addCategoryItem:" : "sw 3/30/2001 00:12",
+		"categoryName" : "sw 1/26/2001 22:45",
+		"categoryName:" : "stephaneducasse 2/4/2006 20:39",
+		"clear" : "stephaneducasse 2/4/2006 20:39",
+		"copy" : "sw 12/1/2000 22:45",
+		"copyFrom:" : "stephaneducasse 2/4/2006 20:39",
+		"copyOfElementDictionary" : "sw 12/1/2000 22:46",
+		"elementAt:" : "sw 12/1/2000 22:46",
+		"elementAt:put:" : "sw 1/26/2001 22:54",
+		"elementSymbol" : "sw 9/12/2001 22:59",
+		"elementsInOrder" : "sw 12/1/2000 22:47",
+		"fasterElementAt:put:" : "sw 4/3/2001 11:06",
+		"includesKey:" : "sw 12/11/2000 15:36",
+		"initWordingAndDocumentation" : "sw 8/6/2004 10:34",
+		"initialize" : "sw 3/28/2001 19:47",
+		"keysInOrder" : "sw 12/1/2000 22:47",
+		"printOn:" : "sw 1/26/2001 22:47",
+		"removeElementAt:" : "sw 4/11/2001 20:08",
+		"translated" : "dgd 12/4/2003 20:22" } }

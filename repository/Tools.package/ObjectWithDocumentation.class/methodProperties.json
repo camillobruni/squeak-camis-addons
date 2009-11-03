@@ -1,0 +1,19 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"documentation" : "mir 7/12/2004 21:21",
+		"documentation:" : "mir 7/12/2004 19:33",
+		"elementSymbol" : "sw 9/12/2001 23:03",
+		"getterSetterHelpMessage" : "mir 7/12/2004 21:28",
+		"getterSetterHelpMessage:" : "mir 7/12/2004 21:29",
+		"helpMessage" : "sw 8/18/2004 20:23",
+		"helpMessage:" : "mir 7/12/2004 19:32",
+		"initWordingAndDocumentation" : "mir 7/12/2004 21:31",
+		"initialize" : "alain.plantec 5/28/2009 10:12",
+		"legacyHelpMessage" : "stephaneducasse 2/4/2006 20:39",
+		"properties" : "mir 7/12/2004 19:30",
+		"propertyAt:ifAbsent:" : "mir 7/12/2004 19:29",
+		"propertyAt:put:" : "mir 7/12/2004 19:29",
+		"wording" : "mir 7/12/2004 21:34",
+		"wording:" : "mir 7/12/2004 21:39" } }

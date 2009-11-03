@@ -1,0 +1,17 @@
+{
+	"category" : "Tools-Debugger",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"TextMenu" ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"selectedClass",
+		"selectedSelector",
+		"block",
+		"tally" ],
+	"name" : "TimeProfileBrowser",
+	"pools" : [
+		 ],
+	"super" : "MessageSet",
+	"type" : "normal" }

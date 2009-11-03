@@ -1,0 +1,23 @@
+{
+	"class" : {
+		"methodBrowserSearchingFor:" : "sd 11/20/2005 21:28",
+		"openMessageNames" : "sw 7/24/2001 18:03",
+		"prototypicalToolWindow" : "sw 7/28/2001 00:56",
+		"windowColorSpecification" : "sw 2/26/2002 14:35" },
+	"instance" : {
+		"computeSelectorListFromSearchString" : "sd 11/20/2005 21:27",
+		"copyName" : "sd 11/20/2005 21:27",
+		"doSearchFrom:" : "sw 7/28/2001 00:32",
+		"inMorphicWindowLabeled:" : "sw 7/28/2001 02:16",
+		"inMorphicWindowWithInitialSearchString:" : "sd 11/20/2005 21:27",
+		"messageList" : "sd 11/20/2005 21:27",
+		"searchString" : "sd 11/20/2005 21:27",
+		"searchString:notifying:" : "sd 11/20/2005 21:27",
+		"selection" : "sw 7/24/2001 01:46",
+		"selectorList" : "sd 11/20/2005 21:27",
+		"selectorListIndex" : "sw 7/24/2001 01:55",
+		"selectorListIndex:" : "sd 11/20/2005 21:27",
+		"selectorListKey:from:" : "sw 7/24/2001 01:35",
+		"selectorListMenu:" : "sw 7/24/2001 01:58",
+		"selectorListMenuTitle" : "sw 7/24/2001 01:47",
+		"showOnlyImplementedSelectors" : "sd 11/20/2005 21:27" } }

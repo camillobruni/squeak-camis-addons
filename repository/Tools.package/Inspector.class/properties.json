@@ -1,0 +1,18 @@
+{
+	"category" : "Tools-Inspector",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"object",
+		"selectionIndex",
+		"timeOfLastListUpdate",
+		"selectionUpdateTime",
+		"context" ],
+	"name" : "Inspector",
+	"pools" : [
+		 ],
+	"super" : "StringHolder",
+	"type" : "normal" }

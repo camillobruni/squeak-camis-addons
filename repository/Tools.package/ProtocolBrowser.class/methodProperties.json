@@ -1,0 +1,16 @@
+{
+	"class" : {
+		"openFullProtocolForClass:" : "di 7/13/97 15:15",
+		"openSubProtocolForClass:" : "di 7/13/97 15:15" },
+	"instance" : {
+		"getList" : "di 7/13/97 16:33",
+		"growable" : "sw 1/28/2001 21:01",
+		"initListFrom:highlighting:" : "sd 11/20/2005 21:27",
+		"list" : "di 7/13/97 16:33",
+		"on:" : "di 7/13/97 16:26",
+		"onSubProtocolOf:" : "di 11/26/1999 19:39",
+		"selectedClassOrMetaClass" : "nk 4/10/2001 08:16",
+		"selector" : "di 7/13/97 16:35",
+		"selector:" : "di 7/13/97 16:35",
+		"setClassAndSelectorIn:" : "sd 11/20/2005 21:27",
+		"setSelector:" : "di 7/13/97 16:35" } }

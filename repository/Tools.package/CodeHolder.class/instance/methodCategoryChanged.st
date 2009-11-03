@@ -1,0 +1,2 @@
+categories
+methodCategoryChanged

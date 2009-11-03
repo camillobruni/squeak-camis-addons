@@ -1,0 +1,16 @@
+{
+	"category" : "Tools-Changes",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"categoryName",
+		"keysInOrder",
+		"elementDictionary" ],
+	"name" : "ElementCategory",
+	"pools" : [
+		 ],
+	"super" : "ObjectWithDocumentation",
+	"type" : "normal" }

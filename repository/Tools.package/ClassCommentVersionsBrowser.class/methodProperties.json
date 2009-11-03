@@ -1,0 +1,20 @@
+{
+	"class" : {
+		"browseCommentOf:" : "sd 11/20/2005 21:28",
+		"commentRecordsOf:" : "sd 11/20/2005 21:28",
+		"timeStampFor:class:reverseOrdinal:" : "sd 11/20/2005 21:28",
+		"windowColorSpecification" : "asm 8/13/2002 20:57" },
+	"instance" : {
+		"classCommentIndicated" : "sw 8/17/2002 21:57",
+		"compareToCurrentVersion" : "sd 11/20/2005 21:26",
+		"contentsSymbolQuints" : "sw 8/15/2002 22:38",
+		"diffedVersionContents" : "sd 11/20/2005 21:26",
+		"offerVersionsHelp" : "asm 8/13/2002 21:02",
+		"openSingleMessageBrowser" : "sd 11/20/2005 21:26",
+		"priorSourceOrNil" : "sd 11/20/2005 21:26",
+		"reformulateList" : "sd 11/20/2005 21:26",
+		"scanVersionsOf:" : "sd 11/20/2005 21:26",
+		"selectedClass" : "asm 8/13/2002 20:59",
+		"updateListsAndCodeIn:" : "sd 11/20/2005 21:26",
+		"versionsMenu:" : "alain.plantec 5/30/2008 11:20",
+		"wantsPrettyDiffOption" : "sw 8/15/2002 22:35" } }

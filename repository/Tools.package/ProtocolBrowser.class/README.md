@@ -1,0 +1,1 @@
+An instance of ProtocolBrowser shows the methods a class understands--inherited or implemented at this level--as a "flattened" list.

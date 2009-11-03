@@ -1,0 +1,4 @@
+deprecated
+initializeChangeSetCategories
+
+	^ ChangesOrganizer initializeChangeSetCategories

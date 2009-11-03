@@ -1,0 +1,19 @@
+{
+	"category" : "Tools-Changes",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"parent",
+		"myChangeSet",
+		"currentClassName",
+		"currentSelector",
+		"priorChangeSetList",
+		"changeSetCategory" ],
+	"name" : "ChangeSorter",
+	"pools" : [
+		 ],
+	"super" : "CodeHolder",
+	"type" : "normal" }

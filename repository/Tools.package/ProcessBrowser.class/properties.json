@@ -1,0 +1,30 @@
+{
+	"category" : "Tools-Process Browser",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"Browsers",
+		"SuspendedProcesses",
+		"WellKnownProcesses" ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"selectedProcess",
+		"selectedContext",
+		"methodText",
+		"processList",
+		"processListIndex",
+		"stackList",
+		"stackListIndex",
+		"sourceMap",
+		"selectedClass",
+		"selectedSelector",
+		"searchString",
+		"autoUpdateProcess",
+		"deferredMessageRecipient",
+		"lastUpdate",
+		"startedCPUWatcher" ],
+	"name" : "ProcessBrowser",
+	"pools" : [
+		 ],
+	"super" : "Model",
+	"type" : "normal" }

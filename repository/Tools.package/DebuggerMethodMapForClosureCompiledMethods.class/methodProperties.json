@@ -1,0 +1,15 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"ensureExtentsMapsInitialized" : "eem 7/29/2008 20:09",
+		"namedTempAt:in:" : "eem 7/29/2008 19:28",
+		"namedTempAt:put:in:" : "eem 7/29/2008 19:33",
+		"privateDereference:in:" : "eem 7/29/2008 19:26",
+		"privateDereference:in:put:" : "eem 7/29/2008 19:26",
+		"privateIsOuter:" : "JorgeRessia 10/17/2009 18:32",
+		"privateTempAt:in:put:startpcsToBlockExtents:" : "eem 7/29/2008 20:03",
+		"privateTempAt:in:startpcsToBlockExtents:" : "eem 7/29/2008 20:02",
+		"privateTempRefsForContext:startpcsToBlockExtents:" : "eem 7/6/2009 10:14",
+		"tempNamesForContext:" : "eem 7/29/2008 18:26",
+		"tempNamesScopedForContext:" : "JorgeRessia 10/18/2009 12:41" } }

@@ -1,0 +1,16 @@
+{
+	"category" : "Tools-Process Browser",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"CurrentCPUWatcher" ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"tally",
+		"watcher",
+		"threshold" ],
+	"name" : "CPUWatcher",
+	"pools" : [
+		 ],
+	"super" : "Model",
+	"type" : "normal" }

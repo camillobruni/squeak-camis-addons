@@ -1,0 +1,20 @@
+{
+	"category" : "Tools-Explorer",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"indentLevel",
+		"isExpanded",
+		"complexContents",
+		"firstChild",
+		"container",
+		"nextSibling",
+		"icon" ],
+	"name" : "IndentingListItemMorph",
+	"pools" : [
+		 ],
+	"super" : "StringMorph",
+	"type" : "normal" }
