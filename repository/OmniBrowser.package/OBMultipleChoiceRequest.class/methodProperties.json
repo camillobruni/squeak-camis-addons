@@ -1,9 +1,10 @@
 {
 	"class" : {
-		 },
+		"prompt:labels:values:lines:selection:" : "TestRunner 11/3/2009 14:33" },
 	"instance" : {
 		"handleWith:" : "lr 4/5/2008 09:27",
 		"label:" : "lr 4/5/2008 10:34",
 		"selection" : "lr 4/5/2008 10:30",
 		"setPrompt:labels:values:lines:" : "lr 4/5/2008 10:35",
+		"setPrompt:labels:values:lines:selection:" : "TestRunner 11/3/2009 14:33",
 		"toggle:" : "lr 4/5/2008 10:31" } }
