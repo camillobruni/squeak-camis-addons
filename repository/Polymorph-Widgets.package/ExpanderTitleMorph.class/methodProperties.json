@@ -1,0 +1,23 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"adoptPaneColor:" : "gvc 1/23/2009 16:30",
+		"buttonMorph" : "gvc 1/22/2009 15:37",
+		"buttonMorph:" : "gvc 1/22/2009 15:37",
+		"buttonWidth" : "gvc 1/28/2009 17:08",
+		"defaultBorderStyle" : "gvc 9/23/2006 16:46",
+		"expandLabel" : "gvc 1/31/2009 16:41",
+		"expanded" : "gvc 7/27/2006 10:16",
+		"expanded:" : "gvc 7/27/2006 10:24",
+		"font" : "gvc 9/13/2006 10:29",
+		"font:" : "gvc 9/13/2006 10:28",
+		"initialize" : "gvc 1/22/2009 15:37",
+		"labelMorph" : "gvc 9/13/2006 10:23",
+		"labelMorph:" : "gvc 3/12/2007 12:55",
+		"newExpandButtonMorph" : "gvc 1/22/2009 15:35",
+		"newLabelMorph" : "gvc 3/12/2007 12:57",
+		"normalFillStyle" : "gvc 5/23/2007 14:28",
+		"titleText" : "gvc 10/18/2006 11:15",
+		"titleText:" : "gvc 9/13/2006 10:24",
+		"toggleExpanded" : "gvc 7/27/2006 10:23" } }

@@ -1,0 +1,16 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"basicKeyStroke:" : "gvc 8/28/2009 14:00",
+		"isEditEvent:" : "gvc 8/28/2009 14:00",
+		"keyboardFocusChange:" : "gvc 11/13/2007 11:54",
+		"localHandleKeystroke:" : "gvc 4/25/2007 16:05",
+		"maxLength" : "gvc 9/18/2006 14:58",
+		"maxLength:" : "gvc 9/18/2006 14:58",
+		"minExtent" : "gvc 10/17/2008 12:35",
+		"minHeight" : "gvc 6/4/2007 11:22",
+		"minWidth" : "gvc 6/4/2007 11:22",
+		"minimumExtent" : "gvc 6/4/2007 11:55",
+		"mouseMove:" : "gvc 1/4/2007 16:05",
+		"paragraph" : "gvc 5/18/2007 10:51" } }

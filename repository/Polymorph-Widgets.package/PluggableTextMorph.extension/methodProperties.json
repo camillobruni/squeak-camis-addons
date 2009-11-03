@@ -1,0 +1,22 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"accept" : "gvc 11/14/2008 11:02",
+		"adoptPaneColor:" : "gvc 9/1/2006 16:26",
+		"appendText:" : "gvc 6/9/2008 16:09",
+		"drawOn:" : "gvc 9/2/2009 12:04",
+		"drawSubmorphsOn:" : "gvc 9/5/2007 12:24",
+		"extent:" : "gvc 4/13/2007 12:39",
+		"focusBounds" : "gvc 6/2/2009 12:17",
+		"hasKeyboardFocus" : "gvc 9/7/2007 22:52",
+		"keyboardFocusChange:" : "gvc 9/21/2007 14:40",
+		"layoutBounds:" : "gvc 10/19/2006 14:19",
+		"minHeight" : "gvc 6/15/2007 11:03",
+		"minWidth" : "gvc 6/15/2007 11:03",
+		"mouseEnter:" : "gvc 9/21/2007 14:40",
+		"navigationKey:" : "gvc 5/18/2007 11:07",
+		"resetExtent" : "gvc 4/13/2007 12:29",
+		"takesKeyboardFocus" : "gvc 1/11/2007 12:29",
+		"wantsFrameAdornments" : "gvc 7/28/2008 14:44",
+		"wantsKeyboardFocus" : "gvc 8/27/2009 12:01" } }

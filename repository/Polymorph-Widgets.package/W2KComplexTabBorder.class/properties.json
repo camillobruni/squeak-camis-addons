@@ -1,0 +1,14 @@
+{
+	"category" : "Polymorph-Widgets",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "W2KComplexTabBorder",
+	"pools" : [
+		 ],
+	"super" : "ComplexBorder",
+	"type" : "normal" }

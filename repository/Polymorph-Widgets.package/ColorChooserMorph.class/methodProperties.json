@@ -1,0 +1,16 @@
+{
+	"class" : {
+		"on:color:changeColor:" : "gvc 9/22/2006 09:49" },
+	"instance" : {
+		"chooseColor" : "gvc 9/22/2006 11:03",
+		"enabled" : "gvc 10/12/2006 13:46",
+		"enabled:" : "gvc 7/30/2009 13:57",
+		"getEnabledSelector" : "gvc 10/12/2006 13:47",
+		"getEnabledSelector:" : "gvc 10/12/2006 13:51",
+		"initialize" : "gvc 5/22/2007 11:44",
+		"newContentMorph" : "gvc 12/8/2008 19:40",
+		"on:color:changeColor:" : "gvc 9/22/2006 09:46",
+		"setColorSelector" : "gvc 2/14/2009 18:41",
+		"setColorSelector:" : "gvc 2/14/2009 18:41",
+		"update:" : "gvc 10/12/2006 13:51",
+		"updateEnabled" : "gvc 9/8/2009 13:25" } }

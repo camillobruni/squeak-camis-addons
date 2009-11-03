@@ -1,0 +1,26 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"addTab:" : "gvc 9/15/2006 14:43",
+		"basicMinExtent" : "gvc 6/2/2009 10:55",
+		"cornerStyle:" : "gvc 1/17/2008 11:35",
+		"drawSubmorphsOn:" : "Henrik Sperre Johansen 5/19/2009 22:00",
+		"focusBounds" : "gvc 11/13/2007 13:34",
+		"font" : "gvc 9/16/2006 08:54",
+		"font:" : "gvc 7/30/2009 13:47",
+		"handlesKeyboard:" : "gvc 5/22/2007 16:09",
+		"initialize" : "gvc 1/17/2008 11:38",
+		"keyStroke:" : "gvc 5/22/2007 16:12",
+		"keyboardFocusChange:" : "gvc 9/6/2007 14:37",
+		"minExtent" : "gvc 6/2/2009 11:10",
+		"newLabelMorph:" : "gvc 1/14/2009 15:27",
+		"selectNextTab" : "gvc 5/22/2007 16:14",
+		"selectPreviousTab" : "gvc 5/22/2007 16:18",
+		"selectedIndex" : "gvc 9/15/2006 11:37",
+		"selectedIndex:" : "gvc 9/15/2006 13:24",
+		"selectedTab" : "gvc 9/15/2006 13:45",
+		"tabClicked:with:" : "gvc 9/15/2006 13:46",
+		"tabs" : "gvc 9/15/2006 13:45",
+		"takesKeyboardFocus" : "gvc 5/22/2007 16:00",
+		"updateFont" : "gvc 9/16/2006 08:50" } }

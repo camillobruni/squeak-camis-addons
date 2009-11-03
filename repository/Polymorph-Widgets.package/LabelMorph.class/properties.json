@@ -1,0 +1,17 @@
+{
+	"category" : "Polymorph-Widgets",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "gvc 5/18/2007 12:48",
+	"instvars" : [
+		"getEnabledSelector",
+		"enabled",
+		"model",
+		"disabledStyle" ],
+	"name" : "LabelMorph",
+	"pools" : [
+		 ],
+	"super" : "StringMorph",
+	"type" : "normal" }

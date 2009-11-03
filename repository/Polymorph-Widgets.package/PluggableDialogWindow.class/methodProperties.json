@@ -1,0 +1,17 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"applyChanges" : "gvc 2/12/2007 13:04",
+		"applyChangesSelector" : "gvc 2/12/2007 12:56",
+		"applyChangesSelector:" : "gvc 2/12/2007 12:56",
+		"buttons" : "gvc 8/8/2007 14:02",
+		"buttons:" : "gvc 8/8/2007 14:02",
+		"contentMorph" : "gvc 2/9/2007 13:34",
+		"contentMorph:" : "gvc 2/9/2007 13:34",
+		"initialize" : "gvc 8/8/2007 14:03",
+		"newButtons" : "gvc 8/8/2007 14:02",
+		"newContentMorph" : "gvc 2/9/2007 13:36",
+		"useDefaultOKButton" : "gvc 8/8/2007 14:05",
+		"useDefaultOKCancelButton" : "gvc 8/8/2007 14:06",
+		"useOKDefaultCancelButton" : "gvc 8/8/2007 14:06" } }

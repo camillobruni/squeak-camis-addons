@@ -1,0 +1,14 @@
+{
+	"category" : "Polymorph-Widgets",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"transformBlock" ],
+	"name" : "ObjectTransformedStringConverter",
+	"pools" : [
+		 ],
+	"super" : "ObjectStringConverter",
+	"type" : "normal" }

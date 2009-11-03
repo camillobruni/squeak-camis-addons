@@ -1,0 +1,17 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"adjustHeight" : "gvc 5/3/2006 13:38",
+		"adjustWidth" : "gvc 6/13/2006 11:12",
+		"display:atRow:on:" : "gvc 9/12/2006 15:14",
+		"drawBoundsForRow:" : "gvc 5/3/2006 16:08",
+		"drawSubmorphsOn:" : "Henrik Sperre Johansen 5/19/2009 21:59",
+		"hUnadjustedScrollRange" : "gvc 2/19/2009 12:25",
+		"initialize" : "gvc 6/13/2006 10:44",
+		"listChanged" : "gvc 2/19/2009 17:15",
+		"rowAtLocation:" : "gvc 5/3/2006 13:36",
+		"selectRow:" : "gvc 5/3/2006 12:24",
+		"selectionFrameForRow:" : "gvc 9/12/2006 15:33",
+		"userString" : "gvc 5/10/2006 09:42",
+		"widthToDisplayItem:" : "gvc 5/3/2006 11:09" } }

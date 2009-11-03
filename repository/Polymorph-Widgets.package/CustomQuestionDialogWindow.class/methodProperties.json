@@ -1,0 +1,14 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"defaultNoButton" : "gvc 1/10/2008 11:31",
+		"defaultYesButton" : "gvc 9/23/2008 12:02",
+		"initialize" : "gvc 1/10/2008 11:42",
+		"newButtons" : "gvc 9/23/2008 12:02",
+		"noButton" : "gvc 1/10/2008 11:30",
+		"noButton:" : "gvc 1/10/2008 11:30",
+		"noText:help:" : "gvc 1/10/2008 11:47",
+		"yesButton" : "gvc 1/10/2008 11:30",
+		"yesButton:" : "gvc 1/10/2008 11:30",
+		"yesText:help:" : "gvc 1/10/2008 11:47" } }

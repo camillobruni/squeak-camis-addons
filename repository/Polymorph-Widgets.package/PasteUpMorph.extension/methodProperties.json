@@ -1,0 +1,19 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"currentWindow" : "gvc 4/18/2007 16:14",
+		"handlerForMouseDown:" : "gvc 1/12/2007 17:06",
+		"modalLockTo:" : "gvc 7/30/2009 14:10",
+		"modalUnlockFrom:" : "gvc 1/12/2007 17:01",
+		"navigateVisibleWindowForward" : "gvc 5/29/2008 10:54",
+		"navigateWindowBackward" : "gvc 4/20/2007 14:46",
+		"navigateWindowForward" : "gvc 9/4/2007 12:59",
+		"navigationKey:" : "gvc 7/30/2007 15:53",
+		"nextVisibleWindow" : "gvc 5/29/2008 10:59",
+		"nextWindow" : "gvc 4/18/2007 16:18",
+		"openModal:" : "gvc 12/11/2007 16:53",
+		"previousWindow" : "gvc 4/18/2007 16:18",
+		"systemWindows" : "gvc 4/18/2007 14:36",
+		"themeChanged" : "gvc 11/13/2007 12:38",
+		"visibleSystemWindows" : "gvc 5/29/2008 11:00" } }

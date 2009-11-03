@@ -1,0 +1,10 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"drawMorph:" : "gvc 9/6/2007 15:18",
+		"fillRectangle:basicFillStyle:" : "gvc 3/21/2008 16:34",
+		"fillRectangle:fillStyle:" : "gvc 3/21/2008 16:35",
+		"frameRectangle:width:colors:dashes:" : "gvc 9/14/2006 14:33",
+		"frameRectangle:width:colors:dashes:offset:" : "gvc 9/18/2006 16:52",
+		"line:to:width:colors:dashes:startingOffset:" : "gvc 6/17/2006 10:42" } }

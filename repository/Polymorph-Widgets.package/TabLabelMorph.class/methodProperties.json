@@ -1,0 +1,13 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"adoptPaneColor:" : "gvc 1/7/2008 12:01",
+		"borderStyleToUse" : "gvc 1/7/2008 11:29",
+		"fillStyleToUse" : "gvc 1/7/2008 11:10",
+		"focusBounds" : "gvc 5/22/2007 16:26",
+		"initialize" : "gvc 1/7/2008 11:16",
+		"isSelected" : "gvc 1/7/2008 11:09",
+		"minWidth" : "gvc 1/14/2009 15:25",
+		"normalFillStyle" : "gvc 1/7/2008 11:11",
+		"selectedFillStyle" : "gvc 1/7/2008 11:11" } }

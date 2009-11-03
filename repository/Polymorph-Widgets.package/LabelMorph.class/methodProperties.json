@@ -1,0 +1,21 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"disable" : "gvc 8/2/2007 16:35",
+		"disabledStyle" : "gvc 8/2/2007 16:43",
+		"disabledStyle:" : "gvc 8/2/2007 16:53",
+		"drawOn:" : "gvc 6/2/2009 13:59",
+		"enable" : "gvc 8/2/2007 16:35",
+		"enabled" : "gvc 1/16/2007 15:28",
+		"enabled:" : "gvc 1/16/2007 15:55",
+		"getEnabledSelector" : "gvc 1/16/2007 15:28",
+		"getEnabledSelector:" : "gvc 1/16/2007 15:27",
+		"initWithContents:font:emphasis:" : "gvc 8/2/2007 16:51",
+		"initialize" : "gvc 8/2/2007 16:44",
+		"minHeight" : "gvc 6/15/2007 13:17",
+		"minWidth" : "gvc 10/26/2007 21:15",
+		"model" : "gvc 1/16/2007 15:52",
+		"model:" : "gvc 1/16/2007 15:54",
+		"update:" : "gvc 1/16/2007 15:27",
+		"updateEnabled" : "gvc 9/8/2009 13:25" } }

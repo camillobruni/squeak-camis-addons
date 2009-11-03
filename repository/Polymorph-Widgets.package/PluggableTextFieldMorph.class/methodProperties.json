@@ -1,0 +1,19 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"acceptTextInModel" : "gvc 9/18/2006 12:47",
+		"borderStyleToUse" : "gvc 5/23/2007 13:08",
+		"convertTo:" : "gvc 9/18/2006 12:22",
+		"converter" : "gvc 9/18/2006 12:21",
+		"converter:" : "gvc 9/18/2006 12:21",
+		"fillStyleToUse" : "gvc 5/23/2007 13:04",
+		"getSelection" : "gvc 9/18/2006 14:06",
+		"getText" : "gvc 9/18/2006 12:55",
+		"handlesMouseWheel:" : "gvc 3/29/2008 16:59",
+		"maxLength" : "gvc 9/18/2006 15:00",
+		"maxLength:" : "gvc 9/18/2006 14:59",
+		"scrollByKeyboard:" : "gvc 1/4/2007 15:36",
+		"scrollSelectionIntoView:" : "gvc 1/4/2007 15:15",
+		"textMorphClass" : "gvc 9/9/2006 14:07",
+		"update:" : "gvc 6/21/2007 10:51" } }

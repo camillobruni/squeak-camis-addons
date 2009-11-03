@@ -1,0 +1,15 @@
+{
+	"category" : "Polymorph-Widgets",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "gvc 5/18/2007 11:13",
+	"instvars" : [
+		"autoAccept",
+		"acceptOnFocusChange" ],
+	"name" : "TextMorphForEditorView",
+	"pools" : [
+		 ],
+	"super" : "TextMorphForEditView",
+	"type" : "normal" }

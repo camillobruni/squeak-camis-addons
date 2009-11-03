@@ -1,0 +1,14 @@
+{
+	"category" : "Polymorph-Widgets-Themes",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "gvc 5/18/2007 10:05",
+	"instvars" : [
+		 ],
+	"name" : "UIThemeSoftSqueak",
+	"pools" : [
+		 ],
+	"super" : "UITheme",
+	"type" : "normal" }

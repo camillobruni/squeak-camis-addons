@@ -1,0 +1,24 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"addContentMorph:" : "gvc 8/20/2006 11:24",
+		"adoptPaneColor:" : "gvc 1/25/2008 14:55",
+		"containsPoint:" : "gvc 4/24/2007 10:05",
+		"contentMorph" : "gvc 8/19/2006 16:31",
+		"contentMorph:" : "gvc 8/19/2006 16:31",
+		"cornerStyle:" : "gvc 8/20/2006 11:47",
+		"font" : "gvc 9/8/2006 14:55",
+		"font:" : "gvc 9/8/2006 14:55",
+		"initialColorInSystemWindow:" : "gvc 4/12/2007 10:49",
+		"initialize" : "gvc 1/25/2008 14:46",
+		"label" : "gvc 8/20/2006 11:26",
+		"label:" : "gvc 1/25/2008 14:31",
+		"labelMorph" : "gvc 8/19/2006 16:31",
+		"labelMorph:" : "gvc 8/19/2006 16:31",
+		"minExtent" : "gvc 8/7/2007 15:34",
+		"newContentMorph" : "gvc 1/25/2008 14:33",
+		"newLabelMorph" : "gvc 1/27/2009 17:49",
+		"paneColorOrNil" : "gvc 1/16/2008 13:36",
+		"roundedCorners:" : "gvc 1/12/2009 18:16",
+		"selectedTab" : "gvc 1/25/2008 14:39" } }

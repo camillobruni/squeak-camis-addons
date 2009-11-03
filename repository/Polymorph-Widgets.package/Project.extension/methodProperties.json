@@ -1,0 +1,10 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"assureTaskbarPresenceMatchesPreference" : "gvc 1/14/2009 17:03",
+		"createTaskbarIfNecessary" : "gvc 10/9/2007 10:54",
+		"moveCollapsedWindowsToTaskbar" : "gvc 10/9/2007 10:54",
+		"removeTaskbar" : "gvc 10/9/2007 10:53",
+		"showWorldTaskbar" : "gvc 10/9/2007 10:38",
+		"showWorldTaskbar:" : "gvc 10/9/2007 10:44" } }

@@ -1,0 +1,12 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"disable" : "gvc 8/2/2007 10:52",
+		"drawSubmorphsOn:" : "gvc 1/13/2009 18:05",
+		"enable" : "gvc 8/2/2007 10:52",
+		"enabled:" : "gvc 8/7/2007 12:17",
+		"initialize" : "gvc 3/9/2007 16:18",
+		"mouseMove:" : "gvc 9/2/2009 15:40",
+		"mouseUp:" : "gvc 9/2/2009 15:36",
+		"update:" : "gvc 9/6/2006 13:39" } }

@@ -1,0 +1,14 @@
+{
+	"category" : "Polymorph-Widgets-Themes",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"Current" ],
+	"commentStamp" : "gvc 9/12/2007 14:54",
+	"instvars" : [
+		"sounds" ],
+	"name" : "SoundTheme",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,23 @@
+{
+	"category" : "Polymorph-Widgets-Themes",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "gvc 5/18/2007 10:23",
+	"instvars" : [
+		"windowColor",
+		"selectionColor",
+		"autoSelectionColor",
+		"buttonColor",
+		"scrollbarColor",
+		"standardColorsOnly",
+		"progressBarColor",
+		"progressBarProgressColor",
+		"menuColor",
+		"menuTitleColor" ],
+	"name" : "ThemeSettings",
+	"pools" : [
+		 ],
+	"super" : "Model",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "Polymorph-Widgets-Windows",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "TextStyleFontSelectorDialogWindow",
+	"pools" : [
+		 ],
+	"super" : "AbstractFontSelectorDialogWindow",
+	"type" : "normal" }

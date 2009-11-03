@@ -1,0 +1,19 @@
+{
+	"class" : {
+		"taskbarIcon" : "gvc 5/22/2007 13:58" },
+	"instance" : {
+		"icon" : "gvc 5/18/2007 10:30",
+		"iconMorph" : "gvc 8/29/2007 13:29",
+		"iconMorph:" : "gvc 8/29/2007 13:28",
+		"initialExtent" : "gvc 2/2/2009 13:25",
+		"newButtons" : "gvc 1/12/2007 15:15",
+		"newContentMorph" : "gvc 8/29/2007 13:29",
+		"newIconMorph" : "gvc 8/29/2007 13:29",
+		"newTextMorph" : "gvc 8/31/2006 17:54",
+		"playOpenSound" : "gvc 9/12/2007 17:47",
+		"text:" : "gvc 7/30/2009 13:58",
+		"textFont" : "gvc 10/17/2006 14:19",
+		"textFont:" : "gvc 7/30/2009 13:58",
+		"textMorph" : "gvc 8/27/2006 10:26",
+		"textMorph:" : "gvc 8/27/2006 10:26",
+		"themeChanged" : "gvc 8/29/2007 13:30" } }

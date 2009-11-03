@@ -1,0 +1,9 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"addOptionalButtonsTo:at:plus:" : "gvc 1/27/2009 12:59",
+		"buildMorphicNotifierLabelled:message:" : "gvc 12/5/2008 15:11",
+		"buttonRowForPreDebugWindow:" : "gvc 1/27/2009 13:06",
+		"customButtonRow" : "gvc 1/27/2009 12:58",
+		"optionalButtonRow" : "gvc 1/27/2009 12:55" } }

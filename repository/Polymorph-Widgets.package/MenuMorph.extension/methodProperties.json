@@ -1,0 +1,28 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"add:icon:help:subMenu:" : "gvc 10/17/2008 11:55",
+		"add:subMenu:target:selector:argumentList:" : "gvc 10/17/2008 11:45",
+		"add:target:selector:argumentList:" : "gvc 10/17/2008 11:46",
+		"addStayUpIcons" : "gvc 2/10/2009 16:32",
+		"addTitle:icon:updatingSelector:updateTarget:" : "gvc 10/16/2008 14:31",
+		"addToggle:selector:" : "gvc 11/20/2007 13:34",
+		"addToggle:target:selector:" : "gvc 10/12/2006 15:32",
+		"addToggle:target:selector:getStateSelector:" : "gvc 6/9/2006 09:25",
+		"addToggle:target:selector:getStateSelector:argumentList:" : "gvc 6/9/2006 09:39",
+		"addToggle:target:selector:getStateSelector:enablementSelector:" : "gvc 6/9/2006 09:45",
+		"addToggle:target:selector:getStateSelector:enablementSelector:argumentList:" : "gvc 6/9/2006 09:39",
+		"addUpdating:target:selector:argumentList:" : "gvc 10/17/2008 15:46",
+		"addWithLabel:enablementSelector:target:selector:argumentList:" : "gvc 10/17/2008 15:17",
+		"adoptPaneColor:" : "gvc 3/29/2007 16:28",
+		"color:" : "gvc 7/30/2007 14:28",
+		"keyStroke:" : "gvc 1/30/2009 14:07",
+		"mouseDown:" : "mtf 9/20/2007 05:37",
+		"mouseDownInTitle:" : "mtf 9/19/2007 12:26",
+		"popUpAdjacentTo:forHand:from:" : "gvc 5/12/2009 16:34",
+		"setDefaultParameters" : "gvc 10/16/2008 15:35",
+		"setTitleParametersFor:" : "gvc 10/16/2008 15:34",
+		"takesKeyboardFocus" : "gvc 1/16/2007 12:59",
+		"themeChanged" : "gvc 10/16/2008 16:37",
+		"updateColor" : "gvc 2/10/2009 13:14" } }

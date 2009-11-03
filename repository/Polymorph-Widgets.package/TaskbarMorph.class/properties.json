@@ -1,0 +1,15 @@
+{
+	"category" : "Polymorph-Widgets",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "gvc 5/18/2007 11:28",
+	"instvars" : [
+		"tasks",
+		"orderedTasks" ],
+	"name" : "TaskbarMorph",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

@@ -1,0 +1,16 @@
+{
+	"category" : "Polymorph-Widgets-Windows",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "TEasilyThemed classTrait",
+	"classvars" : [
+		 ],
+	"commentStamp" : "gvc 5/18/2007 12:05",
+	"instvars" : [
+		 ],
+	"name" : "StandardWindow",
+	"pools" : [
+		 ],
+	"super" : "SystemWindow",
+	"traitcomposition" : "TEasilyThemed - {#theme}",
+	"type" : "normal" }

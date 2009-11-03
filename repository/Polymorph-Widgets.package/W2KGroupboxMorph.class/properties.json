@@ -1,0 +1,14 @@
+{
+	"category" : "Polymorph-Widgets",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "W2KGroupboxMorph",
+	"pools" : [
+		 ],
+	"super" : "GroupboxMorph",
+	"type" : "normal" }

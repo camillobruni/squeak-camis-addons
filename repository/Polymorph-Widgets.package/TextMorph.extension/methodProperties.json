@@ -1,0 +1,12 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"drawNullTextOn:" : "gvc 3/6/2008 16:57",
+		"drawOn:" : "gvc 9/5/2007 12:34",
+		"keyboardFocusChange:" : "gvc 9/6/2007 14:35",
+		"optimalExtent" : "gvc 2/4/2009 11:56",
+		"overrideExtent:" : "gvc 10/23/2006 14:48",
+		"takesKeyboardFocus" : "gvc 9/5/2007 16:12",
+		"wantsKeyboardFocusNavigation" : "gvc 9/5/2007 16:14",
+		"yellowButtonActivity:" : "gvc 7/30/2007 14:55" } }

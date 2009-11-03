@@ -1,0 +1,14 @@
+{
+	"category" : "Polymorph-Widgets-FillStyles",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "gvc 5/18/2007 12:49",
+	"instvars" : [
+		 ],
+	"name" : "InterpolatedGradientFillStyle",
+	"pools" : [
+		 ],
+	"super" : "GradientFillStyle",
+	"type" : "normal" }

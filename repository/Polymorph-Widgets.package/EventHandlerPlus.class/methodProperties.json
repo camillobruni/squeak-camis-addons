@@ -1,0 +1,8 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"handlesMouseOver:" : "gvc 5/1/2007 17:19",
+		"methodRefList" : "gvc 5/1/2007 17:23",
+		"mouseOver:fromMorph:" : "gvc 5/1/2007 17:20",
+		"on:send:to:" : "gvc 5/1/2007 17:24" } }

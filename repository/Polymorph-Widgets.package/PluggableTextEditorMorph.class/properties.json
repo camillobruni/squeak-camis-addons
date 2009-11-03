@@ -1,0 +1,18 @@
+{
+	"category" : "Polymorph-Widgets",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "TEnableOnHaloMenu classTrait",
+	"classvars" : [
+		 ],
+	"commentStamp" : "gvc 5/18/2007 12:29",
+	"instvars" : [
+		"enabled",
+		"getEnabledSelector",
+		"highlights" ],
+	"name" : "PluggableTextEditorMorph",
+	"pools" : [
+		 ],
+	"super" : "PluggableTextMorph",
+	"traitcomposition" : "TEnableOnHaloMenu",
+	"type" : "normal" }
