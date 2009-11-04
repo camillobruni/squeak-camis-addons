@@ -7,4 +7,5 @@ getCategories: labels reject: reject lines: lines
 			cats isEmpty ifFalse: 
 				[ lines add: labels size.
 				labels addAll: cats asSortedCollection.
-				reject addAll: cats ] ] 
+				reject addAll: cats ] ] .
+	
