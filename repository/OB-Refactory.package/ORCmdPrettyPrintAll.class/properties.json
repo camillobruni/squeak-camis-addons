@@ -1,0 +1,14 @@
+{
+	"category" : "OB-Refactory-Commands",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ORCmdPrettyPrintAll",
+	"pools" : [
+		 ],
+	"super" : "ORCmdRefactoring",
+	"type" : "normal" }

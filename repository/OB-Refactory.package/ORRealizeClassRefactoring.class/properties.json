@@ -1,0 +1,14 @@
+{
+	"category" : "OB-Refactory-Tools",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "lr 10/19/2007 09:16",
+	"instvars" : [
+		 ],
+	"name" : "ORRealizeClassRefactoring",
+	"pools" : [
+		 ],
+	"super" : "ClassRefactoring",
+	"type" : "normal" }

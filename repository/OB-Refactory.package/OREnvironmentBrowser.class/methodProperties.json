@@ -1,0 +1,12 @@
+{
+	"class" : {
+		"on:" : "lr 2/11/2008 22:06",
+		"openOn:" : "lr 2/9/2008 01:24",
+		"titleForRoot:" : "lr 2/10/2008 13:37" },
+	"instance" : {
+		"defaultBackgroundColor" : "lr 2/9/2008 12:03",
+		"definitionPanel" : "lr 2/10/2008 12:55",
+		"environment" : "lr 2/10/2008 12:55",
+		"open" : "lr 3/12/2008 10:21",
+		"selectionChanged:" : "lr 2/10/2008 12:56",
+		"setMetaNode:node:" : "lr 2/10/2008 12:56" } }

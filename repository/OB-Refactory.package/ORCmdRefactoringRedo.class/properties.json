@@ -1,0 +1,14 @@
+{
+	"category" : "OB-Refactory-Refactoring",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ORCmdRefactoringRedo",
+	"pools" : [
+		 ],
+	"super" : "ORCmdRefactoringTool",
+	"type" : "normal" }

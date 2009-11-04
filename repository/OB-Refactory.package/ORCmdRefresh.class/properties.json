@@ -1,0 +1,14 @@
+{
+	"category" : "OB-Refactory-Lint",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ORCmdRefresh",
+	"pools" : [
+		 ],
+	"super" : "ORCmdLintCommand",
+	"type" : "normal" }

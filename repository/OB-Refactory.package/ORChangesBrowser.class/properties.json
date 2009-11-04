@@ -1,0 +1,14 @@
+{
+	"category" : "OB-Refactory-Changes",
+	"classinstvars" : [
+		"displayDiffs" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ORChangesBrowser",
+	"pools" : [
+		 ],
+	"super" : "OBBrowser",
+	"type" : "normal" }

@@ -1,0 +1,20 @@
+{
+	"class" : {
+		"takesNodes" : "lr 3/17/2007 10:42",
+		"takesText" : "lr 3/17/2007 10:41" },
+	"instance" : {
+		"cluster" : "lr 1/28/2008 22:48",
+		"ifNodeSelected:" : "lr 3/17/2007 13:00",
+		"ifSendSelected:" : "lr 3/17/2007 13:18",
+		"interval" : "lr 3/17/2007 12:03",
+		"isActive" : "lr 3/15/2008 00:04",
+		"isAssignmentSelected" : "lr 3/17/2007 13:22",
+		"isExtractableSelected" : "lr 3/17/2007 13:12",
+		"isNonSelfSendSelected" : "lr 3/17/2007 13:09",
+		"isSelfSendSelected" : "lr 3/17/2007 13:04",
+		"isVariableSelected" : "lr 3/17/2007 13:26",
+		"node" : "lr 3/17/2007 13:33",
+		"selection" : "lr 3/17/2007 13:42",
+		"selector" : "lr 3/17/2007 11:44",
+		"text" : "lr 3/17/2007 13:42",
+		"theClass" : "lr 3/17/2007 10:50" } }

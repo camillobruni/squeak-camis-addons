@@ -1,0 +1,14 @@
+{
+	"category" : "OB-Refactory-Refactoring",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ORCmdRealizeClassRefactoring",
+	"pools" : [
+		 ],
+	"super" : "ORCmdClassRefactoring",
+	"type" : "normal" }

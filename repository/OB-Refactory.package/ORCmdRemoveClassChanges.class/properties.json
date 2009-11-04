@@ -1,0 +1,14 @@
+{
+	"category" : "OB-Refactory-Changes",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ORCmdRemoveClassChanges",
+	"pools" : [
+		 ],
+	"super" : "ORCmdChangeCommand",
+	"type" : "normal" }

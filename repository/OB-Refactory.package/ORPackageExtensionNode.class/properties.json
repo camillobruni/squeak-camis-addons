@@ -1,0 +1,14 @@
+{
+	"category" : "OB-Refactory-Browsers",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ORPackageExtensionNode",
+	"pools" : [
+		 ],
+	"super" : "OBClassCategoryNode",
+	"type" : "normal" }

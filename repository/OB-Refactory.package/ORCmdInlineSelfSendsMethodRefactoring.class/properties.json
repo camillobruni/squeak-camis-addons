@@ -1,0 +1,14 @@
+{
+	"category" : "OB-Refactory-Refactoring",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ORCmdInlineSelfSendsMethodRefactoring",
+	"pools" : [
+		 ],
+	"super" : "ORCmdMethodRefactoring",
+	"type" : "normal" }

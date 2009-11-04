@@ -1,0 +1,14 @@
+{
+	"category" : "OB-Refactory-Matcher",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ORRewriterDefinition",
+	"pools" : [
+		 ],
+	"super" : "ORSearcherDefinition",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "OB-Refactory-Matcher",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ORPluggableRewriteRule",
+	"pools" : [
+		 ],
+	"super" : "RBTransformationRule",
+	"type" : "normal" }

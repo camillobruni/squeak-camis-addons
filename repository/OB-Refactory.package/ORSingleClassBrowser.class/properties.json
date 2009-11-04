@@ -1,0 +1,14 @@
+{
+	"category" : "OB-Refactory-Browsers",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ORSingleClassBrowser",
+	"pools" : [
+		 ],
+	"super" : "OREnvironmentBrowser",
+	"type" : "normal" }

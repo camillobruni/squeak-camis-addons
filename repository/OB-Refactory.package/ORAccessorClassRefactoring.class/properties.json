@@ -1,0 +1,14 @@
+{
+	"category" : "OB-Refactory-Tools",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ORAccessorClassRefactoring",
+	"pools" : [
+		 ],
+	"super" : "ClassRefactoring",
+	"type" : "normal" }

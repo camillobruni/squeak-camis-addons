@@ -1,0 +1,14 @@
+{
+	"category" : "OB-Refactory-Changes",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ORCmdBrowseChange",
+	"pools" : [
+		 ],
+	"super" : "ORCmdChangeCommand",
+	"type" : "normal" }

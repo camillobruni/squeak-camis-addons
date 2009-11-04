@@ -1,0 +1,15 @@
+{
+	"category" : "OB-Refactory-Tools",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "lr 10/19/2007 09:16",
+	"instvars" : [
+		"target",
+		"selector" ],
+	"name" : "ORSwapMethodRefactoring",
+	"pools" : [
+		 ],
+	"super" : "MethodRefactoring",
+	"type" : "normal" }

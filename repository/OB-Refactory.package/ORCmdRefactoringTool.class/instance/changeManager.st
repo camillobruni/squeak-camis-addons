@@ -1,0 +1,3 @@
+accessing
+changeManager
+	^ RefactoryChangeManager instance

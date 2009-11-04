@@ -1,0 +1,14 @@
+{
+	"category" : "OB-Refactory-Matcher",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ORPluggableSearchRule",
+	"pools" : [
+		 ],
+	"super" : "RBParseTreeLintRule",
+	"type" : "normal" }

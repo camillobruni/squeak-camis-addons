@@ -1,0 +1,14 @@
+{
+	"category" : "OB-Refactory-Commands",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ORCmdOpenTypeClass",
+	"pools" : [
+		 ],
+	"super" : "ORCmdOpen",
+	"type" : "normal" }

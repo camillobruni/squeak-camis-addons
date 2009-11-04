@@ -1,0 +1,14 @@
+{
+	"category" : "OB-Refactory-Lint",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"result" ],
+	"name" : "ORBasicLintNode",
+	"pools" : [
+		 ],
+	"super" : "ORLintNode",
+	"type" : "normal" }

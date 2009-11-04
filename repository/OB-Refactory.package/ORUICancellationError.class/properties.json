@@ -1,0 +1,14 @@
+{
+	"category" : "OB-Refactory-Browsers",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ORUICancellationError",
+	"pools" : [
+		 ],
+	"super" : "Error",
+	"type" : "normal" }

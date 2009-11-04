@@ -1,0 +1,3 @@
+commands
+cmdCommands
+	^ ORCmdChangeCommand allSubclasses

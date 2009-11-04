@@ -1,0 +1,14 @@
+{
+	"category" : "OB-Refactory-Commands",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ORCmdInstVarReaderEnvironment",
+	"pools" : [
+		 ],
+	"super" : "ORCmdEnvironment",
+	"type" : "normal" }

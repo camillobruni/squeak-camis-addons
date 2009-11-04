@@ -1,0 +1,16 @@
+{
+	"category" : "OB-Refactory-Lint",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"PaneCount" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"environment",
+		"process",
+		"status" ],
+	"name" : "ORLintBrowser",
+	"pools" : [
+		 ],
+	"super" : "OBBrowser",
+	"type" : "normal" }

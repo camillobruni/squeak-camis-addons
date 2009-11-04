@@ -1,0 +1,14 @@
+{
+	"category" : "OB-Refactory-Browsers",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"browserEnvironment" ],
+	"name" : "OREnvironmentNode",
+	"pools" : [
+		 ],
+	"super" : "OBEnvironmentNode",
+	"type" : "normal" }

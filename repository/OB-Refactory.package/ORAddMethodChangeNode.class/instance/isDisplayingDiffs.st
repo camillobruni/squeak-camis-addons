@@ -1,0 +1,3 @@
+testing
+isDisplayingDiffs
+	^ ORChangesBrowser isDisplayingDiffs

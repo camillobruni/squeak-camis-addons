@@ -1,0 +1,22 @@
+{
+	"class" : {
+		"onEnvironment:" : "lr 2/10/2008 13:01" },
+	"instance" : {
+		"browserEnvironment" : "lr 2/10/2008 13:00",
+		"classCategories" : "lr 2/12/2009 20:45",
+		"classProtocols" : "lr 2/12/2009 21:54",
+		"classVariables" : "lr 7/3/2009 21:40",
+		"classes" : "lr 2/12/2009 21:54",
+		"comments" : "lr 3/8/2009 15:55",
+		"environments" : "lr 3/5/2009 20:45",
+		"instanceVariables" : "lr 3/8/2009 18:47",
+		"metaclassProtocols" : "lr 2/12/2009 21:54",
+		"metaclasses" : "lr 2/12/2009 21:54",
+		"methods" : "lr 2/11/2008 22:10",
+		"name" : "lr 2/11/2008 22:09",
+		"packageCategories" : "lr 2/12/2009 21:55",
+		"packageExtensionCategory" : "lr 11/11/2008 13:44",
+		"protocols" : "lr 2/12/2009 21:56",
+		"selectorEnvironment" : "lr 2/10/2008 13:30",
+		"setBrowserEnvironment:" : "lr 2/10/2008 13:00",
+		"text" : "lr 2/8/2009 10:33" } }

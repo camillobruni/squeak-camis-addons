@@ -1,0 +1,14 @@
+{
+	"category" : "OB-Refactory-Tools",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ORPrettyPrintCodeRefactoring",
+	"pools" : [
+		 ],
+	"super" : "Refactoring",
+	"type" : "normal" }

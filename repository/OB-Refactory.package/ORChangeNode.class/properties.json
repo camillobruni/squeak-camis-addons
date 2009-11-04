@@ -1,0 +1,15 @@
+{
+	"category" : "OB-Refactory-Changes",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"change",
+		"parent" ],
+	"name" : "ORChangeNode",
+	"pools" : [
+		 ],
+	"super" : "OBCodeNode",
+	"type" : "normal" }
