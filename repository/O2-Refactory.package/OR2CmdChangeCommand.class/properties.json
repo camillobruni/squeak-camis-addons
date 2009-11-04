@@ -1,0 +1,14 @@
+{
+	"category" : "O2-Refactory-Changes",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "OR2CmdChangeCommand",
+	"pools" : [
+		 ],
+	"super" : "OR2Command",
+	"type" : "normal" }

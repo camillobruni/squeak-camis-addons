@@ -1,0 +1,14 @@
+{
+	"category" : "O2-Refactory-Commands",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "OR2CmdOpenLint",
+	"pools" : [
+		 ],
+	"super" : "OR2CmdOpen",
+	"type" : "normal" }

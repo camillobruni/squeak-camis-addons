@@ -1,0 +1,25 @@
+{
+	"class" : {
+		"defaultMetaNode" : "DavidRoethlisberger 9/8/2009 23:44",
+		"defaultRootNode" : "DavidRoethlisberger 9/11/2009 15:05",
+		"openRule:" : "lr 2/23/2009 23:57",
+		"openRule:environment:" : "lr 2/7/2008 14:37",
+		"paneCount" : "lr 2/8/2008 09:49",
+		"panesFor:level:" : "lr 2/8/2008 09:56",
+		"rule:" : "lr 2/7/2008 14:20",
+		"rule:environment:" : "DavidRoethlisberger 9/11/2009 15:05",
+		"titleForRoot:" : "lr 6/6/2008 16:58" },
+	"instance" : {
+		"basicSearch:" : "lr 7/3/2009 21:22",
+		"cmdCommands" : "DavidRoethlisberger 9/8/2009 23:44",
+		"defaultBackgroundColor" : "lr 3/25/2008 20:41",
+		"defaultLabel" : "lr 3/1/2009 08:44",
+		"environment" : "lr 2/7/2008 14:21",
+		"environment:" : "lr 10/22/2008 14:08",
+		"isSearching" : "lr 5/29/2008 14:35",
+		"refresh" : "lr 7/16/2009 09:34",
+		"rule" : "lr 11/11/2008 21:41",
+		"search:" : "lr 1/25/2009 15:24",
+		"setMetaNode:node:" : "lr 1/25/2009 15:22",
+		"status:" : "lr 11/11/2008 21:56",
+		"windowIsClosing" : "lr 5/29/2008 14:46" } }

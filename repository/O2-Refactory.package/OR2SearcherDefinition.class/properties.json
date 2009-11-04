@@ -1,0 +1,15 @@
+{
+	"category" : "O2-Refactory-Matcher",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"environment",
+		"text" ],
+	"name" : "OR2SearcherDefinition",
+	"pools" : [
+		 ],
+	"super" : "O2Definition",
+	"type" : "normal" }

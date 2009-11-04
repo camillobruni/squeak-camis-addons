@@ -1,0 +1,9 @@
+{
+	"class" : {
+		"model:swapMethod:in:" : "lr 4/5/2007 08:48",
+		"swapMethod:in:" : "lr 4/5/2007 08:48" },
+	"instance" : {
+		"checkInstVars" : "lr 2/10/2008 09:57",
+		"preconditions" : "lr 3/13/2008 08:06",
+		"swapMethod:in:" : "lr 4/5/2007 08:53",
+		"transform" : "lr 4/5/2007 09:00" } }

@@ -1,0 +1,14 @@
+{
+	"category" : "O2-Refactory-Lint",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "OR2CmdImplementor",
+	"pools" : [
+		 ],
+	"super" : "OR2CmdLintCommand",
+	"type" : "normal" }

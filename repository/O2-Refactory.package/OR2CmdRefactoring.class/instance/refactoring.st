@@ -1,0 +1,3 @@
+accessing
+refactoring
+	self subclassResponsibility

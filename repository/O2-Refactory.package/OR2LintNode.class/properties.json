@@ -1,0 +1,15 @@
+{
+	"category" : "O2-Refactory-Lint",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"rule",
+		"problemCount" ],
+	"name" : "OR2LintNode",
+	"pools" : [
+		 ],
+	"super" : "O2Node",
+	"type" : "normal" }

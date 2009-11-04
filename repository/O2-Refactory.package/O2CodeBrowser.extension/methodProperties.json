@@ -1,0 +1,16 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"cmdClassRefactroings" : "DavidRoethlisberger 9/8/2009 23:50",
+		"cmdClassVarRefactroings" : "DavidRoethlisberger 9/8/2009 23:50",
+		"cmdEnvironments" : "DavidRoethlisberger 9/8/2009 23:50",
+		"cmdInstVarRefactroings" : "DavidRoethlisberger 9/8/2009 23:50",
+		"cmdMethodRefactroings" : "DavidRoethlisberger 9/8/2009 23:50",
+		"cmdOpen" : "DavidRoethlisberger 9/8/2009 23:50",
+		"cmdPrettyPrint" : "DavidRoethlisberger 9/8/2009 23:50",
+		"cmdPrettyPrintAll" : "DavidRoethlisberger 9/8/2009 23:50",
+		"cmdRecompile" : "DavidRoethlisberger 9/8/2009 23:50",
+		"cmdRefactoryTools" : "DavidRoethlisberger 9/8/2009 23:50",
+		"cmdSourceRefactroings" : "DavidRoethlisberger 9/8/2009 23:50",
+		"environment" : "DavidRoethlisberger 9/8/2009 23:50" } }

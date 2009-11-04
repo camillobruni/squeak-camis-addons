@@ -1,0 +1,14 @@
+{
+	"category" : "O2-Refactory-Changes",
+	"classinstvars" : [
+		"displayDiffs" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "OR2ChangesBrowser",
+	"pools" : [
+		 ],
+	"super" : "O2Browser",
+	"type" : "normal" }

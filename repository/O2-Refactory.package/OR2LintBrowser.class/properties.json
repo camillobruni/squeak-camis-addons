@@ -1,0 +1,16 @@
+{
+	"category" : "O2-Refactory-Lint",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"PaneCount" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"environment",
+		"process",
+		"status" ],
+	"name" : "OR2LintBrowser",
+	"pools" : [
+		 ],
+	"super" : "O2Browser",
+	"type" : "normal" }

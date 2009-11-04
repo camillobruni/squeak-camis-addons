@@ -1,0 +1,3 @@
+configuration
+defaultRootNode
+	^ RBCompositeLintRule lintChecks asO2Node

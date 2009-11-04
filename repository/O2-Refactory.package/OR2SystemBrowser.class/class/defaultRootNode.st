@@ -1,0 +1,3 @@
+configuration
+defaultRootNode
+	^ OR2EnvironmentNode onEnvironment: BrowserEnvironment new

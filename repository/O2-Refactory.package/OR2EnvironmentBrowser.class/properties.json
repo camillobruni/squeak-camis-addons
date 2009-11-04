@@ -1,0 +1,14 @@
+{
+	"category" : "O2-Refactory-Browsers",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "OR2EnvironmentBrowser",
+	"pools" : [
+		 ],
+	"super" : "O2CodeBrowser",
+	"type" : "normal" }

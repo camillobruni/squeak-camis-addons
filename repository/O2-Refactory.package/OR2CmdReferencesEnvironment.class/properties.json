@@ -1,0 +1,14 @@
+{
+	"category" : "O2-Refactory-Commands",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "OR2CmdReferencesEnvironment",
+	"pools" : [
+		 ],
+	"super" : "OR2CmdEnvironment",
+	"type" : "normal" }

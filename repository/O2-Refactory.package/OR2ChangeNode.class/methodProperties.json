@@ -1,0 +1,21 @@
+{
+	"class" : {
+		"on:" : "lr 2/7/2008 18:15" },
+	"instance" : {
+		"add:to:" : "DavidRoethlisberger 9/11/2009 15:04",
+		"browse" : "lr 1/31/2009 00:18",
+		"change" : "lr 2/7/2008 18:16",
+		"changes" : "lr 3/19/2008 16:48",
+		"doItReceiver" : "lr 1/31/2009 00:04",
+		"indent" : "lr 3/19/2008 16:57",
+		"indentedName" : "lr 3/19/2008 16:57",
+		"initializeOn:" : "lr 3/12/2008 09:15",
+		"level" : "lr 3/19/2008 16:57",
+		"name" : "lr 3/19/2008 16:51",
+		"parent" : "dc 3/13/2008 17:55",
+		"postCopy" : "lr 3/12/2008 10:09",
+		"remove" : "lr 3/12/2008 10:02",
+		"remove:" : "lr 3/12/2008 10:08",
+		"setParent:" : "lr 3/12/2008 09:14",
+		"text" : "lr 2/8/2008 09:33",
+		"theClass" : "lr 1/31/2009 00:03" } }

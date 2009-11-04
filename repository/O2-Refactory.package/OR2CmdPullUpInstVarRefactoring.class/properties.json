@@ -1,0 +1,14 @@
+{
+	"category" : "O2-Refactory-Refactoring",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "OR2CmdPullUpInstVarRefactoring",
+	"pools" : [
+		 ],
+	"super" : "OR2CmdInstVarRefactoring",
+	"type" : "normal" }

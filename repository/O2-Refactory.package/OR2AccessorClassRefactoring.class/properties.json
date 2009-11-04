@@ -1,0 +1,14 @@
+{
+	"category" : "O2-Refactory-Tools",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "OR2AccessorClassRefactoring",
+	"pools" : [
+		 ],
+	"super" : "ClassRefactoring",
+	"type" : "normal" }

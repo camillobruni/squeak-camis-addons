@@ -1,0 +1,14 @@
+{
+	"category" : "O2-Refactory-Refactoring",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "OR2CmdRemoveMethodRefactoring",
+	"pools" : [
+		 ],
+	"super" : "OR2CmdMethodRefactoring",
+	"type" : "normal" }

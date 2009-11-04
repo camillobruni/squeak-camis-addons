@@ -1,0 +1,7 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"preconditions" : "lr 1/7/2008 00:10",
+		"refactorings" : "lr 11/30/2007 09:18",
+		"transform" : "lr 11/30/2007 09:13" } }

@@ -1,0 +1,14 @@
+{
+	"category" : "O2-Refactory-Commands",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "OR2CmdRecompile",
+	"pools" : [
+		 ],
+	"super" : "OR2Command",
+	"type" : "normal" }

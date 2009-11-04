@@ -1,0 +1,15 @@
+{
+	"category" : "O2-Refactory-Tools",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "lr 10/19/2007 09:16",
+	"instvars" : [
+		"target",
+		"selector" ],
+	"name" : "OR2SwapMethodRefactoring",
+	"pools" : [
+		 ],
+	"super" : "MethodRefactoring",
+	"type" : "normal" }

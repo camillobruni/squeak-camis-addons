@@ -1,0 +1,15 @@
+{
+	"category" : "O2-Refactory-Changes",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"change",
+		"parent" ],
+	"name" : "OR2ChangeNode",
+	"pools" : [
+		 ],
+	"super" : "O2CodeNode",
+	"type" : "normal" }
