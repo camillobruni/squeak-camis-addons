@@ -1,0 +1,1 @@
+I represent a special type of Paragraph that is used in the list panes of a browser.  I  avoid all the composition done by more general Paragraphs, because I know the structure of my Text.

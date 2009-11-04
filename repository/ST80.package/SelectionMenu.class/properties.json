@@ -1,0 +1,14 @@
+{
+	"category" : "ST80-Menus",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"selections" ],
+	"name" : "SelectionMenu",
+	"pools" : [
+		 ],
+	"super" : "PopUpMenu",
+	"type" : "normal" }

@@ -1,0 +1,4 @@
+initialization
+leftFlush
+
+	MenuStyle leftFlush

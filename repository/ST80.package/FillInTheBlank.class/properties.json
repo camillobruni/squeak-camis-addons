@@ -1,0 +1,16 @@
+{
+	"category" : "ST80-Menus",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"acceptOnCR",
+		"done",
+		"responseUponCancel" ],
+	"name" : "FillInTheBlank",
+	"pools" : [
+		 ],
+	"super" : "StringHolder",
+	"type" : "normal" }

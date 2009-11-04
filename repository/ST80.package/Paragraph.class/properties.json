@@ -1,0 +1,21 @@
+{
+	"category" : "ST80-Support",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"clippingRectangle",
+		"compositionRectangle",
+		"destinationForm",
+		"rule",
+		"mask",
+		"marginTabsLevel",
+		"lines",
+		"lastLine" ],
+	"name" : "Paragraph",
+	"pools" : [
+		"TextConstants" ],
+	"super" : "DisplayText",
+	"type" : "normal" }

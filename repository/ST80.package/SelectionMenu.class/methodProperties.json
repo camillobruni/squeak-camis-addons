@@ -1,0 +1,18 @@
+{
+	"class" : {
+		"fromArray:" : "alain.plantec 2/9/2009 15:20",
+		"labelList:" : "sma 5/28/2000 16:04",
+		"labelList:lines:" : "sma 5/28/2000 16:04",
+		"labelList:lines:selections:" : "sma 5/28/2000 16:04",
+		"labelList:selections:" : "sma 5/28/2000 16:04",
+		"labels:lines:" : "alain.plantec 2/9/2009 14:51",
+		"labels:lines:selections:" : "alain.plantec 2/9/2009 14:52",
+		"labels:selections:" : "sma 5/28/2000 16:10",
+		"selections:" : "sma 5/28/2000 16:10",
+		"selections:lines:" : "sma 5/28/2000 16:10" },
+	"instance" : {
+		"invokeOn:" : "alain.plantec 2/9/2009 14:43",
+		"invokeOn:orSendTo:" : "alain.plantec 2/9/2009 14:46",
+		"selections" : "sma 5/28/2000 11:38",
+		"selections:" : "alain.plantec 2/9/2009 14:44",
+		"startUpWithCaption:icon:at:allowKeyboard:" : "alain.plantec 2/9/2009 15:25" } }

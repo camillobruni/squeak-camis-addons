@@ -1,0 +1,19 @@
+{
+	"category" : "ST80-Menus",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"labels",
+		"dividers",
+		"lastDivider",
+		"title",
+		"targets",
+		"arguments" ],
+	"name" : "CustomMenu",
+	"pools" : [
+		 ],
+	"super" : "SelectionMenu",
+	"type" : "normal" }

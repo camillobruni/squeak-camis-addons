@@ -1,0 +1,14 @@
+{
+	"category" : "ST80-Support",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"ListStyle" ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "ListParagraph",
+	"pools" : [
+		 ],
+	"super" : "Paragraph",
+	"type" : "normal" }

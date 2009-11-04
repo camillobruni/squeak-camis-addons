@@ -1,0 +1,4 @@
+initialization
+alignment
+
+	^ MenuStyle alignment
