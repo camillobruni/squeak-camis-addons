@@ -1,0 +1,26 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"adoptMessageInCurrentChangeset" : "marcus.denker 11/10/2008 10:04",
+		"annotations" : "nk 11/10/2003 22:01",
+		"browseFullProtocol" : "sd 5/10/2008 17:31",
+		"browseMessages" : "nk 11/10/2003 21:26",
+		"browseMethodFull" : "stephaneducasse 2/4/2006 20:47",
+		"browseSendersOfMessages" : "nk 11/10/2003 20:54",
+		"browseVersions" : "stephaneducasse 2/4/2006 20:47",
+		"classHierarchy" : "nk 7/30/2004 17:56",
+		"classListMenu:" : "nk 6/12/2004 14:01",
+		"copySelector" : "stephaneducasse 2/4/2006 20:47",
+		"fileOutMessage" : "nk 11/10/2003 20:55",
+		"findMethodInChangeSets" : "stephaneducasse 2/4/2006 20:47",
+		"methodHierarchy" : "nk 7/30/2004 17:56",
+		"methodListKey:from:" : "nk 2/16/2004 17:00",
+		"methodListMenu:" : "md 4/30/2008 15:39",
+		"openSingleMessageBrowser" : "stephaneducasse 2/4/2006 20:47",
+		"perform:orSendTo:" : "nk 11/10/2003 20:55",
+		"removeFromCurrentChanges" : "nk 11/10/2003 21:00",
+		"selectedClass" : "nk 11/10/2003 22:02",
+		"selectedClassOrMetaClass" : "nk 11/10/2003 22:02",
+		"selectedMessageCategoryName" : "nk 11/10/2003 22:02",
+		"selectedMessageName" : "nk 11/10/2003 22:02" } }

@@ -1,0 +1,3 @@
+*MonticelloGUI
+openMonticelloConfigurations
+	MCConfigurationBrowser open
