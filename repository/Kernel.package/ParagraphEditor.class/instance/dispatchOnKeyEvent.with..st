@@ -22,7 +22,7 @@ dispatchOnKeyEvent: keyEvent with: typeAheadStream
 		and: [keyChar = Character enter])
 		ifTrue: [^ self dispatchOnEnterWith: typeAheadStream].
 		
-	keyValue < 256 ifTrue: [	"none of the following is safe if the character's asciiValue is out of the 0..255 range"
+	(0 <= keyValue and: [keyValue < 256]) ifTrue: [	"none of the following is safe if the character's asciiValue is out of the 0..255 range"
 		
 	"Special keys overwrite crtl+key combinations - at least on Windows. To resolve this
 	conflict, assume that keys other than cursor keys aren't used together with Crtl." 

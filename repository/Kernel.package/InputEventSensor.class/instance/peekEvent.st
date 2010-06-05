@@ -3,5 +3,5 @@ peekEvent
 	"Look ahead at the next event."
 	| nextEvent |
 	nextEvent := eventQueue peek.
-	^nextEvent
-		ifNotNil: [self processEvent: nextEvent]
+	^((nextEvent notNil) and: [(nextEvent at: 1) ~= EventTypeMenu])
+		ifTrue: [self processEvent: nextEvent]

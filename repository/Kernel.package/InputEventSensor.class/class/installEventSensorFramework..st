@@ -5,10 +5,10 @@ installEventSensorFramework: fetcherClass
 
 	| newSensor |
 	"Do some extra cleanup"
-	{InputEventFetcher. InputEventPollingFetcher. InputSensor. }
-		do: [:oldSensorClass |
-			Smalltalk removeFromShutDownList: oldSensorClass.
-			Smalltalk removeFromStartUpList: oldSensorClass].
+	#(InputEventFetcher InputEventPollingFetcher InputSensor) do: [ :each |
+		Smalltalk at: each ifPresent: [ :class |
+			Smalltalk removeFromShutDownList: class.
+			Smalltalk removeFromStartUpList: class] ].
 
 	InputEventFetcher deinstall.
 
@@ -21,8 +21,9 @@ installEventSensorFramework: fetcherClass
 	Smalltalk removeFromShutDownList: Sensor class.
 	Smalltalk removeFromStartUpList: Sensor class.
 
-	(Preferences allPreferenceObjects select: [:pref | pref changeInformee = InputSensor])
-		do: [:pref | pref changeInformee: newSensor class].
+	Smalltalk at: #InputSensor ifPresent: [ :oldclass |
+		(Preferences allPreferenceObjects select: [:pref | pref changeInformee = oldclass])
+			do: [:pref | pref changeInformee: newSensor class] ].
 	(Preferences allPreferenceObjects select: [:pref | pref changeInformee = Sensor class])
 		do: [:pref | pref changeInformee: newSensor class].
 

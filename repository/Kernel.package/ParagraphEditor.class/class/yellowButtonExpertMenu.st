@@ -6,7 +6,6 @@ yellowButtonExpertMenu
 			{'inspect it (i)' translated.				#inspectIt}.
 			{'explore it (I)' translated.				#exploreIt}.
 			{'debug it (D)' translated.				#debugIt}.
-			{'hierarchy of it (h)' translated.			 #hierarchyOfIt}.
 			{'profile it' translated.						#tallyIt}.
 		     {'watch it' translated.					#watchIt}.	 
 		    	 
