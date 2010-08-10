@@ -10,7 +10,7 @@ After the menu is constructed, it may be invoked with one of the following messa
 
 I am a subclass of ActionMenu, so I inherit a number of instance variables. The ones I am particularly concerned with are:
 
-	items _ an OrderedCollection of strings to appear in the menu
-	selectors _ an OrderedCollection of Symbols to be used as message selectors
-	lineArray _ an OrderedCollection of line positions
-	lastLine _ used to keep track of the last line to avoid making duplicate entries in lineArray
+	items := an OrderedCollection of strings to appear in the menu
+	selectors := an OrderedCollection of Symbols to be used as message selectors
+	lineArray := an OrderedCollection of line positions
+	lastLine := used to keep track of the last line to avoid making duplicate entries in lineArray

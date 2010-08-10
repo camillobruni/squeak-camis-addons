@@ -9,4 +9,4 @@ startUpWithCaption: captionOrNil icon: aForm at: location
 			startUpWithCaption: captionOrNil
 			icon: aForm
 			at: location
-			allowKeyboard: Preferences menuKeyboardControl
+			allowKeyboard: self menuKeyboardControl

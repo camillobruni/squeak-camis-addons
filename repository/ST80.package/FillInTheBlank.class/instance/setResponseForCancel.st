@@ -1,3 +1,0 @@
-accessing
-setResponseForCancel
-	self contents: responseUponCancel

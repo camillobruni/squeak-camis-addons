@@ -5,4 +5,4 @@ startUpWithCaption: captionOrNil at: location
 	answer the index of the current selection, or zero if the mouse is not released over 
 	any menu item. Location specifies the desired topLeft of the menu body rectangle."
 
-		^ self startUpWithCaption: captionOrNil at: location allowKeyboard: Preferences menuKeyboardControl
+		^ self startUpWithCaption: captionOrNil at: location allowKeyboard: self menuKeyboardControl

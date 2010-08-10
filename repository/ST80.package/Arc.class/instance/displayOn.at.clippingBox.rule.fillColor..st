@@ -1,7 +1,7 @@
 displaying
 displayOn: aDisplayMedium at: aPoint clippingBox: clipRect rule: anInteger fillColor: aForm
 
-	| nSegments line angle sin cos xn yn xn1 yn1 |
+	| nSegments line angle sin cos xn yn |
 	nSegments := 12.0.
 	line := Line new.
 	line form: self form.
@@ -26,7 +26,7 @@ displayOn: aDisplayMedium at: aPoint clippingBox: clipRect rule: anInteger fillC
 			yn := radius asFloat].
 	nSegments asInteger
 		timesRepeat: 
-			[xn1 := xn * cos + (yn * sin).
+			[ | xn1 yn1 |xn1 := xn * cos + (yn * sin).
 			yn1 := yn * cos - (xn * sin).
 			line beginPoint: center + (xn asInteger @ yn asInteger).
 			line endPoint: center + (xn1 asInteger @ yn1 asInteger).

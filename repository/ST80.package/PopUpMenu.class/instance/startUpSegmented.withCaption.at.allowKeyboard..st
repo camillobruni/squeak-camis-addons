@@ -10,7 +10,7 @@ startUpSegmented: segmentHeight withCaption: captionOrNil at: location allowKeyb
 	"
 	| nLines nLinesPer allLabels from to subset subLines index |
 	frame ifNil: [self computeForm].
-	allLabels := labelString findTokens: Character cr asString.
+	allLabels := labelString lines.
 	nLines := allLabels size.
 	lineArray ifNil: [lineArray := Array new].
 	nLinesPer := segmentHeight // marker height - 3.

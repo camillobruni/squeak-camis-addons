@@ -5,7 +5,7 @@ labels: labelList lines: linesArray selections: selectionsArray
 
 	| labelArray |
 	labelList isString
-		ifTrue: [labelArray := labelList findTokens: String cr]
+		ifTrue: [labelArray := labelList lines]
 		ifFalse: [labelArray := labelList].
 	1 to: labelArray size do: [:i |
 		self add: (labelArray at: i) action: (selectionsArray at: i).

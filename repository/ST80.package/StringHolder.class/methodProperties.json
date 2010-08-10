@@ -1,15 +1,15 @@
 {
 	"class" : {
-		"initialize" : "",
-		"open" : "ar 9/27/2005 20:48",
+		"open" : "lr 3/14/2010 21:13",
 		"openLabel:" : "wiz 1/3/2007 14:23",
-		"windowColorSpecification" : "sw 2/26/2002 14:44" },
+		"patchworkUIThemeColor" : "AlainPlantec 12/16/2009 22:10" },
 	"instance" : {
 		"acceptContents:" : "di 5/19/1998 15:34",
 		"buildWith:" : "ar 2/11/2005 20:36",
 		"classCommentIndicated" : "nk 4/29/2004 12:32",
 		"clearUserEditFlag" : "di 4/21/1998 11:30",
 		"codePaneMenu:shifted:" : "dgd 10/1/2004 13:43",
+		"codeTextMorph" : "rr 3/15/2004 09:17",
 		"contents" : "",
 		"contents:" : "AlexandreBergel 1/16/2009 10:25",
 		"contentsSelection" : "tk 4/3/98 22:50",
@@ -20,10 +20,9 @@
 		"embeddedInMorphicWindowLabeled:wrap:" : "jmv 5/10/2009 09:42",
 		"initialize" : "alain.plantec 5/28/2009 11:07",
 		"noteAcceptanceOfCodeFor:" : "sw 12/9/2000 23:59",
-		"okToChange" : "TestRunner 11/2/2009 18:01",
+		"okToChange" : "tk 4/13/1998 23:07",
 		"openAsMorphLabel:" : "wiz 1/3/2007 14:27",
 		"openLabel:" : "jmv 5/10/2009 09:21",
-		"openLabel:andTerminate:" : "alain.plantec 6/1/2008 20:36",
 		"openLabel:wrap:" : "jmv 5/10/2009 09:37",
 		"perform:orSendTo:" : "AlexandreBergel 1/16/2009 10:37",
 		"reformulateList" : "sw 12/1/2000 11:04",
@@ -31,7 +30,4 @@
 		"selectedClassName" : "tk 4/18/1998 14:59",
 		"selectedClassOrMetaClass" : "tk 4/18/1998 15:01",
 		"selectedMessageName" : "tk 4/18/1998 15:22",
-		"showBytecodes" : "tk 4/6/98 11:43",
-		"textContents:" : "AlexandreBergel 1/16/2009 10:24",
-		"wantsAnnotationPane" : "sw 1/24/2001 21:25",
-		"wantsOptionalButtons" : "sw 1/24/2001 18:57" } }
+		"textContents:" : "AlexandreBergel 1/16/2009 10:24" } }

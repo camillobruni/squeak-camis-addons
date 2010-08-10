@@ -3,7 +3,7 @@ menuMorphWithTitle: titleStringOrNil
 	"Answer a MenuMorph constructed from self
 	The menu is build so that it is forced to return 
 	the current selection value when an item is selected"
-	| menu items lines allSelections j emphasis |
+	| menu items lines allSelections j |
 	menu := MenuMorph new.
 	titleStringOrNil isEmptyOrNil ifFalse: [menu addTitle: titleStringOrNil].
 	labelString := self labelString.
@@ -12,7 +12,7 @@ menuMorphWithTitle: titleStringOrNil
 		ifTrue: ["Pass along text emphasis if present"
 			j := 1.
 			items := items
-						collect: [:item | 
+						collect: [:item | | emphasis | 
 							j := self labelString asString findString: item startingAt: j.
 							emphasis := TextEmphasis new emphasisCode: (self labelString emphasisAt: j).
 							item asText addAttribute: emphasis]].
